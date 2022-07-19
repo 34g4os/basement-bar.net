@@ -20,7 +20,7 @@ title="Winegard RV-WING Wingman UHF RV TV Antenna Booster for the Winegard Sensa
 img="https://m.media-amazon.com/images/I/31mIHOoEsbL._SL500_.jpg"
 description="Increases UHF Reception Up To 100% - Optimizes your Sensar Batwing RV TV antenna for all digital channels in all markets. RV Antenna Leader for 30 Years - The increased range and VHF capabilities of the Sensar allow you to watch your favorite shows in the lowest signal areas. Easy Installation - Attaches to your existing Sensar batwing RV antenna head. Installs in minutes with no tools required. Free TV Programming - Free ota programming has more options and more channels than ever before. Watch local news and weather, live sports, and all the top-rated shows for free. Winegard Antenna Experts - Leading US designer and manufacturer of quality TV antenna and signal reception equipment since 1954. Designed and built in the U.S.A. UHF (Ultra High Frequency): Provides channels 14-51 in the frequency range 470-698 MHz"
 asin="B001U2DPUE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="3320"
 >}} 
 {{< product 
@@ -28,7 +28,7 @@ title="weBoost Drive Reach RV - Cell Phone Signal Booster kit | Boosts 4G LTE & 
 img="https://m.media-amazon.com/images/I/41SK0sydl6L._SL500_.jpg"
 description="POWERFUL RV BOOSTER — The weBoost Drive Reach RV powerfully boosts signal for fewer dropped calls, better voice quality, faster data speeds, increased hotspot capability, and improved audio and video streaming on the road and while parked, even in remote areas CARRIER COMPATIBILITY — With multi-user functionality, every passenger can enjoy stronger cell signals from all U.S. networks and carriers; including Verizon, AT&T, Sprint, T-Mobile, U.S. Cellular, and more COVERAGE FOR MOTORIZED AND TOWABLE RVS — Designed to enhance signal coverage for all RVs with an omnidirectional, 7.5” antenna, a ladder mount, mast extension, and side exit adapter ALL-TERRAIN, ALL-WEATHER TOUGH — The outside antenna meets current U.S military and NEMA IP66 standards, meaning it can withstand extreme shaking while being protected from dust, oil, and water 5G COMPATIBLE--All weBoost products continue to support the latest in 5G technology, working seamlessly within a 5G network to deliver the best cell signal possible"
 asin="B08L9SG331"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -36,7 +36,7 @@ title="HiBoost Cell Signal Booster for RV, Boosts 4G 5G LTE Signal, All U.S. Car
 img="https://m.media-amazon.com/images/I/41EMwwef4lL._SL500_.jpg"
 description="🚌【Powerful Cell Phone Booster for RV, Camper, or Trailer】HiBoost recreational vehicle cell phone signal booster powerfully boosts signal for fewer dropped calls, better voice quality, faster data speeds, stronger hotspot capability, and improved audio and video streaming on the road and while parked, even in remote areas. 🚌【All Carriers Compatibility】Improve Cell Phone Signal on any type of cellular device. HiBoost RV Cell Signal Booster will support multiple users on any network, such as AT&T, T-Mobile, Verizon, Sprint and US Cellular.(Including Band 12 / Band 13 / Band 5 / Band 25-2 / Band 4 ) 🚌【Quick & Easy Cell Booster Installation】 Includes a user-friendly guide to help ensure quick, easy, and hassle-free setup without tool in any type of RV, Camper, or Trailer. No technical experience or extra cost required. 🚌【Remote Monitoring with APP】HiBoost’s exclusive cloud-based Signal Supervisor App allows users to monitor the live status of HiBoost cell phone signal boosters remotely from a mobile device anywhere at any time. Reminder: Samsung S21 Ultra are not compatible with APP. 🚌【FCC APPROVED & Nice Customer Sevice】FCC & IC Certified, FCC certification number: OWWC110505S.HiBoost provides U.S.-based tech-support-online app chat, phone and email. Contact us anytime anywhere if you need a service. Safe to use with 3-Years Warranty. 🚌【Multi-power Supplies-Vehicle Charger via DC Power Adapter or Portable Charger via USB Type C】The RV signal booster for cell phone can also be powered by portable charger with USB Type C. (For reference: the cell signal booster can work for 24 hours if it is powered by the 20000mAh portable charger.) You can still make calls via the portable charger when the power of your vehicle is interrupted. Reminder: Portable Charger and USB Type C cable are not included in the Booster Kit. 🚌【Three-proof Designed Outside Omni-Directional Antenna】The unique outside antenna of the cell phone booster is designed with special techniques which can withstand extreme shaking while being protected from dust, oil, and water."
 asin="B09BCVJP2C"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="103"
 >}} 
 {{< product 
@@ -44,7 +44,7 @@ title="SolidRF-Vehicle Cell Phone Signal Booster for RV Truck-Compatible with Al
 img="https://m.media-amazon.com/images/I/41SCRRSjpZL._SL500_.jpg"
 description="【BETTER SIGNAL】SoildRF powerful signal booster for RV truck vehicle. The maximum communication distance of the booster can reach 5-8 miles. Enhanced the cell phone booster up to 100X for fewer dropped calls, better voice quality, faster data speeds, increased hotspot capability, improved audio and video streaming on the road and while parked, even in remote areas. 【All CARRIERS COMPATIBILITY】Cell phone signal booster with multi-user functionality, every passenger can enjoy stronger cell phone signals from all U.S. networks and carriers; compatible with Verizon, AT&T, Sprint, T-Mobile, U.S. Cellular, etc. 5G Ready. 【RESISTS THE HARSH EXTERNAL ENVIRONMENT】The unique outside antenna design of the cell booster can cope with various extreme external environments and withstand extreme shaking while being protected from dust, oil, and water. 【EASY INSTALLATION】The cellular amplifier is easy to install, no technical experience or extra cost is required, all components and 12VDC power cord can be installed quickly by one person according to the manual. 【FCC APPROVED】The booster is compliant with the requirements of the standards applied. FCC authentication certificate ID:A7VSR75502001, HVIN:SR75502001D. Approved to operate on frequency bands 13, 12/17, 5, 4, 2/25, without interrupting or harming any cell carriers  signals to and from the cell tower. Any installation and use problems can contact us without any worries."
 asin="B09BTLMWPJ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="272"
 >}} 
 {{< product 
@@ -52,7 +52,7 @@ title="SuperBars RV Cell Phone Booster and Signal Amplifier ,with Bendable Anten
 img="https://m.media-amazon.com/images/I/41IWdcKNEaL._SL500_.jpg"
 description="【Powerful Signal Improvement】The signal booster works for increased signal quality and covers truck, rv, suv, camping, Pickup trucks. Support 2G, 3G, 4G and 5G compatible to improve data speed. Even in remote areas, cell signal booster can provide better voice quality, faster mobile internet, improved audio and video streaming, and greater hotspot capability. 【All Carriers Compatible】Using SuperBars signal booster, every customer can enjoy stronger cell signal from Verizon, AT&T, Sprint, T-Mobile, U.S. Cellular and all carriers. Improve all bands of 700-750MHz (band 12,13,17),800-850MHz (band 5,26),1900MHz (band 2,25) and 1700~2100MHz (band 4,66). 【Fine Tune MAX Gain】Most truck cell phone booster has you pretty much working in the blind, no figures you can see but guess. SuperBars App help fine tune max gain and see how strong the gain is on vehicle cell phone booster. Even 1dB more gain is precious when you drive to remote areas. Reminder: Samsung S21 Ultra are not compatible with APP. 【Multi-power Supplies】The truck signal booster for cell phone can be powered by portable charger with Type C. The 20000mAh allows the cell booster to work 24 hours. You can still make calls when the power of your vehicle is interrupted. Reminder: portable charger is not included in the box. 【Quality Assurance】FCC & IC Certified, FCC certification number: OWWC110505S. 3 years warranty. Can withstand extreme shaking while being protected from dust, oil, and water.SuperBars provides U.S.-based tech-support-online app chat, phone and email. Contact us anytime anywhere if you need a service."
 asin="B09CTTM6CC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="29"
 >}} 
 ## Is a TV amplifier the same as a TV booster?

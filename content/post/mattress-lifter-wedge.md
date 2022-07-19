@@ -25,7 +25,7 @@ title="Bed Maker Kit - Mattress Wedge Elevator, Easy to Use Mattress Lifter With
 img="https://m.media-amazon.com/images/I/31qNoh-1LwL._SL500_.jpg"
 description="🛏【Unique Mattress Lifter Design】- Alleviates neck and back pain with an ergonomic design that effortlessly lifts the mattress 4-5 inches as it is inserted between the mattress and box springs, No more need of a partner when making the bed! yihemol 🛏【Mattress Elevator】- With the 2 tools inserted you have both hands available to make the bed and bed skirts, It lifts the mattress as it slides in and holds the mattress in a raised position eliminating repeated lifting while changing linens or making the bed. It makes placing bed skirts so easy! 🛏【Bed Mattress Tuck Accessories】- You ll find that bed making has never been easier. This handy tool does all the lifting! It allows you to quickly tuck in sheets, remove bed linens and placing a bed skirt has never been easier. Bed sheet tuck, adjusting grasp it at a natural wrist position, which provides comfort, strength and the transfer of energy. Just slide in need height under mattress. Use the Bed Mattress Lifter to tuck in your linens or smooth the sheets. 🛏【More Time Doing What You Love】- Can t changing linens or making the bed at home alone or take longer? Start a Good Habit: Make Your Bed The Easy Way.With the Mattress Wedge Elevator making your bed can be quick and easy, giving you more time and energy to do what you enjoy most. 🛏【Perfect Gift】- Excellent housekeeping gift Idea for your family and for your loved ones. This mattress lifter is not only a perfect tool, but also a great choice as a gift for Mother s Day, Thanksgiving, Christmas, Birthday, Housewarming Gifts."
 asin="B09YYFWYZR"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="9"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Bed MadeEZ Bed Maker and Mattress Lifter"
 img="https://m.media-amazon.com/images/I/41YKuk7aiqL._SL500_.jpg"
 description="Effortlessly lift your mattress and allows for easier maneuvering around night stands, headboards and side walls. Can quickly tuck in sheets Has an ergonomic design that allows you to grip it at a choice of positions and eliminates repeated lifting and strain that occurs. The MadeEZ slides between the mattress and box springs to lift your mattress 4-5 inches OSHA recommends to reduce fatigue and injury, lost workdays, potential OSHA fines, and workers’ compensation claims Patented and Made in the USA Important| For a Bed MadeEZ to work, the bottom of your mattress can’t sit below the frame. It must sit atop a boxspring or flush and flat atop whatever base is used. Platform beds with a lip will also not work. Check your configuration before purchasing"
 asin="B079XC9TX3"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="116"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Mattress Lifter Ergonomic Mattress Wedge Elevator - Ideal Wedge Mattress 
 img="https://m.media-amazon.com/images/I/41T5xHkeyvL._SL500_.jpg"
 description="Strong & Durable: The wedge mattress lifter is a safety tool that alleviates strain to the back, neck and shoulders with an ergonomic design that inserts effortlessly between the mattress and box spring. Handy Tool : It lifts the mattress as it slides in and holds the mattress in a raised position, eliminating repeated lifting while making the bed. It allows you to quickly tuck in sheeets, remove bed linens. Alleviate Back Pain: The mattress lifter alleviates neck and back pain with an ergonomic design that effortlessly lifts the mattress and leaving both hands free to make the bed. The handy tool does all the liftin. Comfortable Holding: Curved handle allows the user to grip the mattress lifter at a natural wrist position providing greater comfort, strength and transfer of energy, allowing you to grip it at a choice of positions. The inclined wedge design separates and lifts the mattress 4°-5° as it slides in, reducing body strain incurred with the twist and lift motion on each corner of the mattress."
 asin="B09YYQKWZX"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="9"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="MEITA 2pcs Mattress Wedge Lifter Bed Maker Kit – Mattress Lifter with N
 img="https://m.media-amazon.com/images/I/31qNoh-1LwL._SL500_.jpg"
 description="MATERIAL: Polypropylene Completely harmless material, BPA free yihemol MATTRESS WEDGE - Ergonomic design that effortlessly lifts a mattress 4-5 inches as it is inserted between the mattress and box springs, No more need of a partner when making the bed! MATTRESS ELEVATOR - With the 2 tools inserted you have both hands available to make the bed and bed skirts, It lifts the mattress as it slides in and holds the mattress in a raised position eliminating repeated lifting while changing linens or making the bed BED MATTRESS TUCKER - Use the bedding tools to tuck in your linens or smooth the sheets, lifts, and holds the mattress 3-5 inches COMFORTABLE HOLDING: Curved handle allows the user to grip the mattress lifter at a natural wrist position providing greater comfort, strength and transfer of energy, allowing you to grip it at a choice of positions."
 asin="B09YY46JCJ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="9"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Two Pack of Under-Mattress Wedges | Mattress Wedge | Under-Mattress Suppo
 img="https://m.media-amazon.com/images/I/41zmxgXiV8L._SL500_.jpg"
 description="Different heights of lift are required: Each wedge is 5 levels of height can be adjusted ，3.5 10 12 15 17 Provide proper back support Two wedges：Two wedges for perfect support on one full, queen or king-size bed. Unlike Mattress Risers, It Goes Between The Mattress And Box Spring Aids in the relief of congestion due to allergy symptoms Relief of Upper Back and Neck Pain, Acid Reflux Relief, Muscle Pain relief Mattress Wedge，Bed Wedge，Under-Mattress Support，Lifts Head of Mattress，Mattress，Two Pack of Under Mattress Wedges Genie Adjustable Bed，Alternative to Hospital Bed，Naturally Reduces Acid Reflux， Adjustable Base Alternative，Snoring Pillow ， Two wedges"
 asin="B09Y4WM4L3"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="24"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Avana Mattress Elevator - Under Bed 7-Inch Incline Foam Support, Queen"
 img="https://m.media-amazon.com/images/I/41u+JdQKybL._SL500_.jpg"
 description="7-INCH INCLINE - Avana Mattress Elevator provides a 7” to 1” incline down the full length of the bed DRUG-FREE RELIEF - Foam bed riser that provides a safe and drug-free solution that may naturally help with symptoms of Acid Reflux and GERD through elevation and lift. Optional Cotton Covers are also available (sold separately) EASY INSTALLATION - Install under the mattress and enjoy the full comfort of your original mattress. Split design allows for easy placement and removal between mattress and box spring. The full-bed-length provides additional mattress stability and support ENVIRONMENTALLY FRIENDLY PACKAGING - For queen sized mattresses, supplied as two 30” wide incline slants. Ships roll compressed to save on shipping and reduce our carbon footprint – opens instantly without distortion 1 YEAR WARRANTY | MADE IN USA - Avana foam is approved under the CertiPUR-US program (see below for info). Includes 1 year warranty. If you have any issue with your product, please contact customer service. Made at our manufacturing facility in Atlanta"
 asin="B077KHHG7K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="175"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Ergonomic Mattress Wedge Elevator,Bed Making Handy Tool Gadget,Mattress L
 img="https://m.media-amazon.com/images/I/41eHhfbNz6L._SL500_.jpg"
 description="Mattress Wedge Elevator:This handy tool can lift a mattress 4-5 inches as it is inserted between the mattress and box springs,you can make the bed only by yourself. Ergonomic Mattress Lifter: this gadget alleviates neck and back pain with an ergonomic design that effortlessly lifts the mattress as it slides in and holds the mattress in a raised position eliminating the need for repeated lifting while changing bedding. Handy Tool Bed Maker:Curved handle allows the user to grip the mattress lifter at a natural wrist position providing greater comfort, strength and transfer of energy, allowing you to grip it at a choice of positions High Quality Material:Made of high quality polypropylene,durable Gadget for Changing Sheets:The package includes 2 gadgets. It makes changing sheets more easier and lower stress.Improve your mood when bed making."
 asin="B0B2PJJJDY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="0"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Mattress Lifter,Bed Maker Tool,Mattress Wedge Elevator,Easy to Use Bed Ma
 img="https://m.media-amazon.com/images/I/51vbmZoRv6L._SL500_.jpg"
 description="Unique Lifterdesign:Alleviates neck and back pain with an ergonomic design that effortlessly lifts the mattress 4-5 inches as it is inserted the mattress and box springs, no more need of a partner when making the bed Essential Tools for The Bedroom: With the 2 tools inserted you have both hands available to make the bed and bed skirts, It lifts the mattress as it slides in and holds the mattress in a raised position eliminating repeated lifting while changing linens or making the bed,It makes placing bed skirts so easy. Quality ABS Materials Made: Made of a friction resistant, durable polypropylene, strong and durable,with longer service time it alleviate pressure to the lumbar spine and improve your mood. More Time Doing What You Love:Can t changing linens or making the bed at home alone or take longer ,start a good Habitmake your bed the easy way.With the mattress wedge elevator making your bed can be quick and easy, giving you more time and energy to do what you enjoy most. Perfect Gift: Excellent housekeeping gift Idea for your family and for your loved ones. Allows you to quickly tuck in sheets and place a bed skirt,this mattress lifter is not only a perfect tool, but also a great choice as a gift for mother s day, father s day thanksgiving, christmas, birthday, housewarming gifts."
 asin="B0B2W4NK45"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="0"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Two Pack of Under Mattress Wedges,Adjustable Height Bed Wedge,Mattress El
 img="https://m.media-amazon.com/images/I/318r-jC1t3L._SL500_.jpg"
 description="Adjustable Back Support Design – Each metal bed wedge is 5 levels of height can be adjusted ，3.5 ,10 ,12 ,15 ,17  provide proper back support,whatever height you want Perfect for Recovery After Surgery/Accident/Injury – Do you suffer from heartburn, acid reflux, Gerd, Digestion issues, snoring, back or neck pain? Are you recovering from surgery or suffer from Sciatica, Post Nasal Drip, Hiatal Hernia, Coughing Respiratory Difficulty or experiencing pregnancy? Our two bed wedges can offer the support and comfort you need to get a good night’s sleep Keep Your Original Mattress without Any Damage – The bed wedge will not bring any damage to your original mattress and you will not have to purchase a new bed mattress. Save the money and have peace of mind knowing that your original mattress will not be compromised Provide a Comfortable Tilt – The Mattress Wedge is placed UNDER the head of the mattress to provide an incline on which to alleviate resting pressure on eyes, sinuses, back, forehead, stomach and other organs Quality Materials, Safety and Stability – They are welded with metal iron pipes, which are safe and stable, not easy to damage, and can be used permanently.Two wedges can perfect support on one full, queen or king-size bed"
 asin="B09RWRJLFZ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="0"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="LUCID Mattress Elevator Base - Affordable Adjustable Base Alternativ
 img="https://m.media-amazon.com/images/I/51DqeFKJ5cL._SL500_.jpg"
 description="The LUCID Mattress Elevator Base is an affordable alternative for an adjustable base Position the thicker side of the elevator at a 90-degree angle flush with your bed and headboard (or wall if you don’t have a headboard) This under mattress wedge will create an bed incline raising the head of the bed. Our inclined mattress topper will elevate head of bed for premium comfort. Premium CertiPUR-Certified foam is durable and proven to be safe for the whole family The King configuration is comprised of two Twin XL pads that can be used on two separate Twin XL mattresses; Queen comes in two separate pads for convenient shipping Machine washable cover sold separately"
 asin="B08FRP3HTB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## Is sleeping on a wedge good for you?

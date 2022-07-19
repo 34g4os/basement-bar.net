@@ -25,7 +25,7 @@ title="Badia Spices inc Spice, White Pepper Ground, 16-Ounce"
 img="https://m.media-amazon.com/images/I/41Om-OFt2tS._SL500_.jpg"
 description="Badia Spices inc Spice, White Pepper Ground, 16-Ounce single pack"
 asin="B0054M0QXU"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Amazon Brand - Happy Belly White Pepper, Ground, 3 Ounces"
 img="https://m.media-amazon.com/images/I/41Kru3ttjTL._SL500_.jpg"
 description="3-ounces of Happy Belly Ground White Pepper Blends well in light colored foods. Mildly pungent. Works well in sweet to savory recipes. Fresh sharp pepper flavor with less heat than black pepper but more complexity, with floral and earthy tones. Use on fish, chicken, roasts, potatoes, gravies, soups, stews, sauces, and clam chowder Common in Brazilian, Chinese and Thai cuisine but also whenever black pepper would visibly stand out Kosher certified Satisfaction Guarantee: We re proud of our products. If you aren t satisfied, we ll refund you for any reason within a year of purchase. 1-877-485-0385 An Amazon brand"
 asin="B07VXM5T91"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="McCormick Ground White Pepper, 18 oz."
 img="https://m.media-amazon.com/images/I/41KmUmYGcqL._SL500_.jpg"
 description="Premium Ground White Pepper features tangy taste Can be used as an alternative to salt Fresh flavor guarantee Use to enhance the flavor of soups and stews, fish or potatoes From America s #1 Herb and Spice Brand Fresh flavor guarantee Use to enhance the flavor of soups and stews, fish or potatoes From America s #1 Herb and Spice Brand"
 asin="B000YVBP7W"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="McCormick Gourmet, Ground White Pepper, 1.75 oz"
 img="https://m.media-amazon.com/images/I/41gMexSMzyL._SL500_.jpg"
 description="High-quality, premium sourced ground white pepper USDA-Certified Organic FlavorSealed to deliver robust flavor Ideal salt alternative Fresh flavor guarantee from America s spice brand"
 asin="B002HQKI70"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="McCormick Ground White Pepper, 1 oz"
 img="https://m.media-amazon.com/images/I/519fUiOWslS._SL500_.jpg"
 description="Premium Ground White Pepper features tangy taste Can be used as an alternative to salt Fresh flavor guarantee Use to enhance the flavor of soups and stews, fish or potatoes From America s #1 Herb and Spice Brand No kitchen should be without McCormick Pure Ground White Pepper, which can be used as an alternative to salt due to its tangy flavor. This premium quality spice can be used to take cream-based soups and sauces to the next level. Or use it on fish and chicken to deliver intensely fresh, mild pepper flavor to whole family will love."
 asin="B0005XNHMK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="The Spice Way Ground White Pepper - ( 4 oz ) pure pepper powder"
 img="https://m.media-amazon.com/images/I/41v655fbTuL._SL500_.jpg"
 description="WHITE PEPPER - discover the pure flavor of the white pepper that adds earthy unique flavor to many dishes including poultry, fish, vegetables and sauces. PURE - made from premium peppercorns, ground fresh. No preservatives, no additives, no MSG, non GMO, no fillers. FLAVORS OF THE WORLD - Very common in many authentic recipes from the Middle East, Asia and America. PACKED FRESH - in a resealable bag. FARM TO TABLE - 30 years of experience in growing spices, herbs and peppers, using traditional methods like hand-picking, sun-drying and grounding at our facility."
 asin="B085LNH9L5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="3016"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Soeos Fine Ground White Pepper 18 Ounces, Non-GMO, Kosher Verified, Fresh
 img="https://m.media-amazon.com/images/I/41FMsLUTcWL._SL500_.jpg"
 description="NATURALLY DELICIOUS: White peppercorns are actually a by product of a black peppercorn. When black peppercorns are mature, they are soaked in running water and the outer coating is rubbed away, resulting in a white peppercorn with a more delicate flavor. VERSATILE USE: Suitable for virtually any kind of dish. It can be used as a seasoning for meat, salads, vegetables, fish, or can be used as a rub, adding, in any case, a splash of savory and strong aroma. ETHICALLY SOURCED: Soeos products are from farmer groups in Vietnam through sustainable and biodiverse farming methods. EXPERTLY PRODUCED: SOEOS a renowned spice and herb brand beloved by chefs and culinary enthusiasts bringing great flavor to every kitchen. Soeos takes your satisfaction as our highest priority. let us know anytime for questions and concerns, as we value your voice to make things right."
 asin="B08L6V93T9"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="2831"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Soeos Premium Whole White Peppercorns 18oz, Grade AAA, Non-GMO, Koshier, 
 img="https://m.media-amazon.com/images/I/418tQmtHKaL._SL500_.jpg"
 description="WHAT IS WHITE PEPPERCORNS: White peppercorns whole are actually a byproduct of a black peppercorn. When mature, black peppercorns are soaked in running water and the outer layer is rubbed away, a white peppercorn with subtler flavor results. NO ADDITIVES: The product does not contain any additives, preservatives, or food colors. Safe for human consumption. FLAVOR OF THE WORLD: Loved by the French, used for cream sauces and clear broths. In Chinese cuisine, white peppercorns is used to add flavor to soups, marinades for meat and poultry, and spicier stir-fries. EXPERTLY PRODUCED: Soeos a renowned spice and herb brand beloved by chefs and culinary enthusiasts bringing fresher ingredients to every kitchen. Soeos takes your satisfaction as our highest priority. let us know anytime for questions and concerns, as we value your voice to make things right."
 asin="B081HH31RP"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="2831"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="White Pepper [180gm Vinyl]"
 img="https://m.media-amazon.com/images/I/41sHvKDGJEL._SL500_.jpg"
 description="Rock"
 asin="B002WY66NM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="33"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Frontier, White Pepper Ground, 0.5 Ounce"
 img="https://m.media-amazon.com/images/I/41vCo3i3obL._SL500_.jpg"
 description="Diet Type: Kosher Non-GMO Certified"
 asin="B07TT8QB5K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="0"
 >}} 
 ## Which is better black pepper or white pepper?

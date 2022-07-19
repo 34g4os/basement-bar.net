@@ -18,7 +18,7 @@ title="Under Armour Boy s Pre School SC 3ZER0 III Basketball Shoe, Black (001)/M
 img="https://m.media-amazon.com/images/I/41LwRnw8p9L._SL500_.jpg"
 description="Durable synthetic leather upper is perforated for enhanced breathability Half bootie construction for internal comfort & adjustability Enhanced cushioning around ankle collar for superior comfort & heel stability Die cut EVA sockliner provides underfoot cushioning & support Micro G foam midsole turns cushioned landings into explosive takeoffs"
 asin="B07HKV8MQM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -26,7 +26,7 @@ title="Under Armour Pre School Steph Curry 3ZER0 IV Basketball Shoe, White (102)
 img="https://m.media-amazon.com/images/I/41AH6r2jCZL._SL500_.jpg"
 description="Under Armour’s mission is to make all athletes better through passion, design and the relentless pursuit of innovation Where we started? It all started with an idea to build a superior T-shirt The technology behind Under Armour diverse product assortment for men, women and youth is complex, but the program for reaping the benefits is simple: wear HeatGear when it s hot, ColdGear when it s cold, and AllSeasonGear between the extremes"
 asin="B07ZHWC8PD"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -34,7 +34,7 @@ title="Under Armour Boy s Pre School SC 3Zer0 II Basketball Shoe, Midnight Navy 
 img="https://m.media-amazon.com/images/I/41BLQsYir3L._SL500_.jpg"
 description="Molded neoprene upper with zonal restriction engineered from within for maximum comfort & breathability Singular webbed lace system wraps the foot & locks it in Integrated upper & tongue construction for maximum breathability Die cut EVA sockliner provides underfoot cushioning & support Full length Micro G foam midsole for explosive energy return"
 asin="B076TW5R4J"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## What smells do mice hate?

@@ -25,7 +25,7 @@ title="Vandoren SM721 TL3 Optimum Series Tenor Saxophone Mouthpiece , Black"
 img="https://m.media-amazon.com/images/I/31OFdKfY9BL._SL500_.jpg"
 description="Roundness, depth and precision Tip Opening - 176 (1/100mm) Medium Short Facing Works best with Vandoren #2.5-#4 Reeds"
 asin="B000EEJBBQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Vandoren SM823E T7 V16 Ebonite Tenor Saxophone Mouthpiece"
 img="https://m.media-amazon.com/images/I/31TtqtSsxPL._SL500_.jpg"
 description="A good compromise between easy sound projection and timbre Tip Opening - 270 (1/100mm) Long Facing Works best with Vandoren #2.5-#3.5 Reeds"
 asin="B000XPSV58"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="JodyJazz DV Tenor Saxophone Mouthpiece 7 (.108  Tip)"
 img="https://m.media-amazon.com/images/I/31NNU7bruKL._SL500_.jpg"
 description="SIZE: Model 7* (.108 ) Medium Bright Mouthpiece with strong projection and Big Fat Tone; the most popular JodyJazz model. Patented Secondary Window adds a full bodied sound by adding mid and low harmonics. Incredibly free blowing for immediate response and faster articulation - Most common customer comment - “Best Mouthpiece I have ever played”. State of the Art CNC Machined 24kt Gold Plated Virgin Bell Brass, finished with expert Artisans Handwork and every mouthpiece play-tested."
 asin="B000SZY4U4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="303"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="D’Addario Woodwinds Select Jazz Tenor Saxophone Mouthpiece, D6M (MKS-D6
 img="https://m.media-amazon.com/images/I/41aAcNyf8RL._SL500_.jpg"
 description="100% precision-milled, vintage-inspired jazz mouthpieces The Select Jazz Mouthpiece line is milled not molded, from solid rod rubber, using D  Addario s precise, computer-controlled mouthpiece making technology Classic sound and response, with even intonation across the entire range of the saxophone Features medium chambers and facing lengths Available in four tip openings: 6, 7, 8, and 9"
 asin="B06XBD2HY3"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="JodyJazz HR Tenor Saxophone Mouthpiece Model 7 (.105 )"
 img="https://m.media-amazon.com/images/I/31pnOCY2c+L._SL500_.jpg"
 description="Vintage feel and sound Reasonably priced Hand finished The mouthpieces are faced on a special facing machine and then hand finished"
 asin="B003OCC2NO"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="303"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="D’Addario Woodwinds Tenor Saxophone Mouthpiece (MKS-D6M-MB), D6M, 2.54m
 img="https://m.media-amazon.com/images/I/41cUSgI4XML._SL500_.jpg"
 description="Product Type :Instrument Parts And Accessories Package Dimensions :6.25  L X1.75  W X2.0  H Country Of Origin :United States Package Weight :0.3Lbs"
 asin="B07DTFZZRZ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Mendini by Cecilio Tenor Saxophone, L+92D B Flat, Case, Tuner, Mouthpiece
 img="https://m.media-amazon.com/images/I/51VF1iFUonL._SL500_.jpg"
 description="All Levels, All Ages: Thinking of picking up a tenor sax? Or maybe you re a professional in need of a replacement? Either way, our saxophones are the answer! They re great for players of all ages and skills levels. Quality Sound: Whether you re a pro, a student, or just a hobbyist, you won t be disappointed with the top tier quality of this horn s sound! Plus, you can make sure you re playing at your best with the included saxophone tuning device. Multiple Colors: Looking to stand out musically AND visually? We ve got several color options to choose from! Gold, nickel, black - take your pick and get creative! Travel Safely: Our nylon case ensures that your sax stays safe, even on the go. It includes a backpack strap for easy carrying, PLUS zippered pockets to keep extra reeds or your tuner in! Bonus: You don t just get an instrument with us - you get the case, a mouthpiece with a cap, a tuner, 10 reeds (2.5 ), a polishing cloth, a cleaning rod, AND a pair of white gloves keep your sax spot-free!"
 asin="B00506UBUI"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1033"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Libretto Tenor Saxophone Mouthpiece Kit, Giftable Standard Mouthpiece Set
 img="https://m.media-amazon.com/images/I/316PRG1LXQL._SL500_.jpg"
 description="[ALL-IN-ONE] Everything you need for your tenor saxophones for mouthpiece set: Plastic 5C Mouthpiece, Plastic Cap, Gold Lacquered Ligature [HIGH QUALITY] Durable and Light! We carefully choose the best materials to produce the mouthpiece set. Special designed to meet the requirements for students or beginners’ practice. [SAVE MONEY] Libretto listens to our customers’ voice & reviews. We keep improving the kit to make it both HIGH-QUALITY and COST-EFFECTIVE. This kit is no doubt a good bargain in any aspect. [NECESSITIES & GIFT] Comes with a paper box with sealed plastic bag covering the mouthpiece set. It is a perfect gift and a fantastic choice for your (grand)child at either school or at home. The mouthpiece universally fits common name-brand standard spec tenor saxophones. [SECURITY HYGIENE VOID SEAL] We understand no one wants to use the second handed mouthpiece. To make sure you will be receiving the brand-new mouthpiece, which is clean and hygienic, each paper box is sealed with a VOID sticker. If you see VOID on the sticker or the sticker is broken, please return it to us and we will provide you with a new one very soon!"
 asin="B07DRGDMFX"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="203"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Selmer S-80 C* Mouthpiece for Tenor Saxophone (S404C1)"
 img="https://m.media-amazon.com/images/I/21XvxYNLU7L._SL500_.jpg"
 description="Square cross section in the chamber Great for a  step up  Mouthpiece Tip opening: 1.8 Facing length: 24.00"
 asin="B0002E3LFU"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="JodyJazz JET Tenor Saxophone Mouthpiece Model 7 (.105 )"
 img="https://m.media-amazon.com/images/I/31OMSL1NtOL._SL500_.jpg"
 description="SIZE: Model 7* (.105 ) Clean Focused Bright Sound With Power and Projection Free-Blowing Responsive Low End Shorter Facing Curve Gives Easy Altissimo Hand-Crafted and Individually Play Tested"
 asin="B00VH3PXL0"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="303"
 >}} 
 ## Can I use alto mouthpiece on tenor?

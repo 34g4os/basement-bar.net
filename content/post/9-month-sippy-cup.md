@@ -25,7 +25,7 @@ title="Tommee Tippee Infant Trainer Sippee Cup with Removable Handles, Boy – 7
 img="https://m.media-amazon.com/images/I/41DaI3X+57L._SL500_.jpg"
 description="Three 8-ounce trainer sippy cups, designed for infants 7+ months to develop grown-up drinking skills SPILL-PROOF VALVE: Less mess and clean up REMOVABLE HANDLES: Lightweight and easy to grip, perfect for baby s little hands SOFT SPOUT: Gentle on baby’s sensitive, teething gums GROWS WITH BABY: All Tommee Tippee cups (excluding insulated) have interchangeable parts"
 asin="B07S8DWM28"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Chicco Sport Spout Trainer, Spill Free Baby Sippy Cup, 9 Months, Pink/Pur
 img="https://m.media-amazon.com/images/I/414wesicfuL._SL500_.jpg"
 description="SPORT SPOUT TRAINER SIPPY CUP introduces baby to straw shaped spouts and aids developing oral skills; built tough to stand up to new teeth NO SPILL SIPPY CUP with sip activated flow for spill-free drinking or remove the spill-proof valve to practice free-flow drinking INTERCHANGEABLE spouts and cups, all BPA, PVC and Latex free FOR LITTLE HANDS, this 9 oz. cup has ergonomic indents for intuitive hand placement and a shape that’s easy to hold EASY TO KEEP CLEAN, snap-on cap keeps spout clean when not in use; minimal parts are easy to assemble and dishwasher safe"
 asin="B07WSQW5PH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Philips AVENT My Easy Sippy Cup with Soft Spout and Spill-Proof Design, B
 img="https://m.media-amazon.com/images/I/41Sauk1UhiL._SL500_.jpg"
 description="Unique rippled container shape easy for baby to grip Soft silicone spout No spill sippy cup with one piece built in valve 3 parts, easy to clean BPA Free and dishwasher safe Soft silicone spout Unique rippled container shape enabling easy holding One piece built in valve for spill free drinking and easy cleaning Compatible with the Philips AVENT Natural and Classic bottle range, the My Natural Trainer and My Classic Trainer and 7oz My Easy Sippy Cups BPA-Free and dishwasher safe Soft silicone spout Unique rippled container shape enabling easy holding One-piece built in valve for spill free drinking and easy cleaning Compatible with the Philips AVENT Natural and Classic+ bottle range, the My Natural Trainer and My Classic Trainer and 7oz My Easy Sippy Cups"
 asin="B00UFWI7IK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Tommee Tippee  Sippee  Toddler Sippy Cup | Spill-Proof, BPA-Free – 9+ m
 img="https://m.media-amazon.com/images/I/417Sfe0IVML._SL500_.jpg"
 description="10-ounce sippy cups designed to keep toddlers hydrated while developing grown-up drinking skills. Recommended for babies 9 months and up SPILL-PROOF: Less mess for mom and dad and more fun for baby BABY-FRIENDLY: Lightweight with easy-grip sides--perfect for baby s little hands EASY CLEAN: All parts are top-shelf dishwasher safe and safe for use in sterilizers BABY-SAFE: Free from BPA, BPS, and phthalates"
 asin="B07S6CRCP9"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Tommee Tippee Hold Tight Baby Sippy Cup, Spill-Proof | 9+ Months, 11 Ounc
 img="https://m.media-amazon.com/images/I/417n7Pz7ypL._SL500_.jpg"
 description="Two 11-ounce sippy cups designed for infants and toddlers 9 months and up, to help master their grown-up drinking skills MADE FOR TINY HANDS: Easy-grip, textured sides provide a firm hold for baby’s little hands SPILL-PROOF VALVE: The non-spill valve is removable and easy to clean GENTLE ON GUMS: The sippy cup s super soft spout is gentle on baby’s little teeth and gums BABY SAFE: All Tommee Tippee cups are BPA-free and BPS-free"
 asin="B08QLN3XZW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Avima Baby 9 oz Trainer Sippy Cups, Pink (Set of 2)"
 img="https://m.media-amazon.com/images/I/31snXExbquL._SL500_.jpg"
 description="2 piece trainer sippy cup set with 1 bonus medium flow silicone nipple Cup # 1 - Use with Duo-Flo wide neck silicone nipple or non spill silicone spout Cup # 2 - Non spill hard spout. 100% spill-proof Both cups with trainer handles - easy for baby to grip and hold All Avima products are made to the highest safety standards and are free of BPA, PVC, phthalates and polycarbonate. Premium Quality - Great Value!"
 asin="B07SYBZ3TV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="77"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="NUK Learner Cup, 5 Oz"
 img="https://m.media-amazon.com/images/I/41Als8Hys0L._SL500_.jpg"
 description="Helps make the transition from bottle to cup easier Easy grip, anti-slip handles are easy for baby to hold and removable as baby grows Spill-proof, soft spout is designed to be gentle on gums while teaching baby to drink from a spout. Liquids flow easily when sipped Air vent helps reduce swallowed air BPA-free; Dishwasher-safe; Recommended for ages 6m plus"
 asin="B0835TC6JY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Munchkin Gentle Transition Trainer Cup, 4 Ounce, Green"
 img="https://m.media-amazon.com/images/I/31LIpFSo1cL._SL500_.jpg"
 description="Soft silicone spout is gentle on baby s gums Ultra flexible spout moves with baby Removable handles are soft and easy to hold 4 plus months BPA-free & top rack dishwasher safe"
 asin="B07JG1RXN5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Munchkin Any Angle Click Lock Weighted Straw Trainer Cup, Pink, 7oz"
 img="https://m.media-amazon.com/images/I/31MZGh8xsDL._SL500_.jpg"
 description="Weighted straw and easy-to-hold handles allow your toddler to hold the cup at any angle 10 ounce capacity for water, milk or juice. Includes straw brush for easy cleaning Flip-top lid covers straw while on the go Improved straw to reduce leaks BPA free, top rack dishwasher safe and 6 plus months"
 asin="B01LY8W0T4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Munchkin Miracle 360 Trainer Cup, Green/Blue, 7 Oz, 2 Count"
 img="https://m.media-amazon.com/images/I/31eP4P23zkL._SL500_.jpg"
 description="Set of (2) 7 ounce toddler cups with dentist recommended spotless design 360 degree drinking edge eliminates spills completely Cup automatically seals when you are done drinking Handles are easy for little hands to hold Easy to clean with no extra valves or parts BPA free, top rack dishwasher safe, 6 Plus months"
 asin="B00MRZIFD0"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## What's wrong with sippy cups?

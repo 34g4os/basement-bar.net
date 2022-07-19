@@ -19,7 +19,7 @@ title="NEST Fragrances Bamboo Room & Linen Spray, 3 Fluid Ounces"
 img="https://m.media-amazon.com/images/I/41Pugv9OLkL._SL500_.jpg"
 description="LINEN AND LIVING ROOM SPRAY: 3.4-fluid ounce bottle of room freshener spray instantly fills the air with enchantment FLORAL AND ENCHANTING: White florals with an abundance of lush green notes and hints of sparkling citrus LONG-LASTING ELEGANCE: Delivers approximately 1000 sprays per bottle CRUELTY FREE: This richly scented linen spray is vegan and made in the USA without animal testing NEST NEW YORK: Where mood is elevated and scent is celebrated"
 asin="B092FMBL2V"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -27,7 +27,7 @@ title="Thymes Fragrance Mist - 3 Oz - Washed Linen"
 img="https://m.media-amazon.com/images/I/31AVwtMRGML._SL500_.jpg"
 description="Effective Room Spray: Use throughout your home, office or car for a sophisticated fragrance Artisan Design: Thymes is inspired by botanicals in art and nature to create refreshing fragrances Fragrance Details: Cedar wood, lavender, white pepper, grapefruit, orange flower and amber Perfect Package: Unique fragrances, artfully-designed packaging, and botanically-based products Who We Are: Always cruelty-free and formulated without parabens and petrolatum"
 asin="B07PZF7XFK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="53397"
 >}} 
 {{< product 
@@ -35,7 +35,7 @@ title="Yankee Candle Popular Fragrances 3-Pack Concentrated Room Sprays (Clean C
 img="https://m.media-amazon.com/images/I/518-PVOvGTL._SL500_.jpg"
 description="Fragrance Life of 300 sprays per can, 1.5 Ounce each Clean Cotton: Sun-dried cotton combined with green notes, white flowers and a hint of lemon. Lemon Lavender: Clean and inviting … a powdery fresh blend of tangy lemon citrus and sweet lavender flowers. MidSummer s Night: An intoxicating and masculine blend of musk, patchouli, sage and mahogany cologne."
 asin="B07JHQ78T1"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="100"
 >}} 
 {{< product 
@@ -43,7 +43,7 @@ title="Citrus Magic Natural Odor Eliminating Air Freshener Spray, Orange Blast, 
 img="https://m.media-amazon.com/images/I/41v4ErrYd5L._SL500_.jpg"
 description="ALL MAGIC. NO TRICKS. – Reach for a Natural Citrus-Based Odor Eliminator that uses the power of Citrus oils to eliminate troublesome odors and sprinkle the air with freshness, without just water and aerosols REVITALIZING SCENTS – The juicy freshness of our specially curated scents will fill your home with the magical hues of “ahhh, that smells good” SAFE INGREDIENTS – Our thoughtfully chosen, cruelty-free ingredients are pet-safe, kid-safe, and of course, super-busy-parent safe when used as directed 360DISPENSE – Our recyclable 360Dispense packaging technology provides continuous spray action in any direction without the use of propellants YOUR NEW FAVORITE – Spritz the whimsical magic of clean to instantly liven your home and rest easy knowing our products are made without harsh chemicals like propellants, formaldehyde, parabens, and more!"
 asin="B00DYVP36I"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## Is room spray stronger than perfume?

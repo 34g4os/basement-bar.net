@@ -17,7 +17,7 @@ title="Kids Preschool Graduation Gift Preschooler Dinosaur Pre-K T-Shirt"
 img="https://m.media-amazon.com/images/I/41+CWRmdpbL._SL500_.jpg"
 description="Cute dinosaur with preschool graduation cap and gown Great graduation gift for pre-k graduate students or funny preschoolers outfit and dress for the last day of pre-school Lightweight, Classic fit, Double-needle sleeve and bottom hem"
 asin="B07MCDRQLL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -25,7 +25,7 @@ title="GraduationMall Shiny Kindergarten & Preschool Graduation Gown Cap Set wit
 img="https://m.media-amazon.com/images/I/41KeaaMTgdL._SL500_.jpg"
 description="What You Get: 1 Gown + 1 Cap + 1 Tassel with 2022 year Charm(If you receive no or wrong tassel, please contact us first.) Gown Size: Robe length 30 inchs, fits children s height from 3 9  to 3 11 , max chest 35 inchs. Cap Size: Elastic bands installed inside, one size fits all. Quality Material: shiny polyester, smooth and strong zipper. Easy Cleaning: Machine Wash or Dry Clean, ironing is recommended to keep gown wrinkle free."
 asin="B00RXDSLLC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1260"
 >}} 
 ## What color dress is best for graduation?

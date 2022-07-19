@@ -16,7 +16,7 @@ title="Journals Unlimited Gardening Journal - Dk Green, 7.5  x 9  in. (jo/x0)"
 img="https://m.media-amazon.com/images/I/51TyrfmykhL._SL500_.jpg"
 description="Writing prompts - This notebook is complete with prompted pages that will guide you to capture the things that really matter Printed in USA/ recycled - our guided journals are printed with soy-based ink on recycled, heavy duty 70lb, acid free, ivory pages Natural Kraft Brown cover - long-lasting durable hard cover with a black beveled window frame and a hand-crafted look 200 pages - This wire-o binding journal lays flat for comfortable writing Other themes available - The  write it down!  Series features over 65 themed and guided journals so there is something for everyone!"
 asin="B004D0ZSNC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="6530"
 >}} 
 ## What is a plant diary?

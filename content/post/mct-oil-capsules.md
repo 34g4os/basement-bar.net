@@ -25,7 +25,7 @@ title="Keto MCT Oil Capsules | 3600 mg | 300 Softgels | Coconut Oil Pills | Non-
 img="https://m.media-amazon.com/images/I/41qP5-blfaL._SL500_.jpg"
 description="MCT OIL: Softgels deliver 3,600 mg of MCT Oil derived from the finest source of coconut and/or palm PREMIUM FUEL: Rich in beneficial fats, containing 55-65% Caprylic Acid and 35-45% Capric Acid EXPERTLY CRAFTED: Our professional formula is backed by our commitment to purity and potency HORBAACH MANUFACTURERS: Laboratory Tested, Trusted Ingredients, Superior Quality, 100% Guaranteed! NATURALLY FREE OF: Gluten, Wheat, Yeast, Milk, Lactose, Artificial Flavor, Sweetener & Non-GMO"
 asin="B07HZ2XM8Y"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="39221"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Pure MCT Oil Capsules (360 Softgels | 3000mg) 4 Month Supply MCT Oil Keto
 img="https://m.media-amazon.com/images/I/41JEiB9OHfL._SL500_.jpg"
 description="Pure MCT oil pills from Coconut - Made from pure unrefined virgin coconut oil and containing 3000mg of Medium Chain Triglycerides, Zeal Naturals MCT Softgels. Powerful Keto Energy Support & Brain Fuel. If you re looking for a ketosis supplement to fuel your brain and support energy levels, this Keto MCT oil is it. Made with high-concentrate MCT oil with c8 and c10 oil provides beneficial fats that convert into ketones and may help your body get into ketosis, the process of burning fat for fuel.* Great MCT oil for Keto Coffee. Just drop a few mct soft gels into your coffee for a delicious and super convenient keto coffee with beneficial saturated fats. Great for traveling and on the go - no need to lug around a huge bottle of MCT Oil to enjoy your keto coffee! Keto. Paleo. Gluten Free. Non-gmo. Get the highest quality MCT coconut oil pills at the best price. Being 100% approved for the keto diet and made with all gluten free and non-GMO ingredients, it s the best mct pills available.* The best MCT oil for ketosis / La mejor pastilla de aceite de coco* - For the best keto fuel and keto fuel weight loss pills, this coconut oil supplement liquid keto pills can help keto kickstart into ketosis which is when the body burns fat for fuel instead of glucose. *(best paired with following a calorie-controlled diet or exercise program)."
 asin="B07NQY9L84"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1559"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="NOW Sports Nutrition, MCT (Medium-chain triglycerides)Oil 1000 mg, Weight
 img="https://m.media-amazon.com/images/I/41BB2B2evzL._SL500_.jpg"
 description="Same trusted quality with a brand new look! Packaging may vary THERMOGENIC/ENERGY: MCTs are readily absorbed from the GI tract and are metabolized very quickly by the liver, where they are reported to encourage the use of fat for energy rather than for storage WEIGHT MANAGEMENT/KETO FRIENDLY: MCT Oil has naturally occurring fatty acids caprylic acid (C8:0) and capric acid (C10:0) GMP Quality Assured: NPA A-rated GMP certification means that every aspect of the NOW manufacturing process has been examined, including our laboratory/testing methods (for stability, potency, and product formulation) Packaged in the USA by a family owned and operated company since 1968"
 asin="B009HZJCLM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Nutricost MCT Oil Softgels 1000mg, 150 SFG (3,000mg Serv) - Great for Ket
 img="https://m.media-amazon.com/images/I/410em45jATL._SL500_.jpg"
 description="150 Easy to Take MCT Oil Softgels Perfect For Ketogenic And Low-Carb Diet High Quality MCT Oil Softgels Non-GMO, Gluten Free, C8 & C10 MCT Oil Softgels Made in a GMP Compliant, FDA Registered Facility"
 asin="B07NQXWR5K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="20365"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Brain Octane C8 MCT Oil, 2000mg Caprylic Acid Triglycerides from Non-GMO 
 img="https://m.media-amazon.com/images/I/411GGGBNahL._SL500_.jpg"
 description="Supports Gut Health: Promotes healthy digestion and immune function Brain Support: Made with Brain Octane C8 MCT oil distilled from 100% pure coconut oil to help keep you powered all day Energy Support: From the most ketogenic MCT for brain and body fuel: Keto and Paleo friendly Lab Tested: For purity and potency; naturally sugar free, gluten free, non-GMO and no added dyes On-The-Go Convenience: 60 easy to swallow softgels that promotes increased ketone production anytime, anywhere (Packaging May Vary)"
 asin="B01NCHTSUZ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="3006"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Radha Beauty MCT Oil Capsules (300 Count) for Enhanced Workout Performanc
 img="https://m.media-amazon.com/images/I/41lKutqBHaS._SL500_.jpg"
 description="NATURAL MCTs: Enjoy Radha Beauty’s sustainably sourced MCT Oil Softgels, made with 100% coconuts, to provide you with sustained energy and beneficial fats! This dietary supplement can be taken in a variety of ways to increase your overall daily health. Free of fillers, additives, solvents and flavoring. MADE IN USA. BPA free bottles. NATURAL ENERGY: Our MCT Oil Softgels is a healthy alternative to traditional oils, energy and sports drinks. Packed with nutritious fats, MCTS are absorbed directly from the gut to the liver, where they are burned quickly for energy to keep you active throughout the day. HEALTHY LIVING: MCT Oil is made with organic coconuts and contains the full spectrum of MCT with 99% C8 and C10 concentration and less than 1% Lauric Acid; It helps maintain healthy cholesterol levels while providing long-lasting energy! Supports cognitive function, metabolism, energy, and endurance. VEGAN AND CRUELTY FREE: It is tasteless and odorless. Suitable for Vegetarian, Vegan, Lactose-free and Gluten-free diets. We do not test any of our products on animals."
 asin="B096MSLNWB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1242"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Keto MCT Oil Capsules Ketosis Diet - 3000mg Natural Pure Coconut Oil Extr
 img="https://m.media-amazon.com/images/I/516URQA8wYL._SL500_.jpg"
 description="★Why Keto MCT? - MCT oil (medium-chain triglycerides oil) has risen in popularity along with the keto diet. MCTs are a unique type of coconut oil that are a much faster source of energy than other types. Our MCT oil is digested, broken down and converted into ketones which helps you sustain your level of energy and get back into ketosis. Many people who follow the keto diet love MCT because it’s a simple way to stay in ketosis. ★Maximize the Results - MCT Oil Softgels are grear source of energy that acts as a fuel and convenient to be added to your diet. Our Keto MCT is made of finest coconut oil with natural ingredient to help ketosis diet while being easily digestible. MCT oil helps with the absorption of vitamins and minerals in the body. Keto MCT Oil converts directly into ketones so you can get in & stay in ketosis. It is formulated with a special blend to improve the efforts made while on the popular keto diet. ★Natural Keto Diet Supplement - Keto supplements are essential to support your keto diet so you can get result towards your keto plan. We offer the best solution in our keto supplements to bring the best quality to our customers. Experience the support in your energy and mind clarity while reaching your goal with our Keto MCT Oil made with natural ingredients, organic coconut with zero fillers. Every bottle comes in 90 softgels, enough supply to start your Keto MCT journey. ★GMP Registered Facility - Our products are manufactured and made in USA. Our Supplements are manufactured with Good Manufacturing Practice and we deliver the highest quality supplement to our customers. The formula and solutions have been made and verified base on scientific research to assure you get the best Result. ★Customer Satisfaction - Since we trust in our quality supplement, it is returnable with no question asked so you can shop with confidence. Customer satisfaction is our top priority so simply contact us if you have any issues or concerns"
 asin="B07QFD3X54"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="647"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Clean MCT Oil Capsules: 100% Pure C8 Caprylic Acid Triglycerides | Best K
 img="https://m.media-amazon.com/images/I/41dMNFCKmHS._SL500_.jpg"
 description="ENERGY - 100% Pure C8 MCT Oil (Non-GMO) provides the body with natural energy and mental clarity.* SUPPORTS KETOSIS - Quickly converts into ketones, making it the perfect keto supplement.* FOCUS - Superfuel for the brain that you feel the very first time.* GUT HEALTH & IMMUNITY - Helps support healthy GI function, regulate metabolism, and the mucosal immune system.*  PREMIUM QUALITY: 100% natural, chemical-free extraction & filtration. Does NOT contain palm oil. BPA-Free Bottle. Gluten-Free, Vegan, Lactose-Free. Highest quality guaranteed."
 asin="B07CCHCHLF"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="229"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Nature s Truth MCT Oil Capsules | 100 Softgels | Keto Friendly Coconut Oi
 img="https://m.media-amazon.com/images/I/41vuVFpY0JL._SL500_.jpg"
 description="Nature s Truth MCT oil is a keto diet friendly supplement MCT oil contains essential fatty acids, capric and caprylic acids to fuel the body* MCT oil supplements are a source of energy that provide energy for the body and mind* MCT oil, or medium chain triglycerides, are found naturally in coconut and/or palm oil Gluten Free, Non-GMO; Free Of Wheat, Yeast, Milk, Lactose, Soy, Artificial Color"
 asin="B07X36DK13"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="39221"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Keto MCT Oil Capsules - 2 Month Supply | Keto Fuel for The Brain & Body |
 img="https://m.media-amazon.com/images/I/41nnbXWvj2S._SL500_.jpg"
 description="Contains Caprylic (C8) and Capric (C10) acid MCT Oil sourced from ONLY non-GMO Coconuts. Gentle on the stomach and easier to digest than traditional MCT Oil. Travel-friendly MCT Softgels offer on-the-go support to help keep you in Ketosis. Open and Add 2-3 MCT softgels to your morning Coffee or Tea to help kick-start ketosis. All Sports Research (SR) vitamins & supplements come with a 90 day Money Back Guarantee.^"
 asin="B07FYT7LH4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="31"
 >}} 
 ## Does MCT Oil reduce belly fat?

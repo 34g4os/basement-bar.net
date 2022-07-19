@@ -17,7 +17,7 @@ title="Mark Roberts 2018 Snow Base Stand, Small, 7.5"
 img="https://m.media-amazon.com/images/I/213DPFp2u8L._SL500_.jpg"
 description="Decorative hand-painted novelty Mark Roberts Small Winter Stand Stand is for Small Fairies and Elves 7.5  tall Snow with mistletoe and holly design"
 asin="B008OVDHU2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="299"
 >}} 
 {{< product 
@@ -25,7 +25,7 @@ title="Mark Roberts Fairies 51-16620 Merry Christmas Bells Fairy SM Exclusive, R
 img="https://m.media-amazon.com/images/I/41JJI0+GCiL._SL500_.jpg"
 description="Mark Roberts Fairies Merry Christmas Bells Fairy SM Exclusive Small Size 12 inches. Flexible and Posable Fairy Santa Figure composed with wired arms and legs for custom posing! Intricately Detailed with Faux Jeweled Gemstone Accents, Pearls, Jeweled buttons, and fine ribbon embellishments. Hand-Painted face and hands. Dressed in Beautifully Adorned layered fabrics. Includes a certificate of authenticity and registration which records your name as the original purchaser. By Mark Roberts Heirloom-Quality Collectibles features Intricate Detailed Embellishments and hand-crafted accents. Mark Roberts Fairies Limited Edition Merry Christmas Bells Fairy Exclusive Fairy Doll Collectible"
 asin="B09M7VT9P8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="138"
 >}} 
 ## What do fairies do at Christmas?

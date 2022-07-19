@@ -25,7 +25,7 @@ title="Home Brew Ohio 4C-I23S-FXGB American Medium Toasted Oak Chips, 1 lb."
 img="https://m.media-amazon.com/images/I/51qj7SNeVZL._SL500_.jpg"
 description="Oak chips-medium roast 1 pound package Notes of Vanilla and caramel Adds color and flavor American oak chips have more bite, or aggressive flavor, than french oak chips"
 asin="B01BSNU6L0"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Oak Chips-Dark Toast American 1 lb."
 img="https://m.media-amazon.com/images/I/51mfL3XmjDL._SL500_.jpg"
 description="Country Of Origin: United States Model Number: 6I-LVXH-G2N8 Item Product Dimension: 10.4  L x 6.8  W x 1.3  H Item Package Weight: 0.93 lb"
 asin="B00IOTGPMG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="USA Premium Store 1LB Charred White American Oak Chips Sticks Distilling 
 img="https://m.media-amazon.com/images/I/41uQmVUl-OL._SL500_.jpg"
 description="This sale is for all charred 100% natural and organic, heartwood (center) American White Oak. The wood was put in a commercial kitchen oven for 4 hrs at 350 degrees, then charred under a commercial kitchen broiler. Hand cut by manual saw and hatchet. No gas chain saw or gear oiled blades. Suitable wood for human consumption. I ve been an Executive Chef in a large restaurant for 18 years, and I am Serve-safe certified in food and beverage handling and sanitation, so you know your wood was handled professionally. I harvested this wood myself, so you know that its not red oak, Pin oak, or other unfavorable species of oak."
 asin="B07B94WF66"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="43"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Home Brew Ohio 5X-1189-5UIG Hungarian Medium Toast Oak Cubes 1 Pound Brow
 img="https://m.media-amazon.com/images/I/41KEOVrCphS._SL500_.jpg"
 description="Pronounced vanilla flavoring Bittersweet chocolate, roast coffee, leather and black pepper backgrounds Hungarian medium toast oak cubes 1 pound Medium toast Hungarian oak cubes"
 asin="B00AGH2XDO"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="North Mountain Supply Brewer s Best Barrel Chips Whisky, 4 oz."
 img="https://m.media-amazon.com/images/I/51eUIfR17CL._SL500_.jpg"
 description="Package Weight :0.4 Lbs Package Height :13.8 Cm Package Length :2.6 Cm Package Width :13.0 Cm"
 asin="B06X9BLVF5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="North Mountain Supply American Oak Chips (Medium Toast, 4 Ounce)"
 img="https://m.media-amazon.com/images/I/51iA-f5mcJL._SL500_.jpg"
 description="4 Ounce Bag American Medium Toast provides complex, pleasantly mild and delicate toasted oak characters Aromas of vanilla, caramel, chocolate, hazelnut, oatmeal with honey, graham cracker, with a touch of coconut and clove The flavors provide sweetness, creaminess and roundness to the mouth feel with a lingering non-aggressive toast character."
 asin="B07PDTFWD7"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Oak Chips- American 1LB.- Medium Toast"
 img="https://m.media-amazon.com/images/I/51thXToaH-L._SL500_.jpg"
 description="1lb bag of American Medium Toasted Oak Chips."
 asin="B06XDLYPNL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="149"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Oak Chips- American 1LB- Heavy Toast"
 img="https://m.media-amazon.com/images/I/515iAWopBqL._SL500_.jpg"
 description="Bag of American Heavy toasted oak chips."
 asin="B06XCYJ9PH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="149"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="1LB Charred White American Oak Chips Sticks Distilling Moonshine Beer Win
 img="https://m.media-amazon.com/images/I/41DGnn6UXjL._SL500_.jpg"
 description="No gas chain saw or gear oiled blades. Suitable wood for human consumption. The wood was put in a commercial kitchen oven for 4 hrs at 350 degrees, then charred under a commercial kitchen broiler. Hand cut by manual saw and hatchet. This is for all charred 100% natural and organic, heartwood (center) American White Oak."
 asin="B088GN7X8Z"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="43"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Oak Chips- American 5LB- Medium Toast"
 img="https://m.media-amazon.com/images/I/51JI+uHxvmL._SL500_.jpg"
 description="Medium Toasted Oak Chips."
 asin="B06XDDFBDY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="149"
 >}} 
 ## How are oak chips made?

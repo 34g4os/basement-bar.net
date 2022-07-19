@@ -25,7 +25,7 @@ title="Pack of 50 Tree of Life Charms Jewelry Making Silver Charms Mixed Smooth 
 img="https://m.media-amazon.com/images/I/51buJC1EV+L._SL500_.jpg"
 description="Package includes: approx 50pcs silver tree of Life charms for bracelets ; each charm size: 24mm*20mm DIY for Jewelry Making and Crafting，Lead free and cadmium free metal alloy charm bracelet making kit perfect for all kinds of interests Great for parties or groups NEW deluxe assortment of solid metal alloy charms in a great array of designs and sizes. Tree of life pendants for jewelry making Perfect for scrapbooking project, necklace pendant drop, jewelry making accessories Perfect DIY gift for Christmas Xmas Halloween Birthday for your friends lover and yourself"
 asin="B01FW96SZ4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="464"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="100g Craft Supplies Mixed Tree Of Life Pendants Beads Charms Pendants for
 img="https://m.media-amazon.com/images/I/61bALkf8cLL._SL500_.jpg"
 description="Material: Zinc Alloy (lead and nickel free) size: Mixed 10-40mm (1 inch = 25.4mm or 1mm = 0.0393 inch) Quantity:100g (about 30 -32 pcs),Alloy charms pendants adopt electroplating process, beautiful and safe. Used to create dramatic pendants, earrings, bracelet, necklace, anklet, home decoration and other event decoration, is a very useful accessory. Antique bronze antique silver Tree of life Charm It s fashion, creative, full of special means, is a very useful accessory Jewelry Making Accessory Mixed wholesale metal charms Assorted themes great array of subjects and styles for all kinds of interests Great for parties or groups."
 asin="B078SMNSK4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1768"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Shapenty Round Metal Tree of Life Charms Pendants Beads Bulk Jewelry Find
 img="https://m.media-amazon.com/images/I/41Fdi6eiFiL._SL500_.jpg"
 description="Material: Metal; Color: Antique silver; Style: Life of Tree. Size: 24mm x20mm/0.94 x 0.79inch (L * W). Perfect for handmade handcraft works, zipper pulls, necklace, bracelet, Keychain, keyring, sweater chain, anklet, cellphone cap, shoe bag, scrapbooking decorative accessories, etc. Great DIY gift for Christmas Xmas Halloween birthday for your friends, lovers or yourself to create unique eye-catching DIY positive energy lucky charms, punk or cosplay style costume. Great for DIY craft projects. Package includes: 50pcs * Life of Tree pendant charm beads."
 asin="B07H77HPGD"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1130"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="WILLBOND 70 Pieces Halloween Charm Silver Collections Antique Pendant Cha
 img="https://m.media-amazon.com/images/I/61Yjo8qgtKL._SL500_.jpg"
 description="What will you get: 70 tree charm silver accessories, enough to meet your DIY project, or to share with friends and relatives Material: made of zinc alloy without lead and nickel, no need to worry about any skin irritations, exquisite and classical design charms, which can be applied to different kinds of decoration; Color: antique silver Assorted shape: tree pendant accessories will have texture, the craft is worth paying attention to appropriate for your different needs for DIY necklace bracelets jewelry making Ideal gift: birthday parties and mini-precious toys can be applied as creative DIY gifts for your lover, friends and family to create eye-catching charm during the holiday season Wide applications: a very practical accessory to DIY dramatic pendants, earrings, bracelet, necklace, anklet, home decoration and other event decoration, suitable for key chain, bag pendant, sweater chain pendants, ornaments, and more"
 asin="B07YDHQG3Y"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="2138"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="8 Pieces Life Tree Pendant Charms Gemstone Chakra Crystal Quartz Pendants
 img="https://m.media-amazon.com/images/I/61nIx31qoDL._SL500_.jpg"
 description="Quantity and size: you will receive 8 pieces of gemstone chakra crystal quartz pendants in 8 different colors, including 1 piece of 7 different colors pendant and 7 pieces of solid color pendants, sufficient quantity will easily meet your different needs or share with others Exquisite design: the chakra healing charm is an elaborately crafted handmade jewelry with novel design, there are many crystal stones arranged irregularly inside the round collar, and the wire is intertwined with each other, which looks just like a life tree, it is a symbol of beauty, health, good luck and healing Size information: each crystal tree pendant measures approx. 2 inches in diameter, and the chain is about 50 cm/19.7 inches in length, cute and not too big to make beautiful earrings, bracelets and necklaces for your loved ones Add more charms: the life tree crystal pendant goes well with a variety of items to add a touch of color to your outfit, it can be applied as a part of the handmade jewelry or as a delicate gift for your wife, mother, sisters, girlfriend, classmates, etc. Enjoy the DIY fun: the chakra life tree pendant charms feature beautiful and comfortable tactility, they are suitable for a variety of DIY projects, you can use them to make necklaces, key chains, costume decoration, furniture decoration, room decoration, gift box decoration and other places decorations"
 asin="B08Y6FPKPV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="688"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Crocs Jibbitz Nature Shoe Charms | Jibbitz for Crocs, Palm Tree, Small"
 img="https://m.media-amazon.com/images/I/41h3xpUAjzL._SL500_.jpg"
 description="Jibbitz for Crocs allow you to personalize your Crocs with style! Crocs shoes sold separately. Authentic Crocs Jibbitz charms. Designed specficially by Crocs for Crocs! A pair of Crocs can hold 26 Jibbitz shoe charms. Pop the Jibbitz into your shoes  holes for easy attachment! Trade with friends to customize your look. Perfect gift for women, men, and teens! Also great as a party favor! Not a toy. Not intended for children under 3 years of age."
 asin="B07TYH7ZF5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Mixed Charms Silver DIY Charms Pendants Wholesale Bulk Lots Jewelry Makin
 img="https://m.media-amazon.com/images/I/5162GvBJzNL._SL500_.jpg"
 description="Size:about 10-50mm,Total 52pcs, 26 styles, each style 2 pcs . Total 110g. Material: Alloy, Metal. Lead free and cadmium free metal alloy perfect for all kinds of interests Great for parties or groups NEW deluxe assortment of solid metal alloy charms in a great array of designs and sizes Perfect for scrapbooking project, necklace pendant drop, jewelry making accessories perfect DIY gift for Christmas Xmas Halloween Birthday for your friends lover and yourself"
 asin="B089R29DVH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="464"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Pandora Jewelry Sparkling Family Tree Dangle Cubic Zirconia Charm in Ster
 img="https://m.media-amazon.com/images/I/31VTnpJWivS._SL500_.jpg"
 description="Family Heritage: A beautiful representation of how families are connected through many generations. Created with sterling silver, cubic zirconia stone-encrusted leaves and genuine 14k gold details, Pandora s lovely family tree dangle charm is the perfect token of family love. Sterling Silver: The world’s most popular silver alloy, our sterling silver consists of 92.5% silver and 7.5% other metals (such as copper). This blend is excellent for jewelry because it preserves the color, luster and the weight of silver while vastly improving the durability of your charms. 14 Karat Gold: 14K gold is a mix of gold and other metals that makes the jewelry durable while maintaining a beautiful, golden glow. Cubic Zirconia: Cherised for its sparkling appearance and its availability in virtually all colors, cubic zirconia s beauty has made it one of the most popular and widely used stone in the Pandora jewelry assortment. Manufactured Responsibily: At Pandora, we believe that responsible business practice and our aspiration to offer high quality jewelry go hand in hand. We re committed to developing and manufacturing responsibly, for our teams, and to minimize our environmental impact on the planet."
 asin="B017NOAA5K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="487"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Beadthoven 10pcs Tree of Life Charms Pendants Mixed Natural Gemstone Pend
 img="https://m.media-amazon.com/images/I/51tdiI1SHiL._SL500_.jpg"
 description="What You Will Receive: 10pcs Mixed Natural Gemstone Tree Of Life Charms. Size: about 27mm(1”) wide, 31mm(1.2”) long, 8mm thick, hole: 3.5x7mm. Natural Stone: Made of natural gemstone, and the metal tree frame is made of Platinum Plated Brass, shinny and smooth to touch, They are sturdy and durable for long time use.the beautiful details and ideal design adds eye-catching accents you can wear everywhere. Meaningful: Natural energy stone can give you energy, boosts creativity and protecting. Try to make jewelry gifts with them for your family and friend to express your best wishes, it will be a impressed and thoughtful gift. DIY Jewelry: Tree of Life symbol and gemstone will add vintage yet elegant accents to your crafts. Perfect for making Mala/Yoga/Healing necklace, dangle earrings, keychains, amulets, gift decoration and other more. Suitable for men, women and kids."
 asin="B09KT8R3PL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="383"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="18 Pieces Dried Flower Pendant Dried Flower Tree Charms Mixed Colors Lace
 img="https://m.media-amazon.com/images/I/51W0C1zCHBL._SL500_.jpg"
 description="Material: Dried Flowers, glass .All pendants are crafted with exquisite workmanship, and there are slightly differences among them. It can be made into a dried flower necklace and worn on the neck. This nice necklace will attract all the attention of others. Sweet gift: the charm pendant set can be gifted to your loved ones like lover, girlfriend, wife, fiancee, mother, daughter, your friend, or even yourself, you can create eye-catching DIY lucky charms on Valentine s Day, Mother s Day, Christmas and more, it s stylish, creative, full of special means, is a very useful accessory Wide uses: Pressed Flower Charm, it s stylish, creative, full of symbolic means, is a very useful accessory,Exquisite and classical design charms.It can be applied in kinds of decoration. ideal for necklace, bracelet, dangle, scrapbooking project, keychain, keyring, sweater chain, anklet, cellphone decorative accessories, etc. Package contents: translucent pendant featuring real dried flowers preserved in glass and surrounded provides a one-of-a-kind look to each piece.The image may show a slight difference to the actual flowers in color and. Novel design: Because we use real flowers, the flowers grew in different shapes, Can bring you a nice experience.a gift from nature！Let you feel the charm of nature！"
 asin="B094N57XCR"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="2806"
 >}} 
 ## Is tree of life symbol evil?

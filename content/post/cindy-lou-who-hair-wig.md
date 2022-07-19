@@ -25,7 +25,7 @@ title="Blonde Christmas Wig Christmas Girl Blonde Wig Red Bow Wig Standard"
 img="https://m.media-amazon.com/images/I/41aYrAq14BS._SL500_.jpg"
 description="Size: Standard PRODUCT INCLUDES: This Christmas Girl wig is a styled blonde wig with a red satin bow. FROM FUN COSTUMES: Our goal is always to provide you with great experiences that will turn into lasting memories. Our Made by Us costumes and accessories are designed to look authentic and feel great. So, when you wear this costume wig in conjunction with your Christmas costume, you re sure to channel great holiday spirit and keep it going for seasons to come. DETAILS THAT MATTER: Any blonde wig would be fun for your holiday look. But, the towering size of this wig combine with beautiful braids to make you look like you stepped right out of a Christmas story. HIGH QUALITY CONSTRUCTION: The holidays are a great time for celebration. So, you don t want to spend too much of it getting ready. That s why our Made by Us team has chosen the right materials and applied expert crafting techniques to ensure this braided wig will stay in style for years to come."
 asin="B00FFI5Z02"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="3741"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="HANGCosplay Braided Pigtail Blond Wig for Costume Party and Daily Use Cin
 img="https://m.media-amazon.com/images/I/41ys9Jj009L._SL500_.jpg"
 description="Perfect choice for Halloween, party, show and other occasions. It s useful all year round for cosplay, fashion or just for fun. Material: High-quality synthetic hair fibers, soft and breathable, you will be comfortable wearing it. Size: Basic wig cap and adjustable strap inside, which can fit different head sizes. The color of product may vary slightly depending on the monitor."
 asin="B07M873BQL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="36"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Blonde Character Costume Wig With Wire Braids Christmas Costume Wig with 
 img="https://m.media-amazon.com/images/I/41ZGeFPdOAL._SL500_.jpg"
 description="One Christmas girl wig, ideal for smaller Christmas Productions, School Plays, Etc. Makes a great Christmas girl wig Braids are fully adjustable and can be worn up or down. One Size Fits Most. - A Wig Cap Is Recommended, Especially If You Have Longer Hair. This wig set is made of synthetic fiber."
 asin="B00PKM17N2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="92"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Cindy Lou Who Wig Inspired of How the Grinch Stole Christmas! Braided Pig
 img="https://m.media-amazon.com/images/I/31ARftLlL+L._SL500_.jpg"
 description="Are you ready to be super cute Cindy Lou, full of joy and has a very kind heart? High grade heat resistant fiber Adjustable 23  cap size Tangle resistant"
 asin="B08YXB1G6Z"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="0"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Mayor Christmas Wig and Eyebrow Who Set"
 img="https://m.media-amazon.com/images/I/51onRWZlObL._SL500_.jpg"
 description="Mayor Wig and Eyebrow Set Expertly styled costume wig that is parted and curled over on each side Spirit Gum is needed to attach the eyebrows firmly Wig adjusts to fit most adults head sizes Super stylish and awesome!"
 asin="B00PA06QYE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="47"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Amscan Gold Tinsel Wrapped Ponytails Headbopper Accessory, One Size"
 img="https://m.media-amazon.com/images/I/41zpTJTxtcL._SL500_.jpg"
 description="2 Attached Gold Feathers And Ponytails Measures 8  X 5  You re Sure To Catch All Those Attention As You Party Along When Bop Around As You Move Complement Any Costume With This Gold Ponytail Head bopper From The Brand Name : Amscan"
 asin="B01BHFYGOC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1824"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Linfairy Kids Wig Halloween Costume Cosplay Wig for Child Ash Blonde"
 img="https://m.media-amazon.com/images/I/31EuXkelD7L._SL500_.jpg"
 description="Package: 1 wigs+1 free wig cap Head Circumference:50-56cm Material:high quality synthetic high temp fiber Color:As picture.The color may vary due to inherent manufacturing varations or your computer monitor color settings Perfect for Halloween, concerts, theme parties, weddings, dating, and any other occasion"
 asin="B08JHPDNM3"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="204"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Dr. Seuss Cindy-Lou Who T-shirt"
 img="https://m.media-amazon.com/images/I/31I24qW1Y4S._SL500_.jpg"
 description="Official Dr. Seuss T-shirt Lightweight, Classic fit, Double-needle sleeve and bottom hem"
 asin="B07KVJFR2C"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Dr. Seuss Cindy-Lou Who T-shirt"
 img="https://m.media-amazon.com/images/I/41ragcfO4nL._SL500_.jpg"
 description="Official Dr. Seuss T-shirt Lightweight, Classic fit, Double-needle sleeve and bottom hem"
 asin="B07PX49SMQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Topcosplay Womens or Girls Blonde Braids Wigs Christmas Cosutme Funny Wig
 img="https://m.media-amazon.com/images/I/41qhiCYQ-sL._SL500_.jpg"
 description="Classic Christmas costume synthetic wig. The wig cap is adjustable,fit most people s heads.Hand wash! Braids have posable inner wires, top bun has lightweight foam interior.Very easy to shape. Package:only 1*wig,1*net cap and 1*operation manual.Top quality from US brand Topcosplay."
 asin="B07KYCDNM4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="265"
 >}} 
 ## Why does Martha may not have a Who nose?

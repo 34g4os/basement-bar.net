@@ -20,7 +20,7 @@ title="Hot Wheels Monster Jam MJ Dog Pound Scooby Doo 1:64 Scale"
 img="https://m.media-amazon.com/images/I/61vZXpaCLAL._SL500_.jpg"
 description="1:64 scaled die-cast vehicle. Includes Team Flag. 2/5 in the MJ Dog Pound series."
 asin="B01MUF5EKL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -28,7 +28,7 @@ title="Hot Wheels Monster Jam Off Road #7 Scooby Doo 1:64"
 img="https://m.media-amazon.com/images/I/51BjvLsVmiL._SL500_.jpg"
 description="Scooby Doo Monster Jam Truck with Figure 1:64 Scale Die Cast Includes mini figure Ages 3 and up"
 asin="B00HEN5HF4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="85"
 >}} 
 {{< product 
@@ -36,7 +36,7 @@ title="Monster Jam, Official Scooby Doo Truck, Die-Cast Vehicle, Ruff Crowd Seri
 img="https://m.media-amazon.com/images/I/51sNJXMv2mL._SL500_.jpg"
 description="OFFICIAL MONSTER JAM TRUCK: Dominate everything in your way with the all-new, official Monster Jam 1:64 scale die-cast monster truck! AUTHENTIC REPLICA: The 1:64 die-cast series brings the Monster Jam action right to you! Official BKT tires, detailed graphics and a styled chassis make it feel like you’re holding the real thing! COLLECTIBLE POSTER: Keep track of your Monster Jam trucks with the exclusive collector’s poster! Each poster features an awesome Monster Jam truck on one side, so you can hang it on your wall! COLLECT THEM ALL: Collect Grave Digger, Megalodon, El Toro Loco, Max D and more and smash your way to victory in your own Monster Jam event! Start collecting today! For ages 3 and up."
 asin="B08711SBPS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="85"
 >}} 
 {{< product 
@@ -44,7 +44,7 @@ title="Hot Wheels Monster Trucks 1:64 Scale 2-Packs, 2 Toy Trucks with Giant Whe
 img="https://m.media-amazon.com/images/I/61wvBiu-iNL._SL500_.jpg"
 description="Collection of rivals in a 2-Pack of 1:64 Scale Hot Wheels Monster Trucks (each sold separately)! Giant wheels and rad details— kids will want to collect them all! Each set of two Monster Trucks in the collection are perfect for one-on-one crashing action! Packed out with awesome stats on back giving details of their strength, crash attack, motor-vation and more! Built to smash and crash everything in sight, crushing any car in the way! Nothing can stop the baddest vehicles ever built for head-to-head competition!"
 asin="B07F6ZBW52"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -52,7 +52,7 @@ title="​Hot Wheels Monster Trucks 1:64 Scale 4-Pack with Giant Wheels Gift Ide
 img="https://m.media-amazon.com/images/I/51CQJrXAwbL._SL500_.jpg"
 description="Monster Truck 4-Packs are perfect for crashing and smashing right out of the box. Giant wheels and rad details— kids will want to collect them all! The 1:64 scale is perfect for taking the bashing fun anywhere. Packed out with awesome stats on back giving details of their strength, crash attack, motor-vation and more! Built to smash and crash everything in sight, crushing any car in the way!"
 asin="B07GSNDCN2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## What happened to the Scooby Doo monster truck?

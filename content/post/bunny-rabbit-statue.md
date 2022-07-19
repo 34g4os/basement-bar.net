@@ -18,7 +18,7 @@ title="Design Toscano QM200861 Bashful the Bunny Lying Down Rabbit Outdoor Garde
 img="https://m.media-amazon.com/images/I/51nDqJ18ewL._SL500_.jpg"
 description="Its so adorable! - our cute bashful lying down bunny statue is sculpted with such detail that you ll want to give its little pink nose and fluffy tail a great big hug! Give an Easter rabbit - no need for an expensive rabbit hutch, fresh hay or messy clean up when you give our Bunny rabbit statue as an educational animal gift High quality animal statue - hand-cast using real crushed stone bonded with durable designer resin, our lawn ornament bunny is topped with a UV resistant Multicolored finish Design Toscano garden decor - exclusive to the Design Toscano brand, This bunny rabbit statue will seemingly hop along your patio stepping stones, through the back yard, and into it s rabbit den Our acorn hollow lying baby bunny decoration measures 5 wx10 dx7 h and weighs 1 lb. , the perfect size for tucking under an outdoor flower or garden plant"
 asin="B00BB574I4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -26,7 +26,7 @@ title="World of Products Koehler Home Decor Curious Bunny Garden Decor"
 img="https://m.media-amazon.com/images/I/41MGb55pHyL._SL500_.jpg"
 description="Size: 5.5  x 5.5  x 6.25  high. Polyresin and stone. Item Weight: 0.8 lbs."
 asin="B00MK8TK42"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1690"
 >}} 
 {{< product 
@@ -34,7 +34,7 @@ title="Cast Iron Rabbit Bunny Standing"
 img="https://m.media-amazon.com/images/I/21B3cs6iSPL._SL500_.jpg"
 description="Cast Iron 4 1/2 inches H x 2 iches L x 4 inches W Rustic Brown Rabbit is sitting"
 asin="B008J519GC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="377"
 >}} 
 ## What is the farthest a TV antenna can reach?

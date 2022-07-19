@@ -27,7 +27,7 @@ title="Bluonics Fresh Aire Water Based Air Revitalizer with 6 LED Color Changing
 img="https://m.media-amazon.com/images/I/41WSiWLFgRL._SL500_.jpg"
 description="Water based air Revitalizer with 6 colorful changing LED lights Create fresh and healthy water washed air Produces fresh and healthy water washed air helping many allergy and asthma sufferers Removes odor, secondhand-smoke and many other air contaminants Add 2-3 drops of fragrance oil or any of your favorite essential oil and it becomes an aromatizer while at the same it s cleaning the air"
 asin="B08FT8FQX7"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="121"
 >}} 
 {{< product 
@@ -35,7 +35,7 @@ title="Alen 75i Air Purifier, Quiet Air Flow for Extra-Large Rooms, 1300 SqFt, A
 img="https://m.media-amazon.com/images/I/31odo-YL4dS._SL500_.jpg"
 description="RECOMMENDED FOR: Dust, allergens, pollen, fur, pet dander, household odors PLUS smoke from cigarettes, wildfires, and VOC fumes from chemicals and aerosol sprays. Perfect for large rooms, offices, schools and open spaces. B7-FRESH FILTER: Has 3.6lbs of activated carbon to absorb smoke and toxic smells to help prevent respiratory issues. TRUE HEPA: Includes a Medical Grade H13 True HEPA layer that captures 99.99% bacteria, aerosolized viruses, and airborne particles larger than 0.1 micron. Includes a vacuumable prefilter to help increase filter life. 5 AIR QUALITY COLORS: A Laser Smart Sensor detects airborne particles and auto-adjusts with air quality changes. Blue = Excellent, Green = Good, Orange = Fair, Red = Poor, Purple = Bad air quality (high levels of particles). QUIETLY POWERFUL: Cleans 1300 SqFt every 30 minutes and captures airborne pollutants fast. Perfectly tuned to generate soothing pink noise - a frequency to help you sleep up to better."
 asin="B07FWSZL24"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -43,7 +43,7 @@ title="Green Air Pro 2 Plate HEPA Alpine Air Purifier Ozone Generator"
 img="https://m.media-amazon.com/images/I/51C6cErRvzL._SL500_.jpg"
 description="NOW COMES WITH AND USES TWO PURIFIER PLATES FOR TWICE THE PURIFICATION POWER, ODOR REMOVAL UV Lamp System HEPA Filter Large Backlit LCD Display, Covers up to 3500 sq.ft. Ozone Timer: 30 mins up to 3 hours"
 asin="B00370BLLM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="39"
 >}} 
 {{< product 
@@ -51,7 +51,7 @@ title="LEVOIT Air Purifiers for Home Large Room, H13 True HEPA Filter Cleaner wi
 img="https://m.media-amazon.com/images/I/31eOYrWoJ5L._SL500_.jpg"
 description="100% OZONE-FREE: The Vital 100 is completely ozone free and never uses UV-C light, which the research has shown can produce harmful ozone and secondary pollution. POWERFUL PERFORMANCE: With a CADR of 130 CFM/ 221 m3/h, the Vital 100 is perfect for living rooms, bedrooms, and kitchens. Covers 300 ft²/ 28 m² in only 18 minutes. (Only products over 6 pounds can be equipped with such powerful motors that optimize the air cleaning performance) 3-STAGE FILTRATION: Comes equipped with a washable pre-filter for large particles like lint and fur, a High-Efficiency Activated Carbon Filter for toxic fumes and unpleasant odors, and an H13 True HEPA Filter, which captures at least 99.97% of airborne particles 0.3 microns in size. SLEEP COMFORTABLY: With noise levels as low as 23 decibels, the Vital 100 won’t keep you up at night. You can also turn off the display lights when it’s time for bed. USER-FRIENDLY: Set a timer for 2, 4, or 8 hours whenever you like. The Check Filter Indicator will let you know when it’s time for a fresh filter. ENERGY EFFICIENT: It only costs dollar 1.66 a week to run the Vital 100 24/7 , allowing you to use it all day during times of high pollution, like wildfire season. EASY TO PLACE: The compact design and top-facing air vents let you place the Vital 100 near walls or in the corner of a room. FILTER REPLACEMENTS: Depending on usage, the filters should be replaced every 6–8 months. You can buy new filters by searching  B08BC5V6ZF  and  B085C22XWC . Remove the plastic wrap before installing a new filter."
 asin="B07X25BNBR"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -59,7 +59,7 @@ title="Germ Guardian AC4825 22” 3-in-1 True HEPA Filter Air Purifier for Home,
 img="https://m.media-amazon.com/images/I/41YBpBdjtsL._SL500_.jpg"
 description="3-IN-1 AIR PURIFIER FOR HOME - True HEPA air filter reduces up to 99.97% of harmful germs, dust, pollen, pet dander, mold spores, and other allergens as small as .3 microns from the air KILLS GERMS - UV-C light helps kill airborne viruses such as influenza, staph, rhinovirus, and works with Titanium Dioxide to reduce volatile organic compounds TRAPS ALLERGENS - Pre-filter traps dust, pet hair, and other large particles while extending the life of the HEPA filter REDUCES ODORS - Activated charcoal filter helps to reduce unwanted odors from pets, smoke, cooking fumes, and more QUIET OPERATION - The lowest setting can be used as gentle white noise at night for a quiet, restful sleep"
 asin="B004VGIGVY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -67,7 +67,7 @@ title="ap airpleasure Purifier Air Washer, Air Fresher Aroma Diffuser for Home, 
 img="https://m.media-amazon.com/images/I/41lm7uG1RtL._SL500_.jpg"
 description="High Effective Air Purifer: Expericially for large room, living room, bathroom, warehouse, office, etc. ap airpleasure air purfier lead a better life. Easy to Clean & Big Capacity: 1200ml capacity, just need to clean the bottle every day. Material: Made with BPA FREE material, the material just like baby bottle. And you can add a few drops of essential oils into the air purifier, acts as essential oil diffuser. LED Night Light: With night light design, 7 colors changing mood lights, give you a peaceful of night. Buy with Confidence: Please know that our air purifier do not contain essential oils."
 asin="B07ZPR7QPG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="41"
 >}} 
 {{< product 
@@ -75,7 +75,7 @@ title="Ivation Ozone Generator Air Purifier, Ionizer & Deodorizer -Purifies Up t
 img="https://m.media-amazon.com/images/I/51lYBoxZ2hL._SL500_.jpg"
 description="THIS PRODUCT DOES NOT MEET CALIFORNIA AIR CLEANER REGULATION REQUIREMENTS: CANNOT BE SHIPPED TO CALIFORNIA - Powerful Ion Energy – Releases Negative Ions to Purify & Refresh Up to 3,500 Sq/Ft Space for 24/7 Dust Control Improves Air Quality – Helps You Breathe Fresher, Cleaner Air with Reduced Dust, Allergens & Other Irritants Beneficial Ozone Generation – Activated Oxygen Removes Odors from Tobacco, Food, Pets, Paint, Mold & Mildew Durable & Attractive Design – Elegant Cherry Wood Exterior & Stainless Steel Cabinet Provide Years of Use Reenergizes Your Mood – Recreates Nature’s Unique, Invigorating Smell; Great for House, Apt. or Office"
 asin="B01G62N5SO"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="7379"
 >}} 
 {{< product 
@@ -83,7 +83,7 @@ title="Hepa Air Purifier for Home 200 Sq.ft Large Room with Air Quality Sensor, 
 img="https://m.media-amazon.com/images/I/41g8+0J1LAL._SL500_.jpg"
 description="High Performance: 【Compact but Powerful】CADR 100cfm(170m³/h), Air Changes for Fresh for 4 Times Per Hour in a 200 f² (18.5m²) Large Room;【360°Filtration System】Patented Air Fan Captures 99.97% Airborne Particles into the Purifier and Filters by H13 True HEPA Filter, Coming Out with Clean Fresh Air for Whole Family Smart & Automatic:【AUTO MODE】Fan Speed Adjusts Automatically According to the Air Quality; 【2-4-8H TIMER】;【SLEEP MODE】Lights Could be Turned Off and Air the Air Purifier Creates only 28DB Noise;【NIGHT-LIGHT MODE】Enter 2-Level of Night-Lights when Air Purifier is Standby High-Technology: 【Build-in Air Quality Sensor】Runs and Detects Surrounding Air Quality Instantly, and 4-Colors of the【AQ Light】Indicates 4 Levels of Air Quality ( Red - Polluted Air | Orange - Normal Air | Green-Good Air | Blue-Pure Air ) ; You Could See How Quick the Purifier is Purifying the Air in The Room 4-Stage H13 True HEPA Filter: TD-1500 Air Purifiers Come with a Inserted 【H13 HEPA Air Filter】It removes 99.97% of Airborne Pollutant Particles As Tiny As 0.3 Micron: ① Pre-filter [captures hairs, furs and pets dander] ②True HEPA Filter [removes smoke, dust, pollen] ③ Activated-Carbon Filter [eliminates odor, smell, vocs] ④ Protective Net Filter [stop any particles going into the air fan system and protect the machine] Packages & Spare Parts: 【Package Includes】 1 x Air Purifier , 1 x Hepa Filter Inserted, 1 x Customer Manual Book; 【Replacement Filter】is Available In TredyHome Store (Search ASIN: B08152MLP4)【The Filter Usually Lasts for More than 6 Months if You Use it Normally and Clean up Every 1-2 Weeks with Vacuum Cleaner】"
 asin="B07Z1S4SY4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="41"
 >}} 
 {{< product 
@@ -91,7 +91,7 @@ title="VEVA Air Purifier Large Room - ProHEPA 9000 Premium Air Purifiers for All
 img="https://m.media-amazon.com/images/I/318tOcmIBBL._SL500_.jpg"
 description="Our high-quality, medical-grade air purifier for home use captures tiny unwanted particles traveling through your home. Built with advanced 4-in-1 technology, our HEPA filter air purifier features a washable pre-filter, small dust & premium activated carbon filter, and a HEPA air filter. Ideal for households with pets, smokers, or lots of cooking, our air purifiers for home (large room or small room) keep your living space odor-free. Our HEPA air purifier does not produce trace amounts of ozone, making it a safe choice for your family. Complete with a front panel and pre-filter panel, our air purifiers for bedroom use are great for homes with a baby, cat, or dog. Sleek and stylish, our decor-friendly air purifier with washable filter is a must-have for your home or office. Note: Replace filters every 2-6 months for optimal results."
 asin="B07T3V8NK6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1408"
 >}} 
 {{< product 
@@ -99,7 +99,7 @@ title="Ivation 5-in-1 HEPA Air Purifier & Ozone Generator, Ionizer & Deodorizer 
 img="https://m.media-amazon.com/images/I/510xcmUpI5L._SL500_.jpg"
 description="THIS PRODUCT DOES NOT MEET CALIFORNIA AIR CLEANER REGULATION REQUIREMENTS: CANNOT BE SHIPPED TO CALIFORNIA - ALL-IN-ONE AIR PURIFIER – item IVAOZAP04 Cleans, Freshens, Filters & Eliminates Dust & Airborne Contaminants for a More Comfortable Breathing Experience in Home or Office POWERFUL OZONE GENERATOR – Electrical Charge Converts Oxygen to Ozone for Clean-Smelling Effect; Removes Odors Caused by Smoke, Pets, Food, Paint, Etc. NEGATIVE ION TECHNOLOGY – Releases Positively Charged Particles to Minimize Dust, Dander, Mold Spores, Pollen & Other Common Indoor Allergens & Pollutants 5-IN-1 AIR FILTRATION – Multilayer Design Delivers Max Purification; Ozonator, HEPA Filter, Activated Carbon Filter, Photocatalytic Filter & Ultraviolet Germicidal Lamp EASY TO CLEAN & OPERATE – Unit Features Beautiful Cherry Wood Exterior, Removable Fan Grill & Control Knobs to Adjust Ozonator & Ionizer/UV/Fan Speed"
 asin="B079C665FN"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="7379"
 >}} 
 ## Is a whole home air purifier worth it?

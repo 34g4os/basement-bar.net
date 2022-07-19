@@ -29,7 +29,7 @@ title="LEDMO 120W LED Wall Pack Light 4 Pack Dusk to Dawn with Photocell Outdoor
 img="https://m.media-amazon.com/images/I/51oCHhnqnsL._SL500_.jpg"
 description="Dusk to Dawn Photocell Included -120W led wall pack light fixture, turn on/off for Photocell Dusk-to-Dawn . Flexible Installation,two installation methods for you to choose,Junction Box or Wall Mount High Quality - commercial-grade housing features a lens made of high quality-shatter resistant epoxy designed to withstand heat and impact! Energy Save - Reduce your electricity running cost with up to 80% by replacing MH/HIP/HID bulbs with 120W LED. The energy savings and the long-lasting lifespan of LED makes for a brighter, smarter and more sustainable lighting solution. Save Your Time -LED wall packs are non toxic, unlike traditional HID wall packs, and will not fade over time, so you can enjoy a consistent high output light,you don t replace frequently"
 asin="B07XXTSPGC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="224"
 >}} 
 {{< product 
@@ -37,7 +37,7 @@ title="LED Barn Light, deerdance Dusk to Dawn Outdoor Lighting with 80W 10000LM 
 img="https://m.media-amazon.com/images/I/41ewbD+TbeL._SL500_.jpg"
 description="【10000LM Super Brightness 】Deerdance dusk to dawn outdoor lighting with 104pcs upgraded top-quality chips that provide up to 5000K and 10,000LM brightness, bright as daylight. Perfect match the brightness of the illuminating for outdoor activities in a dark environment in the yard, backyard, garden, farms, street, garage, factory, docks and so on. 【Dusk To Dawn Photocell & Energy Saving】 With sensitive and accurate photocell, this dusk to dawn led barn light automatically turns on at night and turns off in the daytime, intelligently reducing the waste of electricity. What s more, our 80W outdoor security light provides 10000LM brightness, which is more effective than other 400W 10000LM HPS/halogen bulbs to help you save more than 80% of your electricity bill. 【2 Installations Methods】It is easy to install the led security lights, only takes 15 minutes to complete the installation. (Note: Cut off power before installation. ) And deerdance led flood light not only for wall mount but also for pole mounting. (mounting arm not included) You can mount the light up to 26 feet, and it will cover a large area of 82 feet x 82 feet. 【All Weather Resistant】 The outdoor led dusk to dawn area light is made of the die-cast aluminum structure, with excellent corrosion resistance & heat dissipation performance and a professional IP65 waterproof design. So the led area light can works in a wide temperature range from -13℉ to +113℉, it won t fade even for decades. So no matter which state you are in the US, you can use it safely and for a long time. 【Reliable After-sales Service】Deedance dusk to dawn led barn light provides glare-free and 10000lm supper illumination that improves your home and retail security! If you have any questions, deerdance excellent customer service will always be with you. To obtain warranty service timely, please contact us via Amazon Messages."
 asin="B094JKT3YT"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="25"
 >}} 
 {{< product 
@@ -45,7 +45,7 @@ title="6-Pack Dusk to Dawn LED Light Bulbs, A19 11W(100Watt Equivalent), E26 Bas
 img="https://m.media-amazon.com/images/I/41vZxG3gDlL._SL500_.jpg"
 description="Convenient Auto on/off- These dusk to dawn a19 LED light bulbs are built in smart light sensor, it will automatically turn on at dusk and turn off at dawn according to the surrounding light changes. You won’t need to turn it off on purpose. Energy Efficient and money saving - These bulbs with a long lifespan for more than 25,000+ hours. Equivalent to 100-watt incandescent but only consuming 11 watts of energy, saving 90% on your energy bill! Superior Brightness 1200LM - These LED sensor bulbs are strictly tested about lighting quality to provide great illumination. Daylight White 5000K LED Bulb emits over 1200 LM with more than 90+ CRI which makes lighting more vivid & vibrant and give you a nice comfort bright experience at any dark place. No glare, no flicker No flash and no dim anymore! Wide Application - Ours Dusk to Dawn light bulbs suitable for both indoor and outdoor use. Easy install screwing into any standard E26 light socket or fixture. With the light sensor, it can be widely used for these places like porch, garage, courtyard, hotel, offices, hospital, schools, factories, museum, shopping malls, supermarkets, restaurants or any other place where accent lighting is required. Safety & Reliable - No flicker, no flash, No lead/ mercury/ UV / IR, eye protection design. We uphold the highest standards for all our products by testing each product for optimal performance and safety."
 asin="B088R4N756"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="791"
 >}} 
 {{< product 
@@ -53,7 +53,7 @@ title="Led Wall Pack Light 120W 16200lm with photocell 840W HPS/HID Equivalent D
 img="https://m.media-amazon.com/images/I/51YJ6lN49LL._SL500_.jpg"
 description="☘120W Led Wall Pack is uses aluminum alloys waterproof IP65 body can be very shatter resistant and handle all weather conditions., it is a suitable outdoor LED Wall Light used widely for buildings and outdoor areas ☘High quality chip --much brighter and more durable and have automated dusk-to-dawn photocell functionality light OFF at sunrise/daytime and light ON at sundown/night ☘LED wall pack light 120w saving over 80% on your electricity bill by replacing 650-840W halogen floodlight and MH/HIP/HID bulbs ☘Super Bright | Saves Energy | NO Flickering | Contains NO mercury | Emits NO UV/IR Light | Waterproof IP65 Rated | Heat and Impact Resistant | Anti-Leakage Silicone Gaskets | More Durable ☛Warranty for 5 years☚If you have problem with our led wall pack light or if you want to seek warranty, please contact us through Amazon Buyer-Seller Messaging Service, we will further assist you"
 asin="B07XM9ZQ3R"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="57"
 >}} 
 {{< product 
@@ -61,7 +61,7 @@ title="LED Dusk to Dawn Light - Brightest on Amazon - Upgraded 70 Watt - 10,000 
 img="https://m.media-amazon.com/images/I/31LrCXZKeTL._SL500_.jpg"
 description="Heavy Duty Commercial LED dawn to dusk light, Rated for 50,000 hours and 5 Year Warranty. Contact us directly for any issues"
 asin="B075PHV87L"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="84"
 >}} 
 {{< product 
@@ -69,7 +69,7 @@ title="LEDMO 200W LED Parking Lot Lights Adjustable Slip Fit Mount with Dusk to 
 img="https://m.media-amazon.com/images/I/51oFDIGoN+L._SL500_.jpg"
 description="Top Quality & Energy Efficiency—This 200W led parking lot lights with photocell use high-efficiency chips to provide 135lm/w of bright led parking lot street light to make your parking lot, driveway, sport court, backyard and other places as bright as daylight, saving hundreds of dollars every year. Type3 distribution provides wider illumination coverage. Equipped with black shorting cap for daily use, and use blue photocell to achieve automatic lighting from dusk to dawn Time-saving and Easy Installation – LED parking lots led light is equipped with a slip fitter and the slip fitter is separated from the light, which can be easily installed by a single person. Simply fix the slip fitter to the round pole, then put the light on the slip fitter and tighten the screws. Just a few simple steps to complete the installation of the 200W parking lot light Reliable Design– 200W parking lot led light Areas series is designed with curved lines for a more harmonious and beautiful look. The use of aluminum material provides strong protection and durability for the heat while ensuring heat dissipation. The radiator adopts a hollow design to increase the heat dissipation surface, accelerate the air flow, take away more heat, protect the chip, and provide you with 50,000+ hours of long-lasting lighting service Waterproof IP65 - Designed for both wet and damp locations, enclosed designed stands up to Rust, Corrosion, Cracking and any Electrical Shocks or Fires due to Moisture Unlimited 5-year Warranty & Professional Service - LEDMO promises that all Areas led shoebox light are returned free of charge within 30 days, and provides 5 years reliable warranty. LEDMO insists on putting products and customers first! If you have any questions about lamp selection, installation layout, after-sales, etc. For example, DIALux lighting layout service, just click  contact us  to send a message to us, we will make the lighting layout for you according to your requirements"
 asin="B07V2KHZGT"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="133"
 >}} 
 {{< product 
@@ -77,7 +77,7 @@ title="TORCHSTAR Dusk to Dawn Light Bulbs Outdoor, Sensor A19 LED Light Bulb, UL
 img="https://m.media-amazon.com/images/I/41WTJ2RIa3L._SL500_.jpg"
 description="Sensitive Detection: This A19 LED bulb works properly even in lighting fixtures or close to other fixtures by only detecting sunlight rather than other light sources Conserve Energy: This bulb automatically turns on at night and turns off at daytime, saving you the trouble of manual controls and saves energy when not needed Light up Every Corner: This A19 bulb can light up every dark corner thanks to its incredible 800lm output that puts an end to worrying about tripping and falling in the dark Wide Application: This bulb is a great match for porches, garages, gardens and outdoor lamps thanks to the common E26 base that lets it be used with all E26/E27 socket lighting fixtures Reliable Backup: This product is UL and Energy Star listed for outstanding quality. The hassle-free 3-year unlimited warranty provides you with our excellent after-sales service Only used for outdoors"
 asin="B07DQCKD4H"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="2612"
 >}} 
 {{< product 
@@ -85,7 +85,7 @@ title="120W LED Barn Light 18000LM Dusk to Dawn Outdoor Light 5000K Daylight Adj
 img="https://m.media-amazon.com/images/I/416dQtZmv7L._SL500_.jpg"
 description="Energy Saving:120W LED barn light with built-in CREE COB provides stunning 18000 Lumens high output brightness to replace 500W MH. DURABLE : Constructed of heavy-duty rugged die-cast aluminum, with excellent heat dissipation,IP65 waterproof, shock and erosion resistant, suitable for Wet Locations. Automatically lit：LED Barn Lights Automatically turns on at dusk and off at dawn Save your electricity and money Easy Installation: our products include mounting arms and brackets, very easy to install, suitable for outdoor, backyard, garage, commercial area Hassle-free Warranty - 50000 hours lifetime. LEDMO five-year unlimited warranty got you covered. Contact us at any time with any issue."
 asin="B08CB4PT4T"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="109"
 >}} 
 {{< product 
@@ -93,7 +93,7 @@ title="Sengled Dusk to Dawn Light Bulbs Outdoor, 5000K Daylight LED Light Bulb 1
 img="https://m.media-amazon.com/images/I/31jbGJi2CWL._SL500_.jpg"
 description="【Upgrade Dusk to Dawn Sensor】Sengled Led Sensor Light Bulb built-in high quality Photocell sensor, it will detect the light intensity then turn on light at dusk and turn off light at dawn automatically. The bulbs will not interfere with each other, even if the distance is only 6 inches. Saving you the trouble of manual control. 【Comfortable Lighting 】This A19 led light bulb gives off a a a bright amount of blue-white light, 5000 Kelvin, similar to the daylight, adopted the latest LED technology, no glare, no flicker. It was designed to go easy on the eyes, best for indoor and outdoor spaces such as front porch, garage, dark hallways. 【Energy Saving & Long Life Bulb】With a lifetime of up to 25000 hours, you can reduce the hassle of frequently replacing your light bulbs, and enjoy a perfect lighting solution for over 20 years. 75W brightness use only 10.5W energy consumption, cut your electric bill more than others. 【Easy installation】This energy-saving LED bulb has a similar shape and size as a standard incandescent bulb. It s the perfect sustainable replacement for traditional incandescent bulbs. Easily transform ordinary lamps and fixtures into sensor lights - no additional wired needed. 【Safety & Reliable】Our Dusk to Dawn light bulb meets UL-Listed, RoHS, FCC, meaning it has met their rigorous nationally recognized safety requirements. We uphold the highest standards for all our products by testing each for optimal performance and safety."
 asin="B08RNK2BRP"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -101,7 +101,7 @@ title="LED Barn Light, Dusk to Dawn Outdoor Lighting with 100W 10000LM 5000K Day
 img="https://m.media-amazon.com/images/I/51vUJ4rPVZL._SL500_.jpg"
 description="💡DUSK TO DAWN PHOTOCELL : This LED barn light with the more sensitive and accurate photocell, turn on the lights automatically at night and turns off at daytime. 5000K daylight white perfect matches the brightness of illuminating backyard, barns, farms, parking lots, garages and alleyways. 💡EXCELLENT PERFORMANCE: Karjoefar LED barn light with 104pcs upgraded top-quality chips, create a stunning 100W and 10000 lumens brightness output, bright as a small sun. This outdoor barn lights has a long-lasting 50,000 hours lifespan. 💡ENERGY SAVING: With AC100-120V input, which makes this yard lights more adaptable to a larger application range and cuts down unnecessary wastage caused by voltage instability. Our 100W security light provides 10000LM brightness, which is more effective than other 400W 10000LM HPS/halogen bulbs to help you save more than 80% of your electricity bill. 💡EASY INSTALL: It can be fixed on the wall or various types of mounting arms, 82ft x 82ft large light coverage when mounted at 30 feet. Works as yard light, outdoor street light, area light, security lights, barn light and perimeter Lighting. 💡RELIABLE QUALITY: This dusk to dawn outdoor lighting adopts die-cast aluminum structure, has excellent corrosion resistance and heat dissipation performance, professional IP65 waterproof design, and has been listed by ETL and DLC, high quality, safe operation. We also provide 2-years warranty, you can feel assured to use. If you have any quality problem, pls email us."
 asin="B091GWR4G4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="69"
 >}} 
 ## How many lumens is a standard dusk to dawn light?

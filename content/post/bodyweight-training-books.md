@@ -16,7 +16,7 @@ title="Bodyweight Strength Training Anatomy"
 img="https://m.media-amazon.com/images/I/41ttGo61agL._SL500_.jpg"
 description="Human Kinetics Publishers"
 asin="1450429297"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## What's the bottom of the lamp called?

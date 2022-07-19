@@ -28,7 +28,7 @@ title="GE Outdoor TV Antenna, Long Range Antenna, 4K 1080P VHF UHF Digital HDTV 
 img="https://m.media-amazon.com/images/I/41g6mS3qFFL._SL500_.jpg"
 description="IDEAL FOR RURAL AND SUBURBAN AREAS – Weather resistant antenna can be installed outdoors or in your attic and receive 1080p and 4K reception up to 70 miles from the broadcast signal HDTV WITHOUT A MONTHLY BILL – Receive free local news, severe weather, and sports broadcasts along with HD channels like NBC, ABC, PBS, and Fox while cutting out that expensive cable or satellite bill SUPPORTS MULTIPLE TVs IN YOUR HOME – Capable of providing superior VHF, UHF, and HD signal to multiple TVs in your home – requires a splitter and coax cable (not included) INCLUDED COMPONENTS – Mounting bracket, J-mount, VHF dipoles, UHF elements, signal enhancing reflector rods and bracket, along with simple to follow instructions on assembly and installation"
 asin="B01MYMVPVX"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -36,7 +36,7 @@ title="GE Attic Mount TV Antenna, Long Range Antenna, Supports 4K 1080P Digital 
 img="https://m.media-amazon.com/images/I/416Eo8McuoL._SL500_.jpg"
 description="IDEAL FOR RURAL AND SUBURBAN AREAS – Long range antenna can be installed in your attic to remain out of sight while receiving 1080p and 4K reception up to 60 miles from the broadcast signal HDTV WITHOUT A MONTHLY BILL – Receive free local news, severe weather, and sports broadcasts along with HD channels like NBC, ABC, PBS, and Fox while cutting out that expensive cable or satellite bill SUPPORTS MULTIPLE TVs IN YOUR HOME – Capable of providing superior VHF, UHF, and HD signal to multiple TVs in your home – requires a splitter and coax cable (not included) INCLUDED COMPONENTS – Mounting bracket, mast, VHF dipoles, UHF dipoles, signal enhancing reflector rods and brackets, along with simple to follow instructions on assembly and installation"
 asin="B00DNJZ58M"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -44,7 +44,7 @@ title="[Newest 2021] Five Star Outdoor HDTV Antenna up to 200 Mile Long Range, A
 img="https://m.media-amazon.com/images/I/41a-zOhMFBL._SL500_.jpg"
 description="[2021 NEW MULTI-DIRECTIONAL OUTDOOR ANTENNA] Receive 1080p and 4K reception up to 200 miles from the TV Transmitters, our outdoor TV antenna has superior reception for both VHF and UHF signals. Cut the expensive cable or satellite bill with this powerful antenna, you can save tons of money. [ULTRA HD and ATSC 3.0 READY] Digital antenna Capable of providing superior VHF, UHF, and HD signal to multiple TVs in your home requires TV splitter. Find the most over-the-air stations For FREE in HD. Watch top-rated shows, live sports, and local news and weather with Five Star Antenna. [NEW AND INNOVATION DESIGN] Extended Antenna Length designed for more stable and strong signal reception, longer and larger receiving elements than any of the other antennas. [SAVE NOW AND ENJOY FREE CHANNELS] Package included: Antenna, Mounting bracket, J-pole, 40 ft. RG6 Coaxial Cable with simple to follow instructions on assembly. Freely mount our Five Star antenna with pole on roof, attic, chimney, eave, mast or outside the house with or without line of sight. Best gift for parents and family members for Thanksgiving, Christmas and New Year."
 asin="B09GH4L7WH"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="920"
 >}} 
 {{< product 
@@ -52,7 +52,7 @@ title="[Newest 2021] Five Star Outdoor HDTV Antenna up to 200 Mile Long Range, A
 img="https://m.media-amazon.com/images/I/41BO+QGiyaL._SL500_.jpg"
 description="[2021 NEW MULTI-DIRECTIONAL OUTDOOR ANTENNA] Receive 1080p and 4K reception up to 200 miles from the TV Transmitters, our outdoor TV antenna has superior reception for both VHF and UHF signals. Cut the expensive cable or satellite bill with this powerful antenna, you can save tons of money. [ULTRA HD and ATSC 3.0 READY] Digital antenna Capable of providing superior VHF, UHF, and HD signal to multiple TVs in your home requires TV splitter. Find the most over-the-air stations For FREE in HD. Watch top-rated shows, live sports, and local news and weather with Five Star Antenna. [NEW AND INNOVATION DESIGN] Extended Antenna Length designed for more stable and strong signal reception, longer and larger receiving elements than any of the other antennas. [SAVE NOW AND ENJOY FREE CHANNELS] Package included: Antenna, Mounting bracket, J-pole, TV splitter along with simple to follow instructions on assembly. Freely mount our Five Star antenna with pole on roof, attic, chimney, eave, mast or outside the house with or without line of sight. Best gift for parents and family members for Thanksgiving, Christmas and New Year."
 asin="B09GH27K8N"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="920"
 >}} 
 {{< product 
@@ -60,7 +60,7 @@ title="[Newest 2020] Five Star Yagi Satellite HD TV Antenna up to 200 Mile Range
 img="https://m.media-amazon.com/images/I/413Q4vaYcGL._SL500_.jpg"
 description="[2020 NEW YAGI OUTDOOR ANTENNA] Enjoy FREE local HD Channels and without cable bills. Outdoor antenna receives 4K, 1080P, 1080i ,720p HD Channels as local news, ABC, CBS, NBC, PBC, Fox, sitcoms, kids, sports programs and SO MUCH MORE. Cut the cable and with this powerful outdoor antenna, you can save now and No Cable, No Problem. [ENHANCED SIGNAL RECEPTION] Antenna can be installed outdoors or in your attic and receive 1080p and 4K reception up to 200 miles from the broadcast signal [NEW AND INNOVATION DESIGN] Extended Antenna Length designed for more stable and strong signal reception, longer and larger receiving elements than any of the other Yagi antennas. Unlike other brand antenna, Five Star antenna has innovation on the structure and powerful reception. [WEATHER PROOF STRONG PERFORMANCE] This Yagi outdoor antenna has updated outdoor performance. Antenna has well built material with durable design, lightning protected, prevents from strong wind, heavy rain, and receives high definition and digital signals. [SAVE NOW AND ENJOY FREE CHANNELS] Package included: FiveStar Yagi antenna, 40 ft coax cable, Mounting JPole 20 inch Height, Kit: (4-way splitter, 15 of cable clips) Freely mount our Five Star antenna with pole (included) on roof, attic, chimney, eave, mast or outside the house with or without line of sight. Antenna has pre-assembled for some parts. Fully assembly required. ---100% Customer Satisfaction –Contact Seller or Amazon Support for questions and troubleshooting. Best gift for parents and family members for Thanksgiving, Christmas and New Year."
 asin="B082DNTMCW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="920"
 >}} 
 {{< product 
@@ -68,7 +68,7 @@ title="Channel Master EXTREMEtenna Long Range Multi-Directional Outdoor TV Anten
 img="https://m.media-amazon.com/images/I/51ltk52Sx-L._SL500_.jpg"
 description="Enjoy the Most Popular HDTV Channels and Your Favorite TV Shows for Free with no Subscription Fees Supports Uncompressed 1080i HDTV Broadcasts for the Highest Quality Video and Audio Available (Better than Cable & Satellite) Multi-Directional (180 Degree Reception Span) with 80+ Mile Range Compact Size Allows for Easy Installation on Roof, Chimney, Eave, Wall, Attic, Balcony, etc. Comes Preassembled with Mounting Hardware and an Installation Guide [Note: Mast and Coaxial Cable Sold Separately]"
 asin="B000FVVKQM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="690"
 >}} 
 {{< product 
@@ -76,7 +76,7 @@ title="SLx 360° Digital HDTV Antenna with Full Installation Kit for Outdoors or
 img="https://m.media-amazon.com/images/I/31-aSYYBcwL._SL500_.jpg"
 description="✔️ 360° RECEPTION - The unique omni-directional design of the Digidome digital TV antenna enables it to receive all locally available TV signals without the need for a rotating-mount. Capable of receiving VHF and UHF frequencies, it is the perfect digital antenna for Smart TV, HDTV and Analog. ✔️ LONG RANGE - With the included signal booster the Digidome HD antenna can receive television channels from near and far with a clear picture. Depending on the power of the transmission, it is possible for it to be a 300 mile range TV antenna although this may vary. Ranges of 150 miles should be standard. ✔️ MODERN DESIGN - Just because TV Antennas are functional items doesn t mean they can t look good! With its sleek look the SLx Digidome brings all the functionality of a larger outdoor antenna in a compact and modern design that won t clutter your roof-top or attic. ✔️ FULL KIT INCLUDED - Inside the box you will find everything you need to quickly install the Digidome antenna outside or in the attic. Includes a 10m Coax Cable, Cable Clips, Amplifier, Wall Bracket and Fixings. Set-up is simple and straightforward with our easy to follow User Guide. ✔️ QUALITY YOU CAN TRUST - SLx is renowned for producing high quality electrical accessories and signal distribution products. Every product is designed and developed with our customers in mind which is why we offer a full 24-month warranty, easy return policy and friendly, locally based customer service."
 asin="B08P75QT3X"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="449"
 >}} 
 {{< product 
@@ -84,7 +84,7 @@ title="GE Outdoor / Attic Mount Amplified TV Antenna, Long Range, Supports 4K 10
 img="https://m.media-amazon.com/images/I/41PV5dBKFVL._SL500_.jpg"
 description="IDEAL FOR RURAL AND SUBURBAN AREAS – Weather resistant amplified antenna can be installed outdoors or in your attic and receive 1080p and 4K reception up to 60 miles from the broadcast signal HDTV WITHOUT A MONTHLY BILL – Receive free local news, severe weather, and sports broadcasts along with HD channels like NBC, ABC, PBS, and Fox while cutting out that expensive cable or satellite bill SUPPORTS MULTIPLE TVs IN YOUR HOME – Capable of providing superior VHF, UHF, and HD signal to multiple TVs in your home – requires a splitter (not included) INCLUDED COMPONENTS – Mounting bracket, mounting hardware, amplifier, power adapter, and 10 ft. outdoor rated coaxial cable, along with simple to follow instructions on assembly and installation"
 asin="B06XBF89T8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -92,7 +92,7 @@ title="Pixel Technologies AFHD-4 AM FM HD Radio Antenna works with Coaxial RG6 C
 img="https://m.media-amazon.com/images/I/310zvXzSMxL._SL500_.jpg"
 description="LONG RANGE OMNIDIRECTIONAL - Digital Radio Antenna with FM Stereo Reception 80 Miles, FM HD Radio Reception 50 Miles, AM Radio Reception (Mono) 90 Miles, AM HD Radio Reception 50 Miles EASY to ASSEMBLE and EASY to INSTALL - Indoor and Outdoor Install Options Including External Wall Mount and Pipe Mounting Hardware. Perfect Outdoor Radio Antenna for Home and Commercial Installations. BETTER RECEPTION - Outperforms Other Indoor and Outdoor AM FM Antenna and Antenna Rotator System BOSE WAVE FM ANTENNA & Home Stereo FM Antenna Includes Ohm Twin Lead Wire & 75 Ohm Single Lead Wire The Antenna is 48 Inches Tall - Weight is 3 pounds and Works with Coaxial cable"
 asin="B001I7T6AE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="120"
 >}} 
 {{< product 
@@ -100,7 +100,7 @@ title="McDuory TV Outdoor Yagi Antenna with Long Range Reception Capacity - Digi
 img="https://m.media-amazon.com/images/I/31EDwT61VrL._SL500_.jpg"
 description="LONG RANGE Yagi Outdoor Antenna - Supports 1080i HDTV broadcasts for high-quality picture and sound with a 150 mile total range, or up to 70+ miles from the broadcast towers, for both UHF/VHF Signals. Receive and Optimizing UHF/VHF Signals -- Full HDTV support 720p, 1080i, 1080p, 4K | Working Frequency: VHF 170~230MHz | UHF 470~860MHz | Receive free digital broadcast high definition TV signals, save your monthly cable / satellite bill. EASY Installation - Antenna comes with most pre-assembled , only few elements need to be combined together. No Tools inquired. Suitable for all people. Weather Resistant -- McDuory Yagi outdoor TV Antenna is designed to be an Outdoor antenna, so its Sturdy, Lightning protected, Durable. Solid construction to stand for varies weather condition. What you get -- McDuory UHD-3968 Outdoor Yagi Passive Antenna with all accessories."
 asin="B07JMDZZWM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="165"
 >}} 
 ## Is there a TV antenna that reaches 100 miles?

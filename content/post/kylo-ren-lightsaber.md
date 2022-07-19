@@ -25,7 +25,7 @@ title="Star Wars: The Last Jedi Bladebuilders Kylo Ren Electronic Lightsaber"
 img="https://m.media-amazon.com/images/I/41ewQ7qXjRL._SL500_.jpg"
 description="Movie-accurate appearance Simulates classic lights and sounds Includes connector Customizable with other BladeBuilders (sold separately) Includes: Lightsaber, lightdagger, connector, and instructions."
 asin="B01N29DCYG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="4578"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Star Wars Kylo Ren Electronic Red Lightsaber Toy for Ages 6 and Up with L
 img="https://m.media-amazon.com/images/I/31qKo3aArgL._SL500_.jpg"
 description="KYLO REN STAR WARS LIGHTSABER. Red, crossguard light-up Kylo Ren electronic lightsaber. LIGHTS, SOUNDS AND PHRASES. Kylo Ren lightsaber features lights, sounds and phrases from the dark warrior, Kylo Ren! SCAN CODE FOR APP CONTENT. Scan the included code to access training videos and character content in the Lightsaber Academy app. TRAIN IN THE WAYS OF THE DARK SIDE. Press the button to hear phrases from Kylo Ren and start lightsaber training on the path to the dark side. MAY THE FORCE BE WITH YOU. Look for other Star Wars lightsabers and role-play items from Star Wars to imagine all the action of the Star Wars Saga! (Each sold separately. Subject to availability.)"
 asin="B07VTQL879"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="252"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Star Wars The Black Series Kylo Ren Force FX Deluxe Lightsaber"
 img="https://m.media-amazon.com/images/I/21QDb22SYvL._SL500_.jpg"
 description="Create adventures and scenes from Star Wars entertainment Collect the wide range of articulated Star Wars action figures that are each sold separately Most of the Star Wars vehicles have realistic action features Pretend to be favorite characters with the role-play gear Battle as a Jedi or a Sith, a Rebel or Imperial trooper, a Battle Droid or Clone Trooper"
 asin="B00SOFZLLG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="33"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Star Wars Bladebuilders Kylo Ren Deluxe Electronic Lightsaber"
 img="https://m.media-amazon.com/images/I/31phmY2HbCL._SL500_.jpg"
 description="Star Wars Bladebuilders Kylo Ren Deluxe Electronic Lightsaber Pulsating light effect that mimics Kylo Ren’s fiery lightsaber from the Star Wars movies Simulates classic lightsaber lights and power-up and battle sounds Includes lightsaber."
 asin="B01N29DCYE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="5158"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Galaxy s Edge Star Wars Legacy Lightsaber (Kylo Ren) Black"
 img="https://m.media-amazon.com/images/I/31RlydvONCL._SL500_.jpg"
 description="Exclusive Star Wars Galaxy s Edge Kylo Ren Legacy Crossguard Lightsaber Hilt Features red lights and sound effects when used with a Galaxy s Edge lightsaber blade (sold separately) Hilt and case only. Lightsaber blade sold separately. Each lightsaber comes in its original storage case Recommended for ages 8+"
 asin="B07ZHNZZQN"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="83"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Star Wars The Black Series Kylo Ren Force FX Deluxe Lightsaber"
 img="https://m.media-amazon.com/images/I/41MWkI33b5L._SL500_.jpg"
 description="Realistic light effects Authentic movie sound effects Real metal hilt Includes Lightsaber, display stand, and instructions"
 asin="B00VI49HEM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="31"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Uncle Milton Star Wars Science Kylo Ren Lightsaber Room Light"
 img="https://m.media-amazon.com/images/I/3113PGDn1-L._SL500_.jpg"
 description="Feel like a Sith and learn how electronics make a lightsaber work as you construct your own version of the lightsaber used by Kylo Ren! Use remote control to activate the bright LED light and awesome sound effects! Science learning poster connects the lightsaber crystals of the Star Wars galaxy to real crystals on Earth, and how crystals are used in LED electronic circuits and everyday devices. Authentic cross-hilt lightsaber design over 25 inches long – lights up red with a pulsing, 2-stage light effect STEM: Geology, Electronics"
 asin="B016SRSITS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="404"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Star Wars Bladebuilders Kylo Ren Deluxe Electronic Lightsaber"
 img="https://m.media-amazon.com/images/I/31zZMmv7+pL._SL500_.jpg"
 description="Brand New in box. The product ships with all relevant accessories"
 asin="B0746PY7TT"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="704"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Star Wars The Black Series Kylo Ren Force FX Deluxe Lightsaber, Standard 
 img="https://m.media-amazon.com/images/I/31lamVtSrFL._SL500_.jpg"
 description="Create adventures and scenes from Star Wars entertainment Collect the wide range of articulated Star Wars action figures that are each sold separately Most of the Star Wars vehicles have realistic action features Pretend to be favorite characters with the role-play gear Battle as a Jedi or a Seth, a Rebel or Imperial trooper, a Battle Droid or Clone Trooper"
 asin="B00YTZE7B0"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Star Wars Lead Villain Extendable Lightsaber"
 img="https://m.media-amazon.com/images/I/31FfRZmgIyL._SL500_.jpg"
 description="Create adventures and scenes from Star Wars entertainment Collect the wide range of articulated Star Wars action figures that are each sold separately Most of the Star Wars vehicles have realistic action features Pretend to be favorite characters with the role-play gear Battle as a Jedi or a Sith, a Rebel or Imperial trooper, a Battle Droid or Clone Trooper"
 asin="B00SOFZM42"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="320"
 >}} 
 ## What lightsaber form did Rey?

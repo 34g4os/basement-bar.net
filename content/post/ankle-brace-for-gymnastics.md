@@ -25,7 +25,7 @@ title="2 Pack Kids Child Adjustable Nonslip Ankle Tendon Compression Brace Sport
 img="https://m.media-amazon.com/images/I/41u1GimT4DL._SL500_.jpg"
 description="High quality breathable neoprene material retains heat and prevents skin irritation; Elastic Spandex removes excess perspiration and allows the skin to breathe and SBR Pad release shock with comfort and stablizer during life Cross straps stabilizes the ankle to restrict plantar flexion and guides the talocrural joint and Achillis tendon to proper motion Open heel design allows a wide range of motions during activity and still provide support for the ankle tendons and joints Available in two size (S fits for little kid US 12-4 shoe size; M fits for big kid US 5-8 shoe size); The ankle support comes with adjustable straps which allow to meet different requirements and ankle diameters. Ideal for baseball, volleyball, basketball, soccer, ice hockey, tennis, skiing, mountain climbers, skiing, dancing, training and so on Ideal support for post-surgery recovery from ankle sprain, ligaments overstretching, tendon pain analgesic, and general protection against acute and chronic ankle straing caused by high intensity exercises"
 asin="B071S2TJM7"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="491"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Med Spec ASO Ankle Stabilizer, Black, Small"
 img="https://m.media-amazon.com/images/I/31vRduY+pfL._SL500_.jpg"
 description="Stabilizing Straps form complete figure-eight to protect and support ankle Ballistic nylon boot provides superior durability and strength Elastic cuff closure enhances support and keeps laces and stabilizing straps secure Bilateral design so each size will fit left or right foot; Low profile to fit in any type of shoe Each ankle brace is sold separately; US manufacturing with higher quality control standards; Machine wash gentle cycle, no bleach. Air dry..BodyPart Measured: Ankle Circumference around the heel"
 asin="B00TZTO0QC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Zenith Ankle Brace, Lace Up Adjustable Support – for Running, Basketbal
 img="https://m.media-amazon.com/images/I/51-tLWDVNjL._SL500_.jpg"
 description="✅ An ankle brace that moves with you: Invest in an ankle support that will last. Zenith has developed a brace with the end user in mind. Made from the highest quality nylon and neoprene, you will get the best possible support and breathability. Double stitched seams also mean you will not have to keep spending your money on new braces every month! ✅ Ankle pain, be gone: Proven to reduce or eliminate ankle pain caused by sprains, tendonitis and other acute injuries. Our brace is designed to be used for healing and prevention of sports related injuries as well as minor accidents. The side straps contour your ankle to immobilize the foot without restricting your ability to walk or run. ✅ Stay on your feet: We specifically made this brace to perform well in ANY activity, including: volleyball, basketball, hiking, wrestling, running, soccer etc. Keep your peak performance and have peace of mind knowing your ankle will not be at risk of injury. Unlike an ankle sleeve, our brace can be adjusted in order to customize the level of support you are after. The lace-up front and straps give you the freedom to adjust tightness. ✅ Accurate fit: Having the right size ankle brace is important to make sure the device functions properly, keeps your ankle secure and does not move excessively."
 asin="B01LYQU9K4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="225"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Luwint kid Compression Ankle Brace - Knitted Ankle Sleeve Sock Support fo
 img="https://m.media-amazon.com/images/I/41pDIf9X2AL._SL500_.jpg"
 description="Protect kids ankle during children s activities; High elastic knit material provide full range of motion, keeps ankle stable and flexible Soft fabric is comfortable to control the swelling and reduce pain Promote ankle blood circulation to accelerate recovery of injured muscles, joints, tendonitis and arthritis Kid size; Unisex. Elastic size fits for children above 6. Please check size chart for perfect fit Great for any activity requiring ankle movement for a long hour, including basketball, Jogging, running, dancing, hiking"
 asin="B07PC1J49R"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="421"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Ankle Brace Support for Kids, Breathable Adjustable Compression Ankle Ten
 img="https://m.media-amazon.com/images/I/31eGq8YBkgL._SL500_.jpg"
 description="【PACKAGE INCLUDE】: 1 pair of ankle support for kids girls boys youth child. Small Size---recommend for little kids shoes US size 12-3; Medium size---recommend for big kids shoes US size 3.5-7 【PERFECT ANKLE SUPPORT】: Made of breathable stretchy anti-slip Nylon material, this foot sleeve compression support socks are quick-drying, providing ultimate cormfort and support for running, basketball, volleyball, gymnastics, dance, exercising, and daily activities. 【PAIN RELIEVING ANKLE BRACE】: Medically engineered to help relieve pain associated with juvenile arthritis, aching joints, ankle sprain as well as aid recovery from ankle injuries, joint pain, ligament or tendon injuries. 【OPEN HEEL DESIGN】: With open heel design, this foot compression sleeve socks allow wide range of motion during sports and activity, soft and comfortable to wear all day. 【DOUBLE ADJUSTABLE STRAP】: With adjustable cross strap to stablize your foot for a custom fix fit, it helps provide extra support and compression, reduce excessive plantarflexion, eversion and inversion of the ankle injuries."
 asin="B07BGWFQCF"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="335"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Ankle Support Brace, Breathable Neoprene Sleeve, Adjustable Wrap!"
 img="https://m.media-amazon.com/images/I/41bln23bzKL._SL500_.jpg"
 description="One size fits both feet and up to 11  in feet arch circumference. Protect the ankle and minimize the risk of injury. Perfect for chronic and acute ankle injury symptoms. Helps relieve pain and provides comfort related to plantar fasciitis. Open heel design allows wide range of motion during activity and still provide support for the ankle tendons and joints. Ideal for indoor and outdoor sports that need strain ankles during exercise. Breathable neoprene material retains heat and prevents skin irritation. Comfortable, flexible, durable and washable. Speed up the healing phase, as it provides just enough and needed support for ankle and foot through compression on the tendons where you need it the most."
 asin="B01LXAGV0H"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="4791"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="1 Pair Kids Compression Sleeves Foot Arch Support,Kids Children Ankle Bra
 img="https://m.media-amazon.com/images/I/41f29qQQ-EL._SL500_.jpg"
 description="Fit for any activity requiring ankle movement, including Baseball,Skateboarding, Hiking, Running, Tennis, dancing,Volleyball etc. We provide pink,black and blue colors,Suitable for both boys and girls Nylon and latex elastic durable fabric,not easy pilling suitable for long time use. One size fits all (8.8-11 inch heel circumference,recommend for 6-14 years old child use）Comfortable and breathable ,Free adjustment,Strong support for your kids Quality Assurance: If you are not satisfied with the size and quality of the product, we will refund 100%"
 asin="B09C2LMSQJ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="8"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="BraceAbility Kids Elastic Ankle Support | Youth Foot Sleeve Wrap & Arch S
 img="https://m.media-amazon.com/images/I/410qMrm+STL._SL500_.jpg"
 description="This ankle sleeve applies ideal compression and prevents or eases pain of an ankle injury Ideal for kids, adults, boys and girls active in cheerleading, dance, gymnastics, tumbling, yoga, pilates, or any other exercise or sport where you need flexible yet supportive foot and ankle protection. Constructed of latex-free elastic with a low-profile design. Can be worn with shoes Indicated for ankle sprains, swelling, tendon/ligament tears, or simply preventative purposes Refer to the sizing chart in photo number 2 to determine you size"
 asin="B00FJZ29NW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="2429"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Vinaco Ankle Brace, 2PCS Breathable & Strong Ankle Brace for Sprained Ank
 img="https://m.media-amazon.com/images/I/51EF7DmlSgL._SL500_.jpg"
 description="1, 【Stabilizing Compression Support】: Ankle brace provides additional stability and support for ankle tendons and joints, reducing the risk of injury, this ankle wraps support are ideal for any activities requiring ankle movements such as running, soccer, basketball, tennis, volleyball, and more. For ankle brace men women 2,【Speed Up Recovery】: The ankle brace for sprained ankle with Crisscross reinforcement straps provides great compression that eases and helps improve blood circulation and provided pain relief from heel spurs, achilles heel, plantar fasciitis, tendonitis and other foot related discomfort! 3, 【Breathable & Lightweight】: The lightweight ankle support brace is slim fitting for superior comfort and can be worn comfortably throughout the day. The neoprene fabric keeps feet dry. Flexible, durable and washable. 4, 【Wide Application】: Whether you have a long day at work, or play basketball / soccer, or just want to keep the blood flowing while you sleep, this ankle wraps support is comfortable enough to be worn at any time, lightweight and fits in all shoe styles. 5, 【Multiple Collocation Modes】: As left and right ankle brace is the same, you can wear one pair at one time for daily protection, or just wear a piece for the sprained ankle, and the other ankle wrap for replacement or wash."
 asin="B07V6LFXT6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1119"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Ankle Support Brace 2 Pack, Adjustable Compression Ankle Braces for Sport
 img="https://m.media-amazon.com/images/I/41ap8HrF63L._SL500_.jpg"
 description="VERSATILE AND COMPREHENSIVE ANKLE BRACE STRAP---An innovative gear to helps improve blood circulation, prevent injury, help recover from any chronic ankle strains, sprains, fatigue, PTTD (Posterior Tibial Tendon Dysfunction, ankle instability, and Achilles tendon heel, etc. The Bodyprox Ankle Support Brace is primarily produced as a preventative brace strap for any sporting activities such as intensive exercise, running, soccer, weightlifting, hiking, other physical activities. PREMIUM BREATHABLE ELASTIC MATERIAL ---- Bodyprox Ankle Brace Strap is made with latex-free, Neoprene not only to give needed compression, with how it is meticulously made, it also ensures to keep the feet dry, comfortable and odor-free throughout the entire because of its sweat-wicking feature. Great, lightweight ankle support! NON-SLIP AND OPEN HEEL DESIGNED ---- Strategically produced with Soft-wavy Silicon Gel, a NEW feature for an added grip which perfectly holds the ankle in place to prevent sliding hence, minimizing the risk of an ankle injury and sprains at the same time an open heel design allowing full range of movement and amazing flexibility. Secure it with the strong velcro tab so, you can do more without worries! HIGHLY ADJUSTABLE STRAP AND COMPRESSION ---- One size fits most and easy adjusting Ankle Brace criss-cross reinforced strap that allows the user to freely wrap and adjust it with the customized fit and pin-point compression needed which promotes blood circulation, effectively boost recuperation, and lessen fatigue build-up. SLEEK DESIGNED, FITS EITHER FOOT ---- Wear with confidence! Sleek designed which perfectly fits the shoe. Get the support and compression you needed the most! Meticulously prepared for men and women, of all ages. Whether you choose to purchase One (1) or Two (2) packs of Bodyprox Ankle Support Strap, you are ensured it will fit, either way, that way you want it!"
 asin="B07R7X45CV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="4791"
 >}} 
 ## Do ankle braces make your ankles weak?

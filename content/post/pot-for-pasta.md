@@ -25,7 +25,7 @@ title="Gotham Steel 5 Quart Stock Multipurpose Pasta Pot with Strainer Lid & Twi
 img="https://m.media-amazon.com/images/I/41XIq4CE8aL._SL500_.jpg"
 description="TWIST & LOCK HANDLES– strain out water seconds - simply twist the handles and drain out the water - no strainer needed! MULTIPURPOSE POT – great for pasta, spaghettis and anything else that cooks on the stove! Use the strainer or not, this pot is designed for all types of foods and is oven safe 2 STRAINING SIZES – includes 2 different straining sizes for fine and thicker foods, ensuring nothing slips out while straining. ULTIMATE CERAMIC NONSTICK – the Gotham Steel nonstick cooking surface is coated three times and then reinforced with diamonds to deliver the ultimate food release. No seasoning or even oil or butter needed, makes for healthier eating, and provides for hassle free, 1-2-3 cleanup. HEALTHY & NON-TOXIC – the Gotham Steel coating is composed of ceramic and reinforced with titanium, ensuring this frying pan free of PFOA, PFOS, lead & cadmium for an eco-friendly, healthy experience for your entire family METAL UTENSIL SAFE – the coating of the pan is infused with diamonds, the strongest material on earth which makes it durable enough to withstand metal utensils, spatulas, spoons, whisks and even electric beaters while delivering years of outstanding, nonstick use EFFORTLESS CLEANUP, DISHWASHER SAFE– spend less time with cleanup! After all the cooking and prepping is done, place cookware in the dishwasher for quick and easy cleanup. STOVETOP & SAFE - compatible with gas, electric, glass cooktops SOLID ALUMINUM COMPOSITION – stamped from a single sheet of aluminum in a heavy press ensures even heat conductivity and distribution all around with no dead zones or hot spots 10 YEAR GUARANTEE – our cookware is built for years of use and backed by a 10-year limited guarantee"
 asin="B071L32Q8W"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Bialetti - 7265 Bialetti Oval 5.5 Quart Pasta Pot with Strainer Lid, Nons
 img="https://m.media-amazon.com/images/I/41CJvf8tLIL._SL500_.jpg"
 description="Quick, even heating aluminum construction Twist and lock lid for easy straining Oval design accommodates noodles without breakage Nonstick interior for easy clean-up 5 year - Hand Wash"
 asin="B005PPP7MQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Cuisinart 77-412P1 Chef s Classic Stainless 4-Piece 12-Quart Pasta/Steame
 img="https://m.media-amazon.com/images/I/41YQQmTW98L._SL500_.jpg"
 description="Included Components: Cooks  Tools;Pasta Tools;Pasta Makers"
 asin="B0000UV01S"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="2 Pc Chef Quality Pasta Pot with Strainer Lid - 6 Qt & 2 Qt Red Stock Pot
 img="https://m.media-amazon.com/images/I/414OeewGBeL._SL500_.jpg"
 description="Two pasta cookers included Pasta noodles won’t stick to non-stick interior Lid works as a pasta strainer 6 QT: 10” diameter, 8” height 2 QT: 7” diameter, 5” height"
 asin="B018J3LZXK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Tramontina Lock & Drain Pasta Cooker Pot with Strainer Lid 18/8 Stainless
 img="https://m.media-amazon.com/images/I/41S8D4ySLRL._SL500_.jpg"
 description="Set includes: 8 Qt. stock pot, Lock & Drain insert, glass lid Tri-ply base construction provides quick and even heat distribution Heat- and shatter-resistant tempered glass lid allows you to monitor cooking progress; Stainless steel Lock & Drain insert Oven-safe up to 350 F (176 C) UPC-016017110670"
 asin="B0766692NX"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Cook N Home 4-Piece 8 Quart Multipots, Stainless Steel Pasta Cooker Steam
 img="https://m.media-amazon.com/images/I/51fBhBTeSBL._SL500_.jpg"
 description="Includes: 8 quart stockpot, steamer insert, pasta insert/pot, and a tempered glass lid Stainless steel with an aluminum disc layered in the bottom for even heat distribution Tempered glass lid with steam vent to view food; Durable stainless steel riveted handles Deep steamer insert holds a large amount; Pasta pot/strainer cooks a variety of noodles Works on Induction, gas, electric, glass, ceramic, halogen, etc.; Dishwasher safe"
 asin="B00O8LFGEC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="All-Clad E414S6 Stainless Steel Pasta Pot and Insert Cookware, 6-Quart, S
 img="https://m.media-amazon.com/images/I/41IqANmMWiL._SL500_.jpg"
 description="Large 6-quart capacity Perforated 4-quart insert for straining Large loop handles for easy lifting Made with polished stainless steel construction Dishwasher safe 6-Quart covered pasta pot with perforated insert for easy draining Single-ply polished stainless-steel construction with thick aluminum warp-resistant base for fast, even heating Highly polished 18/10 stainless-steel cooking surface offers superior stick resistance and easy maintenance, plus won’t react with food More durable than traditional pots for a lifetime of use; steel lid; stainless-steel handles permanently secured with stainless-steel rivets Capacity etched on the pot’s base; oven- and broiler-safe to 600 degrees F; induction compatible; dishwasher-safe; limited lifetime warranty"
 asin="B00DP2UYGK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Calphalon Classic Stainless Steel 8 quart Stock Pot with Steamer and Past
 img="https://m.media-amazon.com/images/I/41EIHHaflaL._SL500_.jpg"
 description="Impact-bonded aluminum bases provide fast, even heating. Safe for the stove, oven, broiler, and dishwasher. Loop handles provide a secure grip on the pasta pot Fill lines make measuring easy, and covers have straining holes that line up with pour spouts to drain liquids without having to use a separate colander. Includes 8-quart stock pot, pasta insert, steamer insert, lid."
 asin="B00005Q5I8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Oster Sangerfield Stainless Steel Cookware 5-Quart Pasta Pot w/Steamer & 
 img="https://m.media-amazon.com/images/I/41sJHOQMkRS._SL500_.jpg"
 description="WHAT’S IN THE BOX: a three-piece set that includes a 5 qt pasta pot with a strainer lid and a steamer insert CARE INSTRUCTIONS: this set is compatible with all stovetops, including gas, induction, halogen, and ceramic. All Sangerfield items are dishwasher safe, but hand wash recommended STAY COOL HANDLES AND TEMPERED GLASS LIDS: the stay-cool riveted handles ensure a secure and safe hold, while the tempered glass lid allows you to easily monitor your cooking progress safely POLISHED STAINLESS STEEL: this stainless steel creates a cooking surface that is easy to maintain and won’t react to food, while the encapsulated aluminum base creates even heat distribution OSTER: dependable, versatile products that help you keep up with the day and feed loved ones"
 asin="B08WWM255L"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Gotham Steel 5 Quart Stock Pot Multipurpose Pasta Pot with Strainer Lid &
 img="https://m.media-amazon.com/images/I/41I3oxmOHPL._SL500_.jpg"
 description="TWIST & LOCK HANDLES– strain out water seconds - simply twist the handles and drain out the water - no strainer needed! MULTIPURPOSE POT – great for pasta, spaghettis and anything else that cooks on the stove! Use the strainer or not, this pot is designed for all types of foods and is oven safe 2 STRAINING SIZES – includes 2 different straining sizes for fine and thicker foods, ensuring nothing slips out while straining. ULTIMATE CERAMIC NONSTICK – the Gotham Steel nonstick cooking surface is coated three times and then reinforced with diamonds to deliver the ultimate food release. No seasoning or even oil or butter needed, makes for healthier eating, and provides for hassle free, 1-2-3 cleanup. HEALTHY & NON-TOXIC – the Gotham Steel coating is composed of ceramic and reinforced with titanium, ensuring this frying pan free of PFOA, PFOS, lead & cadmium for an eco-friendly, healthy experience for your entire family METAL UTENSIL SAFE – the coating of the pan is infused with diamonds, the strongest material on earth which makes it durable enough to withstand metal utensils, spatulas, spoons, whisks and even electric beaters while delivering years of outstanding, nonstick use EFFORTLESS CLEANUP, DISHWASHER SAFE– spend less time with cleanup! After all the cooking and prepping is done, place cookware in the dishwasher for quick and easy cleanup. STOVETOP & SAFE - compatible with gas, electric, glass cooktops SOLID ALUMINUM COMPOSITION – stamped from a single sheet of aluminum in a heavy press ensures even heat conductivity and distribution all around with no dead zones or hot spots 10 YEAR GUARANTEE – our cookware is built for years of use and backed by a 10-year limited guarantee"
 asin="B09HPZBQQT"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## What kind of pan should be used for cooking pasta?

@@ -25,7 +25,7 @@ title="Chapin International 20075 Disinfectant Bleach Sprayer, 1 Gallon, Translu
 img="https://m.media-amazon.com/images/I/41-PMhUk9QL._SL500_.jpg"
 description="1-Gallon funnel-top, translucent tank for easy filling and cleaning Compatible with bleach solutions and fungicides. Hose Material : Black pvc Made in the USA with Global materials Comfort-grip poly shut-off, reinforced hose and wand holder Adjustable cone nozzle Ergonomic handle for easy pumping and carrying"
 asin="B00295QD96"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="1.5 gal. Bleach Sprayer"
 img="https://m.media-amazon.com/images/I/41oX0U-Wg+L._SL500_.jpg"
 description="1. 5 gallon capacity allows for 1 gallon of bleach to be used safely HDPE translucent tank with funnel top for easy filling Designed to spray bleach, disinfectant and other harsh chemicals Equipped with Viton seals and gaskets for added chemical resistance Includes an adjustable nozzle, a high volume flat fan nozzle, and a low volume flat fan nozzle Ergonomic pump handle for easy carrying 14-inch wand for hard to reach places Pressure relief valve for added safety Flow control with lock-on for continuous spraying"
 asin="B00N0CJLLE"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="14"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Solo 475-B-DELUXE Professional Diaphragm Pump Backpack Sprayer, 4-Gallon,
 img="https://m.media-amazon.com/images/I/410d1btR1wL._SL500_.jpg"
 description="Extra large carrying handle with wand retainer for easy portability and storage High-performance diaphragm pump for use with wet table powders, liquid formulations and bleach solutions Durable professional grade brass adjustable nozzle and 4-nozzle assortment Deluxe shoulder straps and waist belt for user comfort Adjustable pressure regulator with four positions: 15, 30, 45, 60 psi Fold-away handle with wand retainers for convenient storage, easily reversible for left or right-hand operation."
 asin="B00DW66EZY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Hudson Pro 19002 4 Gallon Backpack Bleach Sprayer, White"
 img="https://m.media-amazon.com/images/I/41cC4gzbmGL._SL500_.jpg"
 description="Features Four Nozzles for Stream Adjustment Perfect for Disinfecting, Sanitizing and Cleaning Internal Piston Pump (No Leaking!) Heavy Duty Padded Shoulder Straps Large Tank Opening with Fine Mesh Filter Heavy Duty Comfort Grip Poly Flow Control Care instructions: Rinse after use"
 asin="B08CHP77WV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Solo 485 5-Gallon Professional High Capacity Backpack Sprayer, Bleach res
 img="https://m.media-amazon.com/images/I/41Gnb4iIsCL._SL500_.jpg"
 description="SOLO 485 Backpack Sprayer,Diaphragm Pump,5 gal."
 asin="B004O8T4H4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="113"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Solo 473-diaphragm Pump 3-Gallon Professional Backpack Sprayer, for Bleac
 img="https://m.media-amazon.com/images/I/413iO+PfyyL._SL500_.jpg"
 description="Easily and effectively handles disinfectants, bleach solutions, fertilizers, herbicides, pesticides and formulations for tree, shrub and plant protection. High-performance diaphragm pump for use with wettable powders, liquid and bleach solutions. Passes small abrasive particles without damage to the pump assembly. Produces pressure of up to 60 psi. Viton seals in key locations ensure long service and durability. Interchangeable pump handle for left or right-hand operation and 48” nylon-reinforced high-pressure hose for extended reach. Four-nozzle assortment for multiple spraying tasks: adjustable, fan spray, hollow cone, and jet stream nozzles. TeeJet compatible."
 asin="B0069VXVXM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="6777"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="BL25E Battery Sprayer - 12V Lithium-ion, Sanitation, Bleach & Carpet Clea
 img="https://m.media-amazon.com/images/I/41+9VRdYpOL._SL500_.jpg"
 description="12V Lithium-ion Battery & Charger included Maximum 1:3 Diluted Ratio on Household Bleach Comfort Padded Adjustable Strap 3 Types Nozzle & Tips Included Stainless Steel Spray Wand"
 asin="B06XFYSCB2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="41"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Chapin International 61575 Bleach & Disinfectant Backpack Sprayer, 4 gal,
 img="https://m.media-amazon.com/images/I/41UPqGLwLwL._SL500_.jpg"
 description="4-Gallon 4-inch wide mouth opening with removable strainer, translucent tank for easy filling and cleaning Compatible with bleach solutions and fungicides Up to 100 psi of pressure Comfort-grip poly shut-off and reinforced hose, adjustable cone and fan nozzles included Padded shoulder straps to accommodate a full backpack for hours"
 asin="B006Y862DG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="2"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Itisll Portable Garden Pump Sprayer Brass Wand Shoulder Strap for Yard La
 img="https://m.media-amazon.com/images/I/41QHxF+xkfL._SL500_.jpg"
 description="Portable & Multi-Purpose Pressure Sprayer: This hand sprayer can be used for cleaning cars, irrigation plants, pet bathing, home cleaning. TIPS: This lawn sprayer is not suitable for corrosive or acidic solutions. Adjustable brass rod: The high-quality brass nozzle can adjust the intensity of the water spray from direct injection to fine mist spray. This sprayer is equipped with a comfortable 50-inch hose and extended 19-inch spray stick, which helps to spray longer distances or inaccessible places! Ergonomic handle: The ergonomic handle with locking trigger not only reduces fatigue, but also facilitates long-time spray operation. It can also be used to lock the trigger at the handle for continuous spraying with a steady amount of water. An adjustable shoulder strap makes it easy to hang the sprayer on your body for easy movement. Safety & Convenience-The yard sprayer is made of high-quality PE material. This allows you to clearly see the liquid remaining capacity scale through the transparent bottle, allowing you to replenish the solution in time. This lawn sprayer is equipped with a safety valve that automatically relieves pressure when the pressure exceeds 2.5-3Bar. Quality Assurance - The main structure of the pressure sprayer has wear-resistant seals, rings and anti-clogging filters for easy maintenance and durability. We also provide a set of wear-resistant seals, TIPS: This garden sprayer can be replaced free of charge if there is a quality problem within one year!"
 asin="B07VJNB5SR"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="631"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Smith Performance Sprayers 190447 2 Gallon Bleach Sprayer for Pros Removi
 img="https://m.media-amazon.com/images/I/41PQ8TevQmL._SL500_.jpg"
 description="Professional grade sprayer and components built to withstand harsh cleaning chemicals including bleach Durable, 21 inch stainless steel wand with exclusive poly lining and the highest quality Viton seals for maximum chemical resistance Highly efficient pump requires 25% fewer pumps per gallon than leading competitor In-line, easy-to-access filter has more surface area than leading competitors which reduces clogging and minimizes cleaning Faster, easier repair - pump seals can be changed within minutes without tools, which equals less downtime This is an O.E.M. part"
 asin="B01AT589MG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="66"
 >}} 
 ## Can you run bleach through an airless sprayer?

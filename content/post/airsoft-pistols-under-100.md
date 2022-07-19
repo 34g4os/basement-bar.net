@@ -25,7 +25,7 @@ title="Elite Force Walther PPQ 6mm BB Pistol Airsoft Gun, Combat Kit (Gun, 800 B
 img="https://m.media-amazon.com/images/I/3113o4AE1tL._SL500_.jpg"
 description="Spring powered 6mm airsoft pistol Made from high strength polymer Shoots 6mm plastic airsoft BBs at up to 300 fps Kit includes airsoft gun, 2 airsoft magazines, 400 blue airsoft BBs and 400 Nightglow airsoft BBs Airsoft magazines have built in 85-round BB reservoirs"
 asin="B00AU6D344"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Walther PPQ 6mm BB Pistol Airsoft Gun, Dark Earth Brown"
 img="https://m.media-amazon.com/images/I/41OEILNemdL._SL500_.jpg"
 description="Spring powered 6mm airsoft pistol Made from high strength polymer Shoots 6mm plastic airsoft BBs at up to 300 fps Includes 2 airsoft magazines and 400 6mm plastic airsoft BBs Airsoft magazines have built in 85-round BB reservoirs Authentic Walther replica Built-in hop-up system Metal parts Metal barrel This product is restricted from shipment into the state of New York Kindly refer the user manual attached below for troubleshooting steps and instructions."
 asin="B00C1P4UUI"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="173"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Soft AIR USA Colt 1911 A1 Spring Airsoft Pistol with Metal Slide, 345 FPS
 img="https://m.media-amazon.com/images/I/317pdycVHlS._SL500_.jpg"
 description="COLT M1911A1 100th Anniversary Edition, 1911-2012 Metal Slide Series 12rd Mag High Grade Polymer Frame 321 FPS w/ .12g BBs"
 asin="B01B5BUING"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="NEW CYMA TWIN SPRING AIRSOFT DUAL PISTOL COMBO PACK SET Hand Gun w/ Case 
 img="https://m.media-amazon.com/images/I/518OSfmTtPL._SL500_.jpg"
 description="Plastic Body Construction They are simpleoperate with a fast and easy cock and shoot These are very inexpensive gunsoperate since they are spring powered and requirebatteriesgasoperate Package Dimensions: 10.67 inch L x 7.2 inch W x 1.97 inch H"
 asin="B074S48KD5"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="263"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Elite Force Walther PPK/S 6mm BB Pistol Airsoft Gun Operative Kit - Inclu
 img="https://m.media-amazon.com/images/I/41wfGZ0OCKL._SL500_.jpg"
 description="Operative Kit Includes Everything You Need For A Game Of Airsoft With Your Friends Comes With Airsoft Gun, 400 6Mm Plastic Airsoft Bbs, And Two 10-Round Mags Shoots 6Mm Plastic Airsoft Bbs At Up To 160 Fps Spring Powered Airsoft Gun"
 asin="B00LDYFF2U"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Ruger P345 PR CO2 Powered 6mm BB Pistol Airsoft Gun"
 img="https://m.media-amazon.com/images/I/41nmS9D8z2L._SL500_.jpg"
 description="For fast shooting, close quarter airsoft action Shoots 6mm plastic airsoft BBs at up to 380 fps Features fiber optic sights 15 round mag capacity Powered by a 12-gram CO2 cartridge housed in the grip (CO2 NOT included) Semi-auto CO2 airsoft pistol with integrated accessory rail Drop-out 15-round magazine Powered by a single 12g CO2 capsule housed in the grip Bag of 100 BBs This product is restricted from shipment into the state of New York"
 asin="B001F0KIQ0"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="SOFT AIR USA Colt 1911 CO2 Powered Airsoft Pistol, SB-199, Black, 328 FPS
 img="https://m.media-amazon.com/images/I/21SnXFBsktS._SL500_.jpg"
 description="POWERFUL CO2: 395 FPS with 6mm/0.20g ammo READY TO PLAY: Semi-automatic shoots 6mm/0.20g ammo. Magazine holds 13 rounds REPLICA: made with heavy duty polymer for a realistic feel HOP-UP: creates a back-spin effect on ammo to provide longer shooting distance FEATURES: 20mm railed frame for accessories. Non-blowback. CO2 not included"
 asin="B095J3KBGC"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Walther P22 Spring Powered 6mm BB Pistol Airsoft Gun, Clear"
 img="https://m.media-amazon.com/images/I/411ocNjHjjL._SL500_.jpg"
 description="Low-impact, yet fun-packed pring powered 6mm airsoft pistol Made from high strength polymer Shoots 6mm plastic airsoft BBs at up to 260 fps Includes an extra airsoft magazine and 400 6mm plastic BBs Fixed front and rear sights"
 asin="B001L21VCW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="FN Herstal FNS-9 Spring Powered Airsoft Pistol, Black, 300 FPS, (200101)"
 img="https://m.media-amazon.com/images/I/31jm8qQU+2L._SL500_.jpg"
 description="POWERFUL SPRING: 300 FPS with 6mm ammo READY TO PLAY: Shoots 6mm ammo in a single shot. Includes 50 starter BBs REPLICA: made with high strength ABS polymer for a realistic feel. Weighs 0.7lbs EASY TO LOAD: Magazine holds 120 rounds FEATURES: Picatinny rail on frame for handgun lasers or lights"
 asin="B07G8H12HW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Glock 19 Gen3 .177 Caliber BB Gun Air Pistol"
 img="https://m.media-amazon.com/images/I/41ikjMO3fqL._SL500_.jpg"
 description="15-shot, .177 caliber BB air pistol Powered by a 12-gram CO2 cartridge (CO2 not included) Shoots .177 caliber steel BBs at up to 410 FPS Integrated Weaver rail for easy mounting of accessories Fixed Glock-style sights and officially licensed Glock markings"
 asin="B07FT2LLLK"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## How much should a good airsoft pistol cost?

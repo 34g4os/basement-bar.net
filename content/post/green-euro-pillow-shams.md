@@ -25,7 +25,7 @@ title="18 x18  Solid Cotton Linen Decoration Green Throw Pillow Case with Zipper
 img="https://m.media-amazon.com/images/I/41g1Db94C6L._SL500_.jpg"
 description="WHAT you can get: 2 pcs 18 x18  green pillowcases which are made of grade A natural eco-friendly 55% linen and 45% cotton. HOW to wash: Do not bleach and tumble dry. Cool iron on reverse. Wash dark colours separately. Remove immediately if product becomes wet or damp. KEEP AWAY FROM FIRE HOW to operate: we use matching shade invisible zipper back on the pillowcase closure for an elegant look, easy insertion and washing. WHERE to use: Wide applications, perfect for sofa, bay window, bed, travel and naps. It’s a classy and elegant made pillow and a great addition to ANY room or décor style! OTHERS: Because of the electrostatic. In winter, the phenomenon of fabric stickiness will be obviously, and the darker the color, the more obvious it is. It would be reduces time and effort that just clean hair effectively with wide adhesive tape."
 asin="B07C9ZD3P8"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="224"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Simple&Opulence 100% Washed Linen Euro Shams Basic Style (26   x 26  ) - 
 img="https://m.media-amazon.com/images/I/41we5cR4blL._SL500_.jpg"
 description="【MATERIAL】Made of 100% premium quality French flax fabric with pre washed, 160 GSM (For making the fabric soft, the pre-washing process will cause an uncontrollable shrinkage, so the final GSM will have 5% more or less deviation). Certified by OEKO-TEX STANDARD 100 for environmentally friendly, responsible and sustainable fabric production. 【PACKAGE INCLUDE】26  X 26  basic style Euro Shams pack of 2. Covers only, no pillow insert. 【OVERLAP CLOSURE DESIGN】The euro pillow cover has an delicate opening at the middle of back. Unique designed envelope overlap closure can cover, protect and keep your pillow clean and in place. 【CARE INSTRUCTION】Wash prior to first use. Gentle cycle washing under 60℃ with similar colors. Do not use detergent that contains bleach or whitener. Line dry or tumble dry on medium heat. Warm iron if needed. Do not dry clean. Linen fabric will become softer after every washing. 【DISTINCTIVE HOME DECORATION】Create a wonderful classic bedroom space with our Washed Linen Collection. Duvet covers, sheet sets, bed skirts and linen pillowcases are all available to make your bed fantasy. If you have any problem, feel free to contact us, we provide 24/7 customer service : )"
 asin="B094MZXBML"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="229"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="HISTORIC CHARLESTON King Charles Classic European Matelasse Cotton Decora
 img="https://m.media-amazon.com/images/I/41xljAMsBVL._SL500_.jpg"
 description="CLASSICALLY STYLISH - Designs from the archives of Historic Charleston s heritage were interpreted to create the lovely King Charles sham which portrays rolling arches, double diamonds and scrolling vine details. PREMIUM QUALITY - Beautiful, luxurious fabric offers a generous weight and is stonewashed for softness PERFECT FIT - Includes 100% Cotton, true to size euro sham measuring 26  x 26  CARE INSTRUCTIONS - Machine wash on cold, tumble dry low heat, do not bleach IMPORTED"
 asin="B01MS78L5M"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Home Brilliant Velvet Euro Shams Large Cushion Covers Pillow Case for Bed
 img="https://m.media-amazon.com/images/I/41y9tU8eu0S._SL500_.jpg"
 description="Material: Made of 100% high quality polyester, slightly shiny texture. Quality fabric, thick and durable, hide your old pillow patterns perfectly. Size: 26x26 inch/ 66x66cm(1-2cm deviation). Package contains 2 pieces of pillow cover, NO PILLOW INCLUDED. Craftsmanship : use color coordinated hidden zipper closure for an elegant look. Tight zigzag over-lock stitches to avoid fraying and ripping. Washing guide: Machine washable, separately from other articles, gentle circle in low. No bleach. Due to the production process, pillow covers in different light intensity and angle, the surface will produce plush silver reflective, so that the products exhibit different colors, this is a normal phenomenon, and not the product quality problems."
 asin="B08BLGR2X4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1195"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Home Brilliant Green Pillow Covers 26x26 inch Striped Chenille Plush Euro
 img="https://m.media-amazon.com/images/I/51jADbqIUkS._SL500_.jpg"
 description="USEAGE: Home Brilliant Chenille Blend Textured Throw Pillow Cover has linen like textured design, but it has more vibrate color than linen. It can mix and match with different materials pillows, like fur, cotton, linen, velvet, leather, etc. PACKAGE: each package contains 2 chenille euro shams, measures 26x26, perfect for 28x28 inch large pillow. Noted: PACKAGE DO NOT CONTAINS PILLOW INSERT. EASY CARE: machine wash could separately, gentle cycle only, no bleach, low tempurature iron. EASY INSERTION: we use matching shade invisible zipper closure for an elegant look, easy insertion and washing. MATERIAL: This pillow covers are made of 100% polyester."
 asin="B086MCV2TG"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1195"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Cocoploceus Set of 2 Euro Sham Pillow Covers 26 x26  Cotton Euro Pillow S
 img="https://m.media-amazon.com/images/I/61IDOT1WRcL._SL500_.jpg"
 description="【Premium Natural Material】This euro sham covers made by 100% cotton.It has been pre-washed with water and dried at high temperature,very breathable and has excellent moisture absorption and won t irritate your skin. 【Stone Washed Process】The european pillow shams used by unique stone washed process,presenting a retro style.With a beautiful texture for plenty of depth and dimensions,each piece displays highs and lows for beautifully balanced color variations. 【Honeycomb Waffle Weaving Design】The special honeycomb weave and 350GSM cotton fabric makes the decorative euro pillows more three-dimensional and crisp, and the shape can be well maintained in daily use, it will not be material stretches over time. 【Longer Hidden zipper】Hidden zipper design makes euro pillow shams double-sided for safety and comfort, easy to insert or remove filler after lengthening. 【Easy Care】The decorative pillow covers can be machine washed in cold water separately.Do not bleach.Remove promptly from washing machine to avoid wrinkles.it may shrink slightly after washing,and will restore after ironing."
 asin="B09CFVXD1X"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="10"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="white Elefant 100% Egyptian Cotton European Square Pillow Shams Set of 2 
 img="https://m.media-amazon.com/images/I/31aJwHriKiL._SL500_.jpg"
 description="100% Egyptian Cotton Well Crafted Shams Design: Envelope Closure in the Middle in the Back, Solid/Plain Pattern 800 Thread Count Pillow Shams Set of 2 - Oxford style SIZE: Perfectly fits a square 26” x 26” pillow. EASY CARE & PRESHRUNK FOR A PERFECT FIT - Machine wash on cold. Tumble dry on low. Do not use bleach or softeners. Preshrunk for a perfectly snug fit on your pillow, You’ll feel the fantastic softness at first touch. Sateen weave and Egyptain Cotton for a beautiful sheen."
 asin="B07ZJLP5B6"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="11"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Home Brilliant 26x26 Throw Pillow Covers Super Soft Striped Chenille Plus
 img="https://m.media-amazon.com/images/I/515ZL77ncTS._SL500_.jpg"
 description="USEAGE: Home Brilliant Chenille Plush Velvet Throw Pillow Cover is super soft and durable. It can mix and match with different materials pillows, like fur, cotton, linen, velvet, leather, etc. This chenille blend decorative pillowcases have wide applications: you can throw them on sofa, chair, couch, bench, bed, loveseat, or even simply put them on the floor. PACKAGE: each package contains 1 chenille euro sham, measures 26x26 inch, perfect for 28x28 inch large pillow. Noted: PACKAGE DO NOT CONTAINS PILLOW INSERT. EASY CARE: machine wash could separately, gentle cycle only, no bleach, low tempurature iron. EASY INSERTION: we use matching shade invisible zipper closure for an elegant look, easy insertion and washing. MATERIAL: This super soft pillow covers are made of 100% polyester."
 asin="B0779BB3ZL"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1195"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Simple&Opulence 100% Linen Euro Shams with White Trim Inserted Edges 26x2
 img="https://m.media-amazon.com/images/I/31hgbqYmU7L._SL500_.jpg"
 description="Note:Inserts or fillers are NOT INCLUDED. Material :100% Pure Linen.Linen fabric has the advantages of good heat dissipation, breathable. It is comfortable and durable and will be softer with time.OEKO-TEX STANDARD 100 CERTIFIED. What you will get : Each package contains 2 Euro pillow shams.Multiple colors for you to choose from; Size: 26 x26  (about 66x66cm) Unique Design:The Euro Pillow Sham has a lovely and beautiful design with white stripe insert edges, which makes your room looks sweet and romantic.Suitable for placing them in living room, bedroom, couch, sofa, car, party, balcony, patio, etc. Goes well with various styles of home decor. it is also a good choice as a gift (Birthday、Mother s day、Christmas ...) Care Instruction :Use gentle cycle wash under 60℃.Do not use detergent that contains whitener. Warm Iron. Tumble dry with medium heat. Do not dry clean. Wash with similar colors."
 asin="B09BHT1HXF"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="316"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="PHF Velvet Euro Sham 26 x 26 , 2 Pack Super Soft Cozy European Pillow Cov
 img="https://m.media-amazon.com/images/I/41imxWgITbL._SL500_.jpg"
 description="Chosen Velvet Fabric: The euro sham covers are made of 100% velvet fabric, which features fluffy feel, softness and breathability, offering extreme comfort. Just like laying on cloud when laying on your favorite pillow which wearing our velvet pillow cover. Overlap Closure Design: The euro pillow cover has an delicate opening at the back. Unique designed envelope overlap closure can cover, protect, and keep your pillow clean and in place. Multi-occasion Decoration: Available in various color options, our pillow covers are suitable for bedroom, couch, sofa, office, patio, porch, etc, a must-have complement for your home decoration. Package Include: PHF 100% velvet euro pillow shams, 26  X 26 , set of 2. Covers only, no pillow insert. Easy Care: Machine wash separately in cold water, gentle cycle. Do not bleach. Tumble dry on low heat or lay flat to dry. Remove promptly. Warm iron as needed. No pilling, no shrink, no fade, labor tests show that the pillow shams keep its shape and stay brands new after 100+ wash cycles."
 asin="B07TBCJZW9"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1203"
 >}} 
 ## What size pillows go in Euro shams?

@@ -24,7 +24,7 @@ title="CRAFTSMAN CMXEVBE17250 2.5 gallon 1.75 Peak Hp Wet/Dry Vac, Portable Shop
 img="https://m.media-amazon.com/images/I/41NhcTN6PGL._SL500_.jpg"
 description="PORTABLE: Lightweight, 2.5-gallon wet dry vac offers unparalleled mobility IDEAL FOR SMALL MESSES: Perfect for the home, garage, cars, trucks and vans EASY TO STORE: Compact size, carry handle and cord wrap feature allow for easy storage TWO-IN-ONE CAPABILITY: Shop vacuum can be used as a blower for added versatility ACCESSORIES INCLUDED: 1-1/4 in. x 5 ft. Friction Fit Hose, Crevice Tool, Utility Nozzle, Filter Bag"
 asin="B07QXWG93C"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -32,7 +32,7 @@ title="WORKSHOP Wet/Dry Vacs Vacuum WS0255VA Compact, Portable Wet/Dry Vacuum Cl
 img="https://m.media-amazon.com/images/I/41CDnMOhoBL._SL500_.jpg"
 description="Compact and portable wet dry vacuum cleaner has a large ergonomic carry handle making this small, lightweight vacuum easy to carry and transport Stable, flat-bottom design prevents the small shop vacuum cleaner from tipping over 10-Foot power cord, 4-foot hose and all shop vacuum attachments store on-board keeping everything needed close at hand Vacuum includes an integrated blowing port for added versatility Includes: portable shop vacuum cleaner, hose, WS01025F filter bag, utility nozzle attachment, car nozzle attachment, owner s manual"
 asin="B07TBJCHKJ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -40,7 +40,7 @@ title="CRAFTSMAN CMXEVBE17595 16 Gallon 6.5 Peak HP Wet/Dry Vac, Heavy-Duty Shop
 img="https://m.media-amazon.com/images/I/41jm4aoGeQL._SL500_.jpg"
 description="HEAVY-DUTY: Powerful 6.5 Peak HP provides extra power for large projects in the garage, shop and on the jobsite BUILT-IN BLOWER PORT: Rear blowing port on this wet dry vac allows for quick cleaning of leaves and grass clippings in your garage and outdoors OVERSIZED DRAIN: Built-in oversized drain on the wet/dry vac allows for convenient emptying of liquids DUAL-FLEX TECHNOLOGY: 2-1/2 in. diameter shop vacuum hose features Dual-Flex technology for 180-degree mobility at each end to resist kinking ACCESSORIES INCLUDED: 2-1/2 in. x 7 ft. POS-I-LOCK Dual-Flex Hose, 2 Extension Wands, Utility Nozzle, Car Nozzle, Wet Nozzle, Qwik Lock Filter and Dust Collection Bag WARRANTY: 3 Year Limited Warranty"
 asin="B07H84CNG9"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -48,7 +48,7 @@ title="Stanley SL18116 Wet/Dry Vacuum, 6 Gallon, 4 Horsepower, Stainless Steel T
 img="https://m.media-amazon.com/images/I/41bSU77QDNL._SL500_.jpg"
 description="We are the official seller of wet and dry vacuum cleaners, 100% of the products in our shop are genuine. Stanley is a well-known company that focuses on R & D, production and sales of vacuum cleaners. In addition, stanley is the recognized world leader in wet/dry vacuum cleaners. Since 1843, we have produced innovative, high quality vacuum cleaners, hose, filters, bags, & other accessories Advantages: 1. Large capacity. 6 gallons of capacity can satisfy normal daily using for you, you can use it for a long time without frequent cleaning of the trash inside. 2.Easy to use. You just need to close the cover, connect the hose, and plug in the power so that you can use it. 3.Powerful vacuuming ability. The 4.0 horsepower makes it easy to suck all kinds of debris, garbage, dirty water into tank. 4.Weight 15.4 pounds, with wheels, movable and portable Applications Target: Benefit from its powerful adsorption function, it is very useful for household, upholster, garage, workshop, hotel, car wash, laundry, shop, jobsite, bedroom, kitchen etc Features: 1.Reach far away. Over 16 foot of cleaning reach (6 foot hose and 10 foot power cord) allows you to reach farther without unplugging the unit. 2.Long life cycle. It can work over 300 hours continuously. 3.With built-in cord wrap, easy storage. 4.Large transfer switch. make it convenient for using. 5.Big handle, easy to carry. 6.Excellent material. Stainless steel tank, solid and durable WHAT YOU GET - Stanley SL18116 Wet/Dry Vac x 1, 1-1/4 x 6’ super flexible hose x 1, extension wands x 2, gulper nozzle x 1, floor nozzle x 1, crevice nozzle x 1, foam filter x 1, dust bag x 1, reusable dry filter x 1, 12-Month Warranty"
 asin="B01J9LEKZQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -56,7 +56,7 @@ title="Stanley - SL18116P Wet/Dry Vacuum, 6 Gallon, 4 Horsepower Black"
 img="https://m.media-amazon.com/images/I/41GyTQeM+vL._SL500_.jpg"
 description="❤【LARGER CAPACITY】Stanley SL18116P Wet / Dry Vacuum has a larger capacity over 22 L, makes small clean-up jobs a breeze for you as you don’t have to empty the bucket frequently any more ❤【VERSATILE & POWERFUL】Thanks to the 4 peak HP motor, this vac offers powerful enough suction needed to almost any cleanup jobs in vehicle, jobsite, workshop, garage, basement, van, house, etc ❤【3 in 1 FUNCTION】With this versatile vac you can vacuum both wet liquid spills and dry debris, dust, saw, dirt or blow leaves away(use blower port), just organize the hose and power cord on top handle and side wraps after using, conveniently ❤【FARTHER CLEANUP】With over 16 ft of cleaning reach(6 ft hose, 10 ft power cord and 3 pieces of extension wands) it’s easy to do a farther cleanup for you without unplugging the unit, while it has four swivel casters for convenient and easy manoeuvrability ❤【WHAT YOU GET】Stanley SL18116P Wet / Dry Vac x 1, 1-1/4 x6’ super flexible hose x 1,extension wands x 3, gulper nozzle, floor nozzle x 1,crevice nozzle x 1,foam filter x 1, dust bag x 1, reusable dry filter x 1, 12-Month Warranty"
 asin="B00IS94BWS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -64,7 +64,7 @@ title="Stanley SL18910P-3 Wet/Dry, 3 Gallon, 3 Horsepower, Portable Car Vacuum, 
 img="https://m.media-amazon.com/images/I/41-MmWCuNxL._SL500_.jpg"
 description="❤【LARGER CAPACITY Stanley SL18910P-3 Wet / Dry Vacuum has a larger capacity over 11 L, makes small clean-up jobs in car a breeze for you as you don’t have to empty the tank frequently any more ❤【VERSATILE & POWERFUL Thanks to the 3 peak HP motor, this vac offers powerful enough suction needed to any cleanup jobs in car with its 3 in 1 crevice nozzle, all accessories features on-board storage for easy transport ❤【2 in 1 Function With this versatile vac you can vacuum both wet liquid spills and dry debris, dust, saw, dirt or, just wrap the power cord on top handle after using, conveniently ❤【FARTHER CLEANUP With over 10 ft. of cleaning reach(4 ft. hose, 6 ft. power cord) it’s easy to do a farther cleanup for you without unplugging the unit, while it has a sturdy top handle for convenient and easy carrying ❤【WHAT YOU GET Stanley SL18910P-3 Wet / Dry Vac x 1, 1-1/4 x4’ hose x 1, 3 in 1 crevice nozzle x 1, gulper nozzle x 1, foam filter x 1, reusable dry filter x 1, 12-Month Limited"
 asin="B07QG3X6KQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -72,7 +72,7 @@ title="DEWALT 9 Gallon Wet/Dry VAC, Heavy-Duty Shop Vacuum with Attachments, 5 P
 img="https://m.media-amazon.com/images/I/51DiV9eqoEL._SL500_.jpg"
 description="The 9 Gallon shop vacuum is ideal for both wet and dry pickups. Powerful 5 HP heavy-duty motor provides maximum suction you need for even the tough jobs. Built-in blower port, powerful enough to blow sawdust and fallen leaves while 3 extra nozzle adaptor easily converts the wet dry vacuum into an air pump. Upgraded hose is more durable and flexible than the old version. Extra long 10 ft.power cord with cord wrap helps to extend your cleaning reach. Ultra durable rubberized casters make movement easy. Strong handles for easy carrying. Keep all accessories neatly organized with the accessory storage bag. Large on/off switch with water-resistant design. Built-in tank drain makes it easy to empty liquids. Tool Height:22.25 in"
 asin="B088BLNHDT"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -80,7 +80,7 @@ title="Vacmaster Professional - Professional Wet/Dry Vac, 5 Gallon, Beast Series
 img="https://m.media-amazon.com/images/I/41h1pZ8zb8L._SL500_.jpg"
 description="5 Gallon Polypropylene Tank 5. 5 Peak HP High Efficiency Motor Integrated Hose Storage 18  Cord with Cord Storage Easily Converts to Blower"
 asin="B074BR5RV9"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -88,7 +88,7 @@ title="Stanley Wet/Dry Vacuum, 4 Gallon, 4 Horsepower, Stainless Steel Tank"
 img="https://m.media-amazon.com/images/I/41Y5UhBTsWL._SL500_.jpg"
 description="High performance motor provides maximum power Light weight compact design for easy carrying.Voltage:120 V 10-Feet power cord with cord wrap design for easy organized and storage 4 swivel casters provide convenient multi-direction maneuverability Accessories include 1-1/4-Inch by 5-Feet flexible hose, three extension wands, crevice nozzle, utility nozzle, floor brush, reusable dry filter, foam filter"
 asin="B006EHYDQA"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## How much does a small shop vac cost?

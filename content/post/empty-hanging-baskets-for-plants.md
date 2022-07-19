@@ -25,7 +25,7 @@ title="Landmark 10  Imperial Plastic Hanging Basket (White, 5)"
 img="https://m.media-amazon.com/images/I/21gnd5TLj2L._SL500_.jpg"
 description="10  outside diameter x 6.5  deep; Holds 1.5 gallon of soil Drainage holes on bottom; Best used outdoors. Manufactured in the USA by Landmark Plastics Perfect for summer flowers and outdoor foliage plants"
 asin="B08XC3WQ9S"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="180"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="10  Diameter Contempo Swirl Hanging Basket, Green or White, by Landmark P
 img="https://m.media-amazon.com/images/I/31r2CxN1dBL._SL500_.jpg"
 description="9.88  outside diameter at top of pot; 6  deep Volume: 1.28 gallon; 295.05 cu. inches Inside saucer; Best used outdoors Manufactured in the USA by Landmark Plastics 3-Strand white plastic hanger measures 19  and easily snaps onto basket"
 asin="B06Y3QPDYQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="180"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Vumdua Metal Hanging Planter Basket for Indoor Outdoor, 2 Pack 12 Inch Ro
 img="https://m.media-amazon.com/images/I/51TGiE8PaPL._SL500_.jpg"
 description="★HIGH-QUALITY MATERIAL: The hanging planters basket is made of high-quality metal, a rustproof protective coating and 100% natural coconut fiber. Strong, durable and not easy to deform. Do not worry about it cracking like weak or cheap plastic. ★ANTI-RUST MATERIAL: Can be used safely outdoors and indoors. Black coating can effectively prevent contact with air, water and dust, reducing the risk of rust. The hanging plant holder is easy to clean because of its smooth surface coating. ★100% NATURAL COCO FIBRE: The coco liner is without chemical addition. The tightly pressed coconut liner provides excellent drainage performance. Keep the water and promotes plant health. Sufficient depth allows the root system to grow fully. ★BEAUTIFUL & ADJUSTABLE BUTTERFLY: 6 unfolded metal butterflies on each hanging basket. Butterflies make the hanging baskets more attractive. The butterflies are made of soft metal. You can adjust the angle of the wings to make them more 3D ★MULTIFUNCTIONAL BASKET: The diameter of the metal hanging flower holder is 12 inch. Perfect for most plants, flowers or succulents. Best Decoration for your terrace, balcony, lawn, garden, deck, balcony, porch or anywhere you like."
 asin="B08NB3PXSR"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="531"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="DOITOOL 10 Sets Plastic Hanging Planter Pots Small Hanging Flower Pot, Ha
 img="https://m.media-amazon.com/images/I/31k9X9mKAoL._SL500_.jpg"
 description="【Durable Material】：The small hanging planter pots is made of premium quality plastic that is lightweight and resist damage from sun, rain, and impacts. 【Drainage Hole Design】; The inner of the hanging pots with multiple drainage holes in the bottom help to balance the moisture of soil and keep your plants more healthy. 【Strudy Chain Hanger】: Each Planter comes with a sturdy triple- chain hanger, The detachable hook, sturdy and balanced, ensuring secure support while hanging are an perfect way to display your favorite plants and flowers. 【Widely Application】：This small hainging planter set include 8 pieces plant pots, you can grow a variety of plants indoor or outdoors, such as orchid, snake plant, mint, parlor palm, devil’s ivy, cactus, aloe. Perfect for your patio, garden, porch, balcony, home, room or near the window, a touch of greenery to your space. 【Warm Tips】: Even if this flower pot is very sturdy, we can not avoid happen some problem in shipping. if you have received a defective one, kindly contract us for help."
 asin="B099WSD85Q"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="318"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="VIDELLY 4 Pieces Plastic Hanging Flower Plant Pots Chain Basket Planter H
 img="https://m.media-amazon.com/images/I/41C52EJfzbS._SL500_.jpg"
 description="LIGHTWEIGHT MATERIALS : Made from durable Plastic. Hanging planter basket with attractive woven look.This hanging basket makes a great stylish addition to any part of your home or patio. this basket is super low maintenance, easy to clean. UNIQUE HANGING DESIGN : This attractive set of white/red round hanging planters (4.13”Dx3.54”H) Comes with finishing triple-chain hanger,The detachable hook, strong and balanced, ensuring secure support while hanging are an ideal way to display your favorite plants and flowers. Fit for indoor and outdoor areas. RAISED DRAINAGE HOLE : This hanging plant pot comes with drainage holes, balance drainage, to create a healthy living environment for your indoor and outdoor plants. without the worry of over watering .increasing drainage efficiency when watering, ventilation helps flowers grow, protecting the health of your flowers or succulents.Does not affect the roots of plants WIDE USE : Minimalist round design creates a distinctive modern-inspired look and arts feel. The Hanging planter basket offers a simple but chic way to display your lovely plant, such as ivy, herbs, ferns, philodendrons, succulent, flowers or other plants. Vertical hanging is a convenient space saver. Plants NOT included! PERFECT DECORATION : Perfect for your patio, garden, porch, balcony, home, room or near the window, add a touch of greenery to your space. This Hanging planter basket is a great gift idea for a plant lover, elevates the room and accentuates the beauty of their houseplants"
 asin="B08BJ5TW97"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="92"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="4 Pcs 8 inch Hanging Planter Pots,Self-Watering Round Hanging Basket with
 img="https://m.media-amazon.com/images/I/416m5dd997S._SL500_.jpg"
 description="Quantity:There are 4 pieces of white self-watering hanging planter pots with 1 piece of drainer and 1 piece of metal chain in each package. Function:The water tray in the round hanging basket can holds soil above bottom of pot,then make the soil absorb water as needed.Each flower pot was designed with a drainage cave to drain excess water.And you can hang the pot on the wall with the hook of the metal chain. Usage:These hanging flower containers are perfect for displaying different kinds of indoor and outdoor plants like flower,succulent,violets,herbs,etc.They will decorate your home and garden more beautiful and make your house more vibrant. Material:The garden hanging flower plant pot is made of high quality plastic which is lightweight,the durable material make it can avoid breaking. Size:The diameter of each container with hanging chain measures 8 inch,the height of the pot measures 4.9 inch,and the metal chain measures 15 inch."
 asin="B099MQLL1X"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="181"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="T4U Plastic Hanging Planters 2-Pack - 10 Inch Large Hanging Flower Plant 
 img="https://m.media-amazon.com/images/I/41OTE9Wh0hL._SL500_.jpg"
 description="| Lightweight But Durable | Made of lightweight but premium quality plastic, T4U minimalist hanging planters are durable, free from fade, frost, crack and peel damage. Better to withstand intense sun and low temperature cold. | Unique Speckled Design | Our modern simple hanging baskets with special speckled bright white are perfect decor for your living space, adding a dash of freshness to your living room, bedroom, kitchen, or garden, porch, patio. Perfect for indoor and outdoor use. | Home for Plants| With enough growing space, these elegant hanging planter pots are an ideal way to display your favorite plants and flowers, like succulents, ferns, ivy, spider plants or any other small to medium sized plants. Provide a warm cozy home for your blossom. | Smart drainage Design | There are 2 drainage holes at the bottom to allow faster excess water drainage, good to prevent plant roots from rotting. Using the removable plugs can prevent dirty water over flowing, which can help keep your indoor space clean day and night. | What You Will Get | Package Content: Hanging Planters x 2, Bottom Plug x 2. Dimension: 10 x 23 Inch( D x H). Notice: Plants for demonstration purpose only, Not included. Ideal gifts for your grandma, mom, aunts, sisters or friends who love plants or gardening."
 asin="B09NNVMP77"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="916"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Keter Resin Rattan Set of 2 Round Hanging Planter Baskets for Indoor and 
 img="https://m.media-amazon.com/images/I/517fzbGiFOL._SL500_.jpg"
 description="SET OF 2 attractive hanging spheres make a great addition to any part of your home - indoors or outdoors DIMENSIONS: Measures 13. 78  wide by 13. 78  deep by 8. 66  high RESIN CONSTRUCTION: Durable polypropylene resin construction is easy to maintain and won t peel, dent or rust RATTAN LOOK: Attractive woven look and texture that s remarkably similar to real rattan DRAINAGE PLUG: Sealed inner bowl and drainage plug allow for indoor or outdoor use STURDY CHAIN: Iron with black finishing-chain hanger and hook withstands the elements while providing secure support"
 asin="B07DDR11SD"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1783"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Hanging Plant Basket Flower Holder (2pack, 14 inch)-Metal Wire Round Hang
 img="https://m.media-amazon.com/images/I/51KWOSssd9L._SL500_.jpg"
 description="The hanging basket for flowers and plants outdoor will decorate your yard, garden, patio, porch, fence and so on. They will improve space utilization. Metal hooks and chains are sturdy and power coated for dustproof The flower pot measures 14-inch diameter by 6-inch depth, 2pack Durable liner is breathable and strong enough to hold the soil of your plant. Use multiple baskets and plants hung at different levels to create your own unique decorative effect."
 asin="B08H8MWPYS"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="14"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="12  Diameter Dark Green Plastic Deco Swirl Hanging Basket by Landmark Pla
 img="https://m.media-amazon.com/images/I/21dZTqEexBL._SL500_.jpg"
 description="11.81  outside diameter at top of pot; 7.22  deep Volume: 2.25 gallon; 520.23 cu. inches 4-Strand matching plastic hanger measures 22  and easily snaps onto basket Manufactured in the USA by Landmark Plastics Inside saucer: Best used outdoors"
 asin="B09SGSTHMZ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="180"
 >}} 
 ## What do you fill hanging baskets with?

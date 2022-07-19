@@ -16,7 +16,7 @@ title="Hyperkin SmartBoy Mobile Device for Game Boy/ Game Boy Color (Android USB
 img="https://m.media-amazon.com/images/I/31pTyd4ik2L._SL500_.jpg"
 description="Plays GB and GBC cartridges, compatible with NTSC/ PAL cartridges Classic-style tactile button set, upscales to phone s resolution, does not require batteries Designed for Samsung s S8 line and up (other Android device compatibility may vary)* Phone Size: 5.2 - 6.4 inches, USB Type-C port The SmartBoy is compatible with other apps and games, including GBA apps from Google Play. Configuration for such apps may vary."
 asin="B072FRQZ65"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="451"
 >}} 
 ## What is the rarest Game Boy Color color?

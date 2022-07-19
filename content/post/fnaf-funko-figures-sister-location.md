@@ -16,7 +16,7 @@ title="Funko 2  Action Figure Five Nights at Freddy s Sister Location Set 1 Acti
 img="https://m.media-amazon.com/images/I/412fXyKkW0L._SL500_.jpg"
 description="From Five Nights at Freddy s, Sister Location 4 Pack Set 1, stylized 2 inch action figure 4 pack from Funko! Stylized collectables stand 2 inches tall, perfect for any Five Nights at Freddy s fan! Collect and display all Funko action figures!"
 asin="B06XGWQN8R"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="42"
 >}} 
 ## Who is Bonbon possessed by?

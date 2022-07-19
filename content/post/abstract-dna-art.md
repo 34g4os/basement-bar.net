@@ -18,7 +18,7 @@ title="Watercolor DNA Science Art Canvas Painting Abstract DNA Single Helix Prin
 img="https://m.media-amazon.com/images/I/419OCs76gSL._SL500_.jpg"
 description="Size - 12*15 inches. Framed. Ready to Hang. High-quality Materials - High-quality materials make this product more distinctive. Waterproof and UV resistant. Durable. The patterns and text will be more attractive on high-quality canvas materials. Easy to Install - This canvas art print is easy to install. Ready to Hang. Just a simple operation can add interest to your life. Wonderful Decoration - Our canvas art print products have a variety of themes and styles. You can choose a decorative product that suits your taste from a variety of options. Let them exude outstanding charm in spaces such as home, office, kitchen, living room, nursery, bathroom, dormitory, etc. Excellent Gift Ideas – This canvas art print is a great gift choice. You can give it to yourself, but also to your parents, friends, relatives, colleagues, partners, neighbors, children, etc. The bright colors and excellent pictures are sure to give the gift recipient an unparalleled surprise and happiness."
 asin="B09BJG5PKQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="76"
 >}} 
 {{< product 
@@ -26,7 +26,7 @@ title="ZHUOSHI Abstract Painting Modern Art Poster DNA Tree Human Medicine Rosal
 img="https://m.media-amazon.com/images/I/41yv-DN1ZNL._SL500_.jpg"
 description="There Are Frame and No Frame to Choose We pursue high quality canvas posters, which are better than paper posters. QUALITY: The product is made shortly after purchase. It is not stored in the warehouse because its color will be unsatisfactory due to the storage environment. They are always produced in our own manufacturing plants. DECORATION: TOP MODERN! Really eye-catching! Ideal for all modern graphic & photographic designs. Your wall / room gets very special lightness & beauty. Warranty: Your satisfaction is 100% guaranteed. If you are not satisfied with our print painting , pleae do no hesitate to contact us, we are willing to provide a full refund within 30 days after you received it."
 asin="B09GYB22V3"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1"
 >}} 
 {{< product 
@@ -34,7 +34,7 @@ title="Lunarable Abstract Apron, Science Physics DNA Molecule Formulas Atomic Ch
 img="https://m.media-amazon.com/images/I/51GHJ+orRBL._SL500_.jpg"
 description="Standard size - 31  long X 26  wide. Unisex bib. Durable & comfortable. Ideal for home and business. Features - Adjustable neck. Black ties. Size of each waist tie is 28 . Professionally hemmed edges. Made from - High quality %100 polyester fabric. Waterproof. Indoor and outdoor use. Versatile & Fun. Easy care - Machine Washable, Delicate Cycle. Long Lasting. No fading. Bold colors and clear image. Printed - with state of the art digital printing technology. Proudly designed & printed in the USA."
 asin="B077XK7F4K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="2014"
 >}} 
 ## Should I wear ankle brace if it hurts?

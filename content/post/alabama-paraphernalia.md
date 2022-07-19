@@ -18,7 +18,7 @@ title="YouTheFan NCAA Spirit Series 3pc BBQ Set , 22  x 9 "
 img="https://m.media-amazon.com/images/I/41xb1ik4pzL._SL500_.jpg"
 description="Unique Laser-cut design in heavy-duty stainless steel Team-colored composite handles with durable brass rivets Convenient, integrated bottle opener YouTheFan: officially licensed sports products specifically for you the fan- including StadiumViews, Fan Banners, Sportulas, Grill Sets, Boaster Drink Coasters, Puzzles and more for over 500 NFL, NCAA, NHL teams"
 asin="B01M2CJP1C"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -26,7 +26,7 @@ title="YouTheFan NCAA Alabama Crimson Tide #1 Oven Mitt"
 img="https://m.media-amazon.com/images/I/41MietmVwzL._SL500_.jpg"
 description="Heat resistant oven mitt Unique opposable thumb construction for a tight grip Right handed design YouTheFan: officially licensed sports products specifically for you the fan- including StadiumViews, Fan Banners, Sportulas, Grill Sets, Boaster Drink Coasters, Puzzles and more for over 500 NFL, NCAA, NHL teams"
 asin="B079K45MLP"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -34,7 +34,7 @@ title="Elephant Print Insulated Lunch Bag Tote (Burgundy Red)"
 img="https://m.media-amazon.com/images/I/51+ZL2sDHJL._SL500_.jpg"
 description="Size : 10.5w x 7h x 5.5d in. Material : Canvas Zipper Closure Insulated Lining Open Pocket on Front & Back"
 asin="B01COM59MU"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="99"
 >}} 
 ## Who won the national championship in 2021 score?

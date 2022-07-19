@@ -16,7 +16,7 @@ title="Michael Jordan: The Life"
 img="https://m.media-amazon.com/images/I/5106FvUkQyL._SL500_.jpg"
 description="Back Bay Books"
 asin="031619476X"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## Does Michael Jordan have an autobiography?

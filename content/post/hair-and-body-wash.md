@@ -25,7 +25,7 @@ title="Dial Men 3in1 Body Hair and Face Wash, Recharge, 69 Fl Oz (3-23 fl oz)"
 img="https://m.media-amazon.com/images/I/41tWgjzgKLL._SL500_.jpg"
 description="3-in-1 hair, body, & face body wash and shampoo in one handy bottle Revitalizing and hydrating body wash formula Caffeine and protein infused RICH LATHER: engineered to lather up rich and and clean deep without drying RECYCLABLE: Every Dial Men body wash bottle is 100% Recyclable, BPA-Free and made from 50% Post-Consumer Recycled Plastic"
 asin="B07Z7X5VCV"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="The Honest Company Perfectly Gentle Sweet Orange Vanilla Shampoo + Body W
 img="https://m.media-amazon.com/images/I/31o5QMA-+7L._SL500_.jpg"
 description="2-IN-1 FORMULA: This all-in-one baby shampoo body wash is designed to make parents’ lives easier. This baby wash is all you need for everyday bathing routines. It cleans, gently soothes, and nourishes babies’ skin & hair without over-drying. GENTLE, MILD, & TEAR-FREE: Gentle enough for daily use, this tear-free formula is made without sulfates or parabens. Our mild 2-in-1 formula is designed to clean the entire body from head to toe, leaving skin moisturized and hair soft and clean. PERFECTLY GENTLE SWEET ORANGE VANILLA: Our Sweet Orange Vanilla scent is one of our most popular sellers. Orange & vanilla extracts combined with nourishing botanicals leave skin feeling supremely soft & fresh. DERMATOLOGIST TESTED: Perfect for the whole family, our tear-free kids’ shampoo body wash with naturally derived ingredients provides a thick, creamy lather and cleans without over-drying, helping to keep skin feeling and looking healthy. HONEST PURPOSE: We love our babies. We love your babies. That’s why we err on the side of caution when it comes to ingredient selection, doing our best to avoid chemicals of concern. We use smart ingredients and create trusted products that work."
 asin="B00EHD9872"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Dial Men 3in1 Body, Hair and Face Wash, Ultimate Clean, 32 fl oz"
 img="https://m.media-amazon.com/images/I/41+-DbJfxJL._SL500_.jpg"
 description="MULTIBENEFIT: Dial Men 3-in-1 formula for your hair, body and face. One bottle, one solution for all your shower needs CLEAN RINSE TECHNOLOGY: For that just-showered feel, with a lather that rinses away clean without a filmy residue ALL DAY FRESH: Keeps you feeling and smelling fresh long after you ve showered RICH LATHER: Engineered to lather up rich and clean deep without drying RECYCLABLE: Every Dial Men body wash bottle is 100% Recyclable, BPA-Free and made from 50% Post-Consumer Recycled Plastic"
 asin="B00OO0D8TW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Dial Men 3in1 Body, Hair and Face Wash, Hydro Fresh, 32 fl oz"
 img="https://m.media-amazon.com/images/I/41R4uKaKU4L._SL500_.jpg"
 description="MULTIBENEFIT: Dial Men 3-in-1 formula for your hair, body and face. One bottle, one solution for all your shower needs CLEAN RINSE TECHNOLOGY: For that just-showered feel, with a lather that rinses away clean without a filmy residue ALL DAY FRESH: Keeps you feeling and smelling fresh long after you ve showered RICH LATHER: engineered to lather up rich and and clean deep without drying RECYCLABLE: Every Dial Men body wash bottle is 100% Recyclable, BPA-Free and made from 50% Post-Consumer Recycled Plastic"
 asin="B016TRTXXM"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="Everyone 3-in-1 Soap, Body Wash, Bubble Bath, Shampoo, 32 Ounce (Pack of 
 img="https://m.media-amazon.com/images/I/51JbCd55-ML._SL500_.jpg"
 description="Contains: (2) 32 Ounce 100% Recycled Plastic Bottles of Everyone 3in1 Coconut and Lemon Soap. For a limited time, you may receive either bottle while we update our packaging. New Look, Same Great Product Scent: Everyone 3in1 Coconut Lemon Soap combines the upbeat burst of lemon with the tropical relaxation of sweet coconut for a blend that will make you feel like you re on a tropical vacation. You’ll feel more energized, positive, and ready to seize the day Use: Our 3in1 Soap is a do-it-all cleanser that will give you a refresh from head to toe. Whether as a body wash, shampoo, or bubble bath, the aromatic brightness of lemon and the calming sweetness of coconut will engage your senses while gently nourishing your hair and skin Clean Promise: Everyone 3in1 Soap is EWG verified, GMO free, cruelty free, gluten free, triclosan free, and synthetic fragrance free Zero Waste Mission: In 2019, we diverted 90% of our waste from landfills. Our packaging is made from recycled material. We always use 100% recyclable packaging for order shipping, too"
 asin="B00L7S3FJ2"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="The Honest Company Shampoo + Body Wash, Lavender, 10 Fl. Oz"
 img="https://m.media-amazon.com/images/I/31qgvgy2-GL._SL500_.jpg"
 description="Gentle for baby Perfect for bedtime Dermatologist-tested Hypoallergenic No synthetic fragrances.Tear-free.Not tested on animals.No animal byproducts.Made With: Lavender Essential Oils plus Chamomile Extract.Made Without: Phthalates, parabens, dyes, synthetic fragrances, formaldehyde donors, SLS/SLES."
 asin="B01M4QMQ4B"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="51"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Suave Men 3in1 for Everyday Use Hair, Body and Face Wash Fragrance Bodywa
 img="https://m.media-amazon.com/images/I/31rUOCLN-ML._SL500_.jpg"
 description="Suave Men 3-in-1 hair and body wash that works hard and smells great! Fresh, manly scent in this 3 in 1 shampoo and body wash that doesn’t overpower A dual action shampoo and body wash - with just a hint of musk and sandalwood Shampoo and body wash with a rich lather that rinses clean. Easy hair and body care. Great for beards. Men s 3 in 1 shampoo and body wash that won’t leave your skin feeling dry Shampoo and body wash is great for everyday use, whether at home, at the gym or travelling"
 asin="B002WN2Y8O"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Dead Sea Collection Sandalwood Body Wash, Pack of 2 (67.6 Fl.Oz) 3 In 1 M
 img="https://m.media-amazon.com/images/I/41f4VAgxjcL._SL500_.jpg"
 description="A Natural Bath Experience- Enriched with dead sea minerals and pure sandalwood extract this men body wash is an essential for every self care enthusiast. We assure you a natural and luxurious bath experience with our carefully curated mens shower gel Hygiene Essential -Summers require you to make extra efforts for your hygiene with all the sweat and germs around. The dead sea s latest shower gel for men includes pure sandalwood extract that will leave your skin smooth and refreshed Upgraded & Improved Packaging - we have upgraded to improved packaging designed to fit our bulk body wash with pump, that comes with extra smooth movement and durable seal that keeps it from any breakage or leakage issues. Safe to deliver, convenient for travel Naturally Curated Bath Gel- Keep your skin refreshed with our cruelty free body wash for men specially formulated for men s skin. The combination of dead sea minerals with modern science keeps your skin moisture balanced and soothing with its healing properties Customer Service - We assure you a convenient shopping experience with 24/7 customer service regarding our body wash natural range. Please feel free to reach out to us in case of any query, confusion and complaint about our products"
 asin="B07T6JFX6W"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="563"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Dial Men 3in1 Body, Hair and Face Wash, Hydro Fresh, 20 fl oz (Pack of 4)
 img="https://m.media-amazon.com/images/I/51bbqwd51xL._SL500_.jpg"
 description="HAIR AND BODY WASH: Has dual action formula: cleans your hair and body. Leaves skin feeling fresh and clean MOISTURE BALANCE TECHNOLOGY: Moisturizing – Clean Rinsing - Rich Lather: Leaves Skin feeling clean, cool and smelling fresh CLEAN RINSING FORMULAS: Developed to rinse clean, which leaves skin hydrated without a filmy residue WASHES AWAY BACTERIA: Dial Body Wash is good for everyday washing and is formulated to wash away bacteria, keeping you feeling fresh and clean DEVELOPED FOR MEN: Bundle includes 4 bottles of 20 fluid gel ounces of body wash for a total of 80 ounces for a masculine smelling clean with hints of greens and fruity scents"
 asin="B07FYV6WS4"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Dial Professional Hair + Body Wash, 1 Gallon Refill Bottle (Pack of 4)"
 img="https://m.media-amazon.com/images/I/41DoTt07vpL._SL500_.jpg"
 description="Hypoallergenic and Dermatologist-Tested Clean Rinse Technology and Moisturizing Formula Clean Scent and Fresh Fragrance Notes Advanced Hydration: Rehydrates skin to help you feel refreshed Perfect for use in any facility including fitness clubs, spas and nursing homes"
 asin="B0040ZNWBA"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## Can you use 2-in-1 Shampoo and Conditioner every day?

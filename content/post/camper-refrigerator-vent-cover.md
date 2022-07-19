@@ -25,7 +25,7 @@ title="Ventmate 65529 Polar White Direct Replacement Dometic Refrigerator Old St
 img="https://m.media-amazon.com/images/I/41WdNlXjaML._SL500_.jpg"
 description="Made of high impact plastic UV stabilized Direct replacement for Dometic refrigerator vent lid Polar white color Old style lid"
 asin="B0085IJU6Y"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Dometic 3311236 Polar White Plastic Vent Roof"
 img="https://m.media-amazon.com/images/I/21gHhwYM0LL._SL500_.jpg"
 description="Weight: 3 lbs. Length: 27 inches Height: 7 inches Width: 12 inches"
 asin="B0058SQP9E"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="PARTSPLUS Dometic Refrigerator RV Roof Vent Lid Cover; Trailer Replacemen
 img="https://m.media-amazon.com/images/I/31hAcjpFU5L._SL500_.jpg"
 description="➨ UV Stabilized ➨ Made Of High Impact Plastic Construction ➨ Direct Replacement Lid For Domestic New Style Refrigerator Vents. ➨ Hello, this is for one brand new Refrigerator Vent Cover; Direct Replacement Lid For Dometic Refrigerator Vents; New Style; 27 Inch x 10-3/4 Inch; Polar White; Plastic; With Mounting Screws. 21-3/4 from hole to hole 4-1/4  from hole to hole please look at picture #3 ➨ Refrigerator Vent Lid, Polar White. Made of high impact plastic. UV stabilized. A direct replacement lid for Dometic new style refrigerator vents. Compatibility: Dometic Refrigerator Vents Length (IN): 27Inch Width (IN): 10-3/4 Inch Color: Polar White Material: Plastic With Solar Panel: No With Fan: No With Mounting Hardware: Yes"
 asin="B07Y63SF46"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="81"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Barker Manufacturing Company 12603 Plastic Roof Vent"
 img="https://m.media-amazon.com/images/I/315BdLup7DL._SL500_.jpg"
 description="Quality plastic construction guards against oxidation The patented bird and rodent screen will not rust or come apart Requires no assembly Approved by the American Gas Association 22 Inch Length x 9-3/4 Inch Width; Rectangular; Off White; Metal Base And Plastic Cover; With Base And Cover."
 asin="B002OVYJ0K"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="NORCOLD INC 621156BK Black Refrigerator Side Vent"
 img="https://m.media-amazon.com/images/I/41sRGiSaYzL._SL500_.jpg"
 description="Fit Type: Universal Fit, Great performance and reliability,Designed with unparalleled craftsmanship Package Dimensions: 60.96 H x 2.54 L x 41.91 W (centimeters) Country of Origin : China Package Weight: 1.111 kilograms"
 asin="B00BFU5HLQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Norcold (621156Polar White) Refrigerator Vent"
 img="https://m.media-amazon.com/images/I/41ZueZFVU7L._SL500_.jpg"
 description="Plastic side vent Made in United States Package Dimensions : 24.0 L x 2.0 H x 16.5 W (inches) Package Weight : 3.15 pounds"
 asin="B004RCSY1O"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="1585"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Camco RV and Trailer Refrigerator Roof Vent Cover for Dometic and Norcold
 img="https://m.media-amazon.com/images/I/31wN1hbq+2L._SL500_.jpg"
 description="Fits Dometic and newer Norcold bases Made from UV stabilized, durable polypropylene plastic Highly durable Easy to use Measures 34 x 10 x 3.5"
 asin="B00192KY22"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="Dometic Refrigerator vent lid cover only, polar white 3103634.022"
 img="https://m.media-amazon.com/images/I/31JizqQ3J7L._SL500_.jpg"
 description="Made Of High Impact Plastic Construction Direct Replacement Lid For Domestic New Style Refrigerator Vents. New Style; 27 Inch x 10-3/4 Inch; Polar White; Plastic; With Mounting Screws. 21-3/4 from hole to hole 4-1/4  from hole to hole."
 asin="B00A2TBMUQ"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="107"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Camco Flying Insect Screen for Dometic Refrigerator Vents - Protects from
 img="https://m.media-amazon.com/images/I/41Q1CPsxHyL._SL500_.jpg"
 description="Includes (3) screens measuring 20  x 1-1/2  Fits Dometic refrigerator vents which have 20  long louver openings Protects the refrigerator vents from flying insect nests Easy to install Heavy-duty stainless steel mesh cover"
 asin="B0024E6UE0"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Norcold Inc. Refrigerators 622293CBW Polar White Roof Vent Cap"
 img="https://m.media-amazon.com/images/I/31NaK1prY5L._SL500_.jpg"
 description="Vents & Catches Norcold Vent Cap White 622293Cbw Norcold Country of origin : China Package Dimensions : 33  L x 10.5  W x 3.5  H Package weight : 1.9 pounds"
 asin="B0031XQRNW"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 ## Do refrigerators need to be vented?

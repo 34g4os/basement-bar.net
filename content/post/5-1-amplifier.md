@@ -25,7 +25,7 @@ title="YAMAHA RX-V385 5.1-Channel 4K Ultra HD AV Receiver with Bluetooth"
 img="https://m.media-amazon.com/images/I/31caKtbIPmL._SL500_.jpg"
 description="5.1 channel powerful surround sound Bluetooth for wireless connectivity. Rated Output Power (1kHz, 1ch driven) 100W (8 ohms, 0.9% THD); Rated Output Power (20Hz 20kHz, 2ch driven) 70W (8 ohms, 0.09% THD); Maximum Effective Output Power (1kHz, 1ch driven) (Jeita) 145W (6 ohms, 10% THD) HDMI 2.1 with HDCP 2.2 (4 in/1 out) 4K Ultra HD support, HDR10, Dolby vision, hybrid log gamma and BT.2020 YPAO auto calibration technology for ideal sound, Exclusive Yamaha Cinema DSP technology supports playback of HD Audio (Dolby TrueHD, DTS HD Master Audio, etc.), providing natural and expansive sound imaging Providing complete compatibility with the latest HDMI standards, this AV receiver delivers transmission of 4K video at 60 frames/second pass through; It also supports HDR (High Dynamic Range) Video including Dolby Vision and Hybrid Log Gamma which provides incredible contrast, smooth tone and rich, bright colors"
 asin="B07BNXXJKB"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="12"
 >}} 
 {{< product 
@@ -33,7 +33,7 @@ title="Sony STRDH590 5.2 Channel Surround Sound Home Theater Receiver: 4K HDR AV
 img="https://m.media-amazon.com/images/I/31JPIuBBiwL._SL500_.jpg"
 description="Cinematic Sound at Home: Enjoy your favorite movies, TV shows and more with theater like sound in the comfort of your home Virtual Front Surround: S Force PRO delivers virtual surround sound with only a 2 speaker setup Smart Connectivity: Stream music and use Bluetooth Standby turn on the receiver from your phone Multi Function System: Enjoy a Multi Channel Stereo Setup, FM Radio Tuner and 1/4 Inches Headphone Jack Dynamic Setup: 4 Stereo Rca Audio Inputs and 2 Digital Audio Outputs (1 Optical and 1 Coaxial) In the box: Receivers include a calibration microphone, FM wire antenna, remote control, batteries NOTE: Scroll down the catalog to find installation Manual and User Guide for trouble shooting steps."
 asin="B078WG7HZY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -41,7 +41,7 @@ title="Denon AVR-S540BT Receiver, 5.2 channel, 4K Ultra HD Audio and Video, Home
 img="https://m.media-amazon.com/images/I/41TxIw3pjZL._SL500_.jpg"
 description="MAKE THE MOST OF YOUR 4K UHD TV – At 140W per channel, the Denon AVR-S540BT receiver delivers exceptional brightness and contrast, and supports HLG, HDR, BT.2020, Wide Color Gamut and 4:4:4 Pure Color sub-sampling for realistic display and immersive sound YOUR FAVORITE MUSIC AT YOUR FINGERTIPS - With built-in Bluetooth, play music from eight different devices, and create an integrated multi-room audio system with Denon HEOS LINK. Allows wireless music streaming from Spotify, TIDAL, Pandora and more OUR EASY ON-SCREEN SETUP ASSISTANT walks you through clear simple instructions to connect your TV, specific EQ settings and helps you optimize your surround sound FOUR QUICK SELECT BUTTONS ON THE FRONT PANEL help you store your preferred audio settings for television, Blu-Ray, and more, and allows you to switch between them quickly With its 100-year legacy and Japanese precision technology, Denon AV Receiver S540BT DELIVERS MULTI-DIMENSIONAL SURROUND SOUND with 5.2 channel compatibility and SUPPORTS 4K ULTRA HD PICTURE QUALITY, perfect for your home theater and entertainment system CONVENIENT CONTROL - Connect the AVR with your Smart TV Remote and access all your speaker sources and surround mode selections using just one remote, or download the Denon 500 Series Remote App for iOS and Android and control the AVR through your phone"
 asin="B07C49F2LD"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -49,7 +49,7 @@ title="Wireless Bluetooth Home Audio Amplifier - 100W 5 Channel Home Theater Pow
 img="https://m.media-amazon.com/images/I/41oLxK7wAQS._SL500_.jpg"
 description="100 WATT POWER: The Pyle 5 Channel HiFi Audio Amplifier w/ 100W peak power gives your entertainment system a boost. Offers low distortion w/ acoustically accurate audio reproduction, allowing you to enjoy crisp and high quality amplified audio BLUETOOTH CONNECTIVITY: The small personal integrated indoor stereo receiver is equipped with Bluetooth wireless music streaming. Works with today’s latest devices, including smartphones, tablets, laptops, computer w/ hassle free receiver pairing 4 INPUTS: The professional Hi Fi amp supports various external devices. Features RCA subwoofer output, AUX RCA L/R audio inputs, HDMI output plus 2 HDMI inputs, FM radio antenna input, 5 sets of spring loaded speaker terminal connectors FRONT CONTROL PANEL: The compact amplifier which features full range stereo sound reproduction has a built in LCD display w/ crisp buttons for the functions such as standby, tuner (minus/plus), surround, mute, input and a rotary control knob for the volume EQ CONTROLS: This multi purpose 5 channel compact home theater digital stereo receiver box features crisp buttons and rotary knob controls for audio adjustment. Includes 12V adapter and remote control for easy distant audio adjustments. Note: Refer to the PDF attached below in the Technical Specification for User Manual"
 asin="B01M9I1DO1"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -57,7 +57,7 @@ title="5.2-Channel Hi-Fi Bluetooth Stereo Amplifier - 1000 Watt AV Home Speaker 
 img="https://m.media-amazon.com/images/I/411xpKpKKcS._SL500_.jpg"
 description="5.2 Channel: The Pyle 5.2 Channel hi fi Home theater receiver is Perfect for Your Home Entertainment system; Gives you 1000 watts peak Power to be used for speakers and subwoofers with 4-16 ohms impedance, lets you enjoy high Quality amplified audio Bluetooth compatible: The Professional Integrated high Powered stereo receiver is equipped with Bluetooth wireless music streaming; Works with today’s latest devices including Smart phones, iPhone, iPad and computers with hassle Free receiver pairing 4K UHD TV Support: The AV digital amp box is equipped with 4K Ultra HD TV, 3D and Blu ray video pass through support with dedicated RCA subwoofer output; Connect and stream audio/video from external devices via USB, RCA, 3 HDMI, optical/digital audio Eq Controls: The Home amplifier with Bluetooth has 2 ¼” mic inputs with independent input source selection. Equipped with next Gen Audio DSP sound processing technology and controls for echo, bass, treble, microphone and volume adjustments Digital LCD Display: The Home theater surround sound receiver System has a built in LCD Display and AM/FM radio; Features front panel Control center and Integrated over current, short circuit and over voltage Protection; Includes remote Control"
 asin="B07V9YKCRN"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -65,7 +65,7 @@ title="Pioneer VSX-534 Home Audio Smart AV Receiver 5.2-Ch HDR10, Dolby Vision, 
 img="https://m.media-amazon.com/images/I/31QT7MeYCEL._SL500_.jpg"
 description="DTS:X PLAYBACK. Dolby Atmos and DTS:X is the next-generation audio codec from DTS that leverages object-based audio to enable new immersive and interactive audio experiences. BLUETOOTH COMPATIBLE. Seamlessly connect your phone, tablet or PC and stream to the receiver with Bluetooth Wireless Technology. This smart receiver remembers your device and starts playback whenever it detects an incoming Bluetooth audio stream. DOLBY ATMOS. Dolby Atmos Height Virtualizer provides an immersive listening experience, creating a virtual surround and height effect without employing additional surround or height speakers. 5.1.2ch Dolby Atmos. PERSONAL PRESET. Press the personal preset button on the front panel for three seconds and your current settings such as volume level and listening mode. Up to three presets can be registered and called up from the front panel button or remote control. RANGE CONTROL. With this unique mid-range sound control feature, you can make independent volume adjustments to the range including dialogues in films, with the up/down key on the remote control."
 asin="B07P8BCWKY"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="3263"
 >}} 
 {{< product 
@@ -73,7 +73,7 @@ title="Bluetooth Home Audio Amplifier System - Upgraded 6 Channel 750 Watt Wirel
 img="https://m.media-amazon.com/images/I/41I0APrZfiL._SL500_.jpg"
 description="POWERFUL 750 WATT: The Pyle 6-Channel Bluetooth Home Audio Amplifier gives you 750W peak power which can be used for multi speakers w/ 4-8 ohms impedance allowing you to enjoy high quality audio. Perfect for your PA and home theater entertainment BLUETOOTH CAPABLE: The personal portable digital amp box works with today’s latest devices including smartphones, tablets, laptops and computers as it is equipped with Bluetooth wireless music streaming with hassle-free receiver pairing MULTIPLE INPUTS: The integrated indoor stereo receiver supports iPod or MP3, USB, micro SD, AUX playback, built-in FM radio w/ digital LCD display, audio input and REC + subwoofer output RCA (L/R) connectors. Also features 2 ¼” microphone inputs MIC TALK-OVER FUNCTION: The professional sound amplifying device features a MIC talk-over function which when activated the current music or audio being played will be temporarily halted. This function is used in paging, voice-over, and announcements INTEGRATED EQUALIZER: The compact amplifier has crisp buttons for the audio sources and selectors, rotary knob for equalization, mic and master volume adjustments. A remote control is also included in the package for distant audio adjustments"
 asin="B07FK3G173"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -81,7 +81,7 @@ title="EPOS | Sennheiser GSX 1000 Gaming Audio Amplifier / External Sound Card, 
 img="https://m.media-amazon.com/images/I/31e1GG+tkPL._SL500_.jpg"
 description="Binaural Rendering Engine With 7.1 Surround - The Proprietary High-Tech Audio Engine Delivers Exceptional Spatial Awareness And Positional Game Audio. Delivers The Game Audio Details And Positional Audio Cues. Quick Setting Changes – Save Up To 4 Customized Sound Settings On The Led Touch Panel That Allows One-Touch Mode Switch, Also Between Headphone And Speaker Listening And Make Fast Adjustments With A Large Aluminum Volume Ring Eq Settings – Get Precise Control Of Your Game Audio With A Dedicated Dac Chip And Eq Presets. Specially Attuned Audio Presets For Competitive Gaming Focus And Balance Sound Frequencies Where They Are Needed Sidetone- Sidetone Control Lets You Adjust The Loudness Of Your Own Voice In Your Headset: You Know What You Are Saying, Tune In To Your Teammates."
 asin="B01LDTP484"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="386"
 >}} 
 {{< product 
@@ -89,7 +89,7 @@ title="Onkyo TX-SR494 AV Receiver with 4K Ultra HD | Dolby Atmos | DTS: X | Hi-R
 img="https://m.media-amazon.com/images/I/41LvjHe5zrL._SL500_.jpg"
 description="160 watts per channel Supports 4K/60p and HDR (HDR10, HLG, Dolby Vision, BT.2020) 5.2.2-ch Dolby Atmos and DTS:X playback Dolby Atmos Height Virtualizer* and DTS Virtual:X AccuEQ with subwoofer EQ and AccuReflex"
 asin="B07SX61VNT"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="70"
 >}} 
 {{< product 
@@ -97,7 +97,7 @@ title="Sonos Play: 5 - Ultimate Wireless Smart Speaker - Black"
 img="https://m.media-amazon.com/images/I/31DoS0ijXrL._SL500_.jpg"
 description="Our biggest and best-sounding speaker featuring six amplifiers with six dedicated speaker drivers. Fill even the largest rooms with pure, brilliant sound. Stereo pair for an even better sound experience. Play different songs in different rooms at the same time. Or, pump one song in perfect sync, throughout your home."
 asin="B014LFINIA"
-tag_id="xxxxxxxxxxxxxxxxxxx-21"
+tag_id="basement-bar-20"
 reviews="31"
 >}} 
 ## Do you need 5.1 for music?
